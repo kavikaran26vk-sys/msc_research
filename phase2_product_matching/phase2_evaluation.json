@@ -1,0 +1,29 @@
+{
+  "ground_truth_size": 100,
+  "methods": [
+    {
+      "method": "TF-IDF",
+      "precision": 0.5555555555555556,
+      "recall": 1.0,
+      "f1": 0.7142857142857143,
+      "threshold": 0.1
+    },
+    {
+      "method": "Sentence-BERT",
+      "precision": 0.5764705882352941,
+      "recall": 0.98,
+      "f1": 0.725925925925926,
+      "threshold": 0.8
+    },
+    {
+      "method": "LLM (GPT-4)",
+      "precision": 1.0,
+      "recall": 0.9,
+      "f1": 0.9473684210526315,
+      "threshold": "N/A"
+    }
+  ],
+  "best_method": "LLM (GPT-4)",
+  "clusters_generated": 233,
+  "multi_retailer_clusters": 7
+}

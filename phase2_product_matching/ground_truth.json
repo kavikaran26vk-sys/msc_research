@@ -1,0 +1,902 @@
+[
+  {
+    "product1_name": "HP 15s-fq5013na 15.6 Inch Intel Core i5 8GB RAM 256GB SSD Laptop",
+    "product2_name": "HP 15s-fq5013na Laptop 15.6\" i5-1235U 8GB 256GB SSD Silver",
+    "product1_text": "HP 15s-fq5013na 15.6 Inch Intel Core i5 8GB RAM 256GB SSD Laptop",
+    "product2_text": "HP 15s-fq5013na Laptop 15.6\" i5-1235U 8GB 256GB SSD Silver",
+    "product1_id": "SYN_POS_1",
+    "product2_id": "SYN_POS_2",
+    "label": 1
+  },
+  {
+    "product1_name": "HP Pavilion 15-eg3013na Intel Core i7 16GB 512GB SSD 15.6 Inch Laptop",
+    "product2_name": "HP Pavilion 15.6\" Laptop Intel i7 16GB RAM 512GB SSD",
+    "product1_text": "HP Pavilion 15-eg3013na Intel Core i7 16GB 512GB SSD 15.6 Inch Laptop",
+    "product2_text": "HP Pavilion 15.6\" Laptop Intel i7 16GB RAM 512GB SSD",
+    "product1_id": "SYN_POS_2",
+    "product2_id": "SYN_POS_3",
+    "label": 1
+  },
+  {
+    "product1_name": "HP 14-em0018na 14 Inch AMD Athlon Silver 4GB 128GB eMMC Laptop Black",
+    "product2_name": "HP 14-em0018na AMD Athlon 4GB 128GB 14\" Laptop - Black",
+    "product1_text": "HP 14-em0018na 14 Inch AMD Athlon Silver 4GB 128GB eMMC Laptop Black",
+    "product2_text": "HP 14-em0018na AMD Athlon 4GB 128GB 14\" Laptop - Black",
+    "product1_id": "SYN_POS_3",
+    "product2_id": "SYN_POS_4",
+    "label": 1
+  },
+  {
+    "product1_name": "HP Chromebook 14a 14 Inch Intel Celeron 4GB 64GB eMMC ChromeOS Laptop",
+    "product2_name": "HP Chromebook 14a-na0502sa Intel Celeron N4020 4GB 64GB ChromeOS",
+    "product1_text": "HP Chromebook 14a 14 Inch Intel Celeron 4GB 64GB eMMC ChromeOS Laptop",
+    "product2_text": "HP Chromebook 14a-na0502sa Intel Celeron N4020 4GB 64GB ChromeOS",
+    "product1_id": "SYN_POS_4",
+    "product2_id": "SYN_POS_5",
+    "label": 1
+  },
+  {
+    "product1_name": "HP Envy 16-h1014na Intel Core i9 32GB 1TB SSD RTX 4060 16 Inch Laptop",
+    "product2_name": "HP Envy 16 16.1\" i9 32GB RAM 1TB SSD NVIDIA RTX 4060 Laptop",
+    "product1_text": "HP Envy 16-h1014na Intel Core i9 32GB 1TB SSD RTX 4060 16 Inch Laptop",
+    "product2_text": "HP Envy 16 16.1\" i9 32GB RAM 1TB SSD NVIDIA RTX 4060 Laptop",
+    "product1_id": "SYN_POS_5",
+    "product2_id": "SYN_POS_6",
+    "label": 1
+  },
+  {
+    "product1_name": "HP Stream 14-ax0504sa Intel Celeron 4GB 64GB 14 Inch Windows 11 Laptop Blue",
+    "product2_name": "HP Stream 14\" Celeron N4020 4GB 64GB Windows 11 S Blue Laptop",
+    "product1_text": "HP Stream 14-ax0504sa Intel Celeron 4GB 64GB 14 Inch Windows 11 Laptop Blue",
+    "product2_text": "HP Stream 14\" Celeron N4020 4GB 64GB Windows 11 S Blue Laptop",
+    "product1_id": "SYN_POS_6",
+    "product2_id": "SYN_POS_7",
+    "label": 1
+  },
+  {
+    "product1_name": "HP 255 G9 AMD Ryzen 5 8GB 256GB SSD 15.6 Inch Windows 11 Laptop",
+    "product2_name": "HP 255 G9 Laptop 15.6\" Ryzen 5 5625U 8GB 256GB SSD Win11",
+    "product1_text": "HP 255 G9 AMD Ryzen 5 8GB 256GB SSD 15.6 Inch Windows 11 Laptop",
+    "product2_text": "HP 255 G9 Laptop 15.6\" Ryzen 5 5625U 8GB 256GB SSD Win11",
+    "product1_id": "SYN_POS_7",
+    "product2_id": "SYN_POS_8",
+    "label": 1
+  },
+  {
+    "product1_name": "HP EliteBook 840 G9 Intel Core i5 16GB 512GB SSD 14 Inch Laptop",
+    "product2_name": "HP EliteBook 840 G9 14\" i5-1235U 16GB 512GB SSD Business Laptop",
+    "product1_text": "HP EliteBook 840 G9 Intel Core i5 16GB 512GB SSD 14 Inch Laptop",
+    "product2_text": "HP EliteBook 840 G9 14\" i5-1235U 16GB 512GB SSD Business Laptop",
+    "product1_id": "SYN_POS_8",
+    "product2_id": "SYN_POS_9",
+    "label": 1
+  },
+  {
+    "product1_name": "HP Spectre x360 14-eu0003na Intel Core Ultra 7 16GB 1TB SSD 14 Inch 2-in-1",
+    "product2_name": "HP Spectre x360 14\" Ultra 7 16GB 1TB 2-in-1 Convertible Laptop",
+    "product1_text": "HP Spectre x360 14-eu0003na Intel Core Ultra 7 16GB 1TB SSD 14 Inch 2-in-1",
+    "product2_text": "HP Spectre x360 14\" Ultra 7 16GB 1TB 2-in-1 Convertible Laptop",
+    "product1_id": "SYN_POS_9",
+    "product2_id": "SYN_POS_10",
+    "label": 1
+  },
+  {
+    "product1_name": "HP Victus 15-fb1013na AMD Ryzen 5 8GB 512GB SSD RTX 3050 15.6 Inch Gaming Laptop",
+    "product2_name": "HP Victus 15.6\" Gaming Laptop Ryzen 5 8GB 512GB RTX 3050",
+    "product1_text": "HP Victus 15-fb1013na AMD Ryzen 5 8GB 512GB SSD RTX 3050 15.6 Inch Gaming Laptop",
+    "product2_text": "HP Victus 15.6\" Gaming Laptop Ryzen 5 8GB 512GB RTX 3050",
+    "product1_id": "SYN_POS_10",
+    "product2_id": "SYN_POS_11",
+    "label": 1
+  },
+  {
+    "product1_name": "Lenovo IdeaPad 3 15ALC6 AMD Ryzen 5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_name": "Lenovo IdeaPad 3 15.6\" AMD Ryzen 5 5500U 8GB 512GB Laptop",
+    "product1_text": "Lenovo IdeaPad 3 15ALC6 AMD Ryzen 5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_text": "Lenovo IdeaPad 3 15.6\" AMD Ryzen 5 5500U 8GB 512GB Laptop",
+    "product1_id": "SYN_POS_11",
+    "product2_id": "SYN_POS_12",
+    "label": 1
+  },
+  {
+    "product1_name": "Lenovo IdeaPad Slim 3 15IRU8 Intel Core i3 8GB 256GB SSD 15.6 Inch Laptop",
+    "product2_name": "Lenovo IdeaPad Slim 3 15.6\" i3-1305U 8GB 256GB Windows 11",
+    "product1_text": "Lenovo IdeaPad Slim 3 15IRU8 Intel Core i3 8GB 256GB SSD 15.6 Inch Laptop",
+    "product2_text": "Lenovo IdeaPad Slim 3 15.6\" i3-1305U 8GB 256GB Windows 11",
+    "product1_id": "SYN_POS_12",
+    "product2_id": "SYN_POS_13",
+    "label": 1
+  },
+  {
+    "product1_name": "Lenovo ThinkPad E15 Gen 4 Intel Core i5 16GB 512GB SSD 15.6 Inch Laptop",
+    "product2_name": "Lenovo ThinkPad E15 G4 15.6\" i5-1235U 16GB 512GB Business Laptop",
+    "product1_text": "Lenovo ThinkPad E15 Gen 4 Intel Core i5 16GB 512GB SSD 15.6 Inch Laptop",
+    "product2_text": "Lenovo ThinkPad E15 G4 15.6\" i5-1235U 16GB 512GB Business Laptop",
+    "product1_id": "SYN_POS_13",
+    "product2_id": "SYN_POS_14",
+    "label": 1
+  },
+  {
+    "product1_name": "Lenovo Legion 5 15ACH6H AMD Ryzen 7 16GB 512GB SSD RTX 3070 15.6 Inch Gaming",
+    "product2_name": "Lenovo Legion 5 15.6\" Gaming Ryzen 7 16GB 512GB RTX 3070",
+    "product1_text": "Lenovo Legion 5 15ACH6H AMD Ryzen 7 16GB 512GB SSD RTX 3070 15.6 Inch Gaming",
+    "product2_text": "Lenovo Legion 5 15.6\" Gaming Ryzen 7 16GB 512GB RTX 3070",
+    "product1_id": "SYN_POS_14",
+    "product2_id": "SYN_POS_15",
+    "label": 1
+  },
+  {
+    "product1_name": "Lenovo IdeaPad 1 15ALC7 AMD Ryzen 3 8GB 256GB SSD 15.6 Inch Laptop",
+    "product2_name": "Lenovo IdeaPad 1 15.6\" Ryzen 3 7320U 8GB 256GB Win11 Laptop",
+    "product1_text": "Lenovo IdeaPad 1 15ALC7 AMD Ryzen 3 8GB 256GB SSD 15.6 Inch Laptop",
+    "product2_text": "Lenovo IdeaPad 1 15.6\" Ryzen 3 7320U 8GB 256GB Win11 Laptop",
+    "product1_id": "SYN_POS_15",
+    "product2_id": "SYN_POS_16",
+    "label": 1
+  },
+  {
+    "product1_name": "Lenovo Yoga 7 14IRL8 Intel Core i5 16GB 512GB SSD 14 Inch 2-in-1 Laptop",
+    "product2_name": "Lenovo Yoga 7 14\" 2-in-1 i5-1335U 16GB 512GB Touch Laptop",
+    "product1_text": "Lenovo Yoga 7 14IRL8 Intel Core i5 16GB 512GB SSD 14 Inch 2-in-1 Laptop",
+    "product2_text": "Lenovo Yoga 7 14\" 2-in-1 i5-1335U 16GB 512GB Touch Laptop",
+    "product1_id": "SYN_POS_16",
+    "product2_id": "SYN_POS_17",
+    "label": 1
+  },
+  {
+    "product1_name": "Lenovo V15 G4 AMN AMD Ryzen 3 8GB 256GB SSD 15.6 Inch Business Laptop",
+    "product2_name": "Lenovo V15 Gen 4 15.6\" AMD Ryzen 3 7320U 8GB 256GB Laptop",
+    "product1_text": "Lenovo V15 G4 AMN AMD Ryzen 3 8GB 256GB SSD 15.6 Inch Business Laptop",
+    "product2_text": "Lenovo V15 Gen 4 15.6\" AMD Ryzen 3 7320U 8GB 256GB Laptop",
+    "product1_id": "SYN_POS_17",
+    "product2_id": "SYN_POS_18",
+    "label": 1
+  },
+  {
+    "product1_name": "Lenovo IdeaPad Gaming 3 15ACH6 AMD Ryzen 5 8GB 512GB RTX 3050 Ti 15.6 Inch",
+    "product2_name": "Lenovo IdeaPad Gaming 3 15.6\" Ryzen 5 5600H 8GB 512GB RTX 3050 Ti",
+    "product1_text": "Lenovo IdeaPad Gaming 3 15ACH6 AMD Ryzen 5 8GB 512GB RTX 3050 Ti 15.6 Inch",
+    "product2_text": "Lenovo IdeaPad Gaming 3 15.6\" Ryzen 5 5600H 8GB 512GB RTX 3050 Ti",
+    "product1_id": "SYN_POS_18",
+    "product2_id": "SYN_POS_19",
+    "label": 1
+  },
+  {
+    "product1_name": "Lenovo ThinkBook 15 G4 IML Intel Core i5 16GB 512GB SSD 15.6 Inch Laptop",
+    "product2_name": "Lenovo ThinkBook 15 G4 15.6\" i5-1235U 16GB 512GB Business Laptop",
+    "product1_text": "Lenovo ThinkBook 15 G4 IML Intel Core i5 16GB 512GB SSD 15.6 Inch Laptop",
+    "product2_text": "Lenovo ThinkBook 15 G4 15.6\" i5-1235U 16GB 512GB Business Laptop",
+    "product1_id": "SYN_POS_19",
+    "product2_id": "SYN_POS_20",
+    "label": 1
+  },
+  {
+    "product1_name": "Lenovo IdeaPad Flex 5 14IAU7 Intel Core i5 8GB 512GB SSD 14 Inch 2-in-1",
+    "product2_name": "Lenovo IdeaPad Flex 5 14\" i5-1235U 8GB 512GB 2-in-1 Convertible",
+    "product1_text": "Lenovo IdeaPad Flex 5 14IAU7 Intel Core i5 8GB 512GB SSD 14 Inch 2-in-1",
+    "product2_text": "Lenovo IdeaPad Flex 5 14\" i5-1235U 8GB 512GB 2-in-1 Convertible",
+    "product1_id": "SYN_POS_20",
+    "product2_id": "SYN_POS_21",
+    "label": 1
+  },
+  {
+    "product1_name": "Acer Aspire 5 A515-57 Intel Core i5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_name": "Acer Aspire 5 15.6\" i5-12450H 8GB 512GB SSD Silver Laptop",
+    "product1_text": "Acer Aspire 5 A515-57 Intel Core i5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_text": "Acer Aspire 5 15.6\" i5-12450H 8GB 512GB SSD Silver Laptop",
+    "product1_id": "SYN_POS_21",
+    "product2_id": "SYN_POS_22",
+    "label": 1
+  },
+  {
+    "product1_name": "Acer Swift 3 SF314-512 Intel Core i5 8GB 512GB SSD 14 Inch Laptop Silver",
+    "product2_name": "Acer Swift 3 14\" Intel i5-1240P 8GB 512GB SSD Laptop",
+    "product1_text": "Acer Swift 3 SF314-512 Intel Core i5 8GB 512GB SSD 14 Inch Laptop Silver",
+    "product2_text": "Acer Swift 3 14\" Intel i5-1240P 8GB 512GB SSD Laptop",
+    "product1_id": "SYN_POS_22",
+    "product2_id": "SYN_POS_23",
+    "label": 1
+  },
+  {
+    "product1_name": "Acer Nitro 5 AN515-58 Intel Core i5 16GB 512GB RTX 3050 15.6 Inch Gaming",
+    "product2_name": "Acer Nitro 5 15.6\" Gaming i5-12500H 16GB 512GB RTX 3050",
+    "product1_text": "Acer Nitro 5 AN515-58 Intel Core i5 16GB 512GB RTX 3050 15.6 Inch Gaming",
+    "product2_text": "Acer Nitro 5 15.6\" Gaming i5-12500H 16GB 512GB RTX 3050",
+    "product1_id": "SYN_POS_23",
+    "product2_id": "SYN_POS_24",
+    "label": 1
+  },
+  {
+    "product1_name": "Acer Chromebook 315 CB315-4HT Intel Celeron 4GB 128GB eMMC 15.6 Inch ChromeOS",
+    "product2_name": "Acer Chromebook 315 15.6\" Celeron N4500 4GB 128GB ChromeOS Touch",
+    "product1_text": "Acer Chromebook 315 CB315-4HT Intel Celeron 4GB 128GB eMMC 15.6 Inch ChromeOS",
+    "product2_text": "Acer Chromebook 315 15.6\" Celeron N4500 4GB 128GB ChromeOS Touch",
+    "product1_id": "SYN_POS_24",
+    "product2_id": "SYN_POS_25",
+    "label": 1
+  },
+  {
+    "product1_name": "Acer Aspire 3 A315-58 Intel Core i3 8GB 256GB SSD 15.6 Inch Laptop",
+    "product2_name": "Acer Aspire 3 15.6\" i3-1115G4 8GB 256GB SSD Windows 11 Laptop",
+    "product1_text": "Acer Aspire 3 A315-58 Intel Core i3 8GB 256GB SSD 15.6 Inch Laptop",
+    "product2_text": "Acer Aspire 3 15.6\" i3-1115G4 8GB 256GB SSD Windows 11 Laptop",
+    "product1_id": "SYN_POS_25",
+    "product2_id": "SYN_POS_26",
+    "label": 1
+  },
+  {
+    "product1_name": "Acer TravelMate P2 TMP215-54 Intel Core i5 16GB 512GB SSD 15.6 Inch Laptop",
+    "product2_name": "Acer TravelMate P2 15.6\" i5-1235U 16GB 512GB Business Laptop",
+    "product1_text": "Acer TravelMate P2 TMP215-54 Intel Core i5 16GB 512GB SSD 15.6 Inch Laptop",
+    "product2_text": "Acer TravelMate P2 15.6\" i5-1235U 16GB 512GB Business Laptop",
+    "product1_id": "SYN_POS_26",
+    "product2_id": "SYN_POS_27",
+    "label": 1
+  },
+  {
+    "product1_name": "Acer Predator Helios 300 PH315-55 Intel Core i7 16GB 512GB RTX 3060 15.6 Inch",
+    "product2_name": "Acer Predator Helios 300 15.6\" i7-12700H 16GB 512GB RTX 3060 Gaming",
+    "product1_text": "Acer Predator Helios 300 PH315-55 Intel Core i7 16GB 512GB RTX 3060 15.6 Inch",
+    "product2_text": "Acer Predator Helios 300 15.6\" i7-12700H 16GB 512GB RTX 3060 Gaming",
+    "product1_id": "SYN_POS_27",
+    "product2_id": "SYN_POS_28",
+    "label": 1
+  },
+  {
+    "product1_name": "Acer Swift Go 14 SFG14-71 Intel Core i5 16GB 512GB SSD 14 Inch OLED Laptop",
+    "product2_name": "Acer Swift Go 14 14\" OLED i5-1335U 16GB 512GB Laptop",
+    "product1_text": "Acer Swift Go 14 SFG14-71 Intel Core i5 16GB 512GB SSD 14 Inch OLED Laptop",
+    "product2_text": "Acer Swift Go 14 14\" OLED i5-1335U 16GB 512GB Laptop",
+    "product1_id": "SYN_POS_28",
+    "product2_id": "SYN_POS_29",
+    "label": 1
+  },
+  {
+    "product1_name": "Acer Aspire Vero AV15-52 Intel Core i5 16GB 512GB 15.6 Inch Eco Laptop",
+    "product2_name": "Acer Aspire Vero 15.6\" i5-1155G7 16GB 512GB Eco-Friendly Laptop",
+    "product1_text": "Acer Aspire Vero AV15-52 Intel Core i5 16GB 512GB 15.6 Inch Eco Laptop",
+    "product2_text": "Acer Aspire Vero 15.6\" i5-1155G7 16GB 512GB Eco-Friendly Laptop",
+    "product1_id": "SYN_POS_29",
+    "product2_id": "SYN_POS_30",
+    "label": 1
+  },
+  {
+    "product1_name": "Acer Extensa 15 EX215-54 Intel Core i5 8GB 256GB SSD 15.6 Inch Laptop",
+    "product2_name": "Acer Extensa 15 15.6\" i5-1135G7 8GB 256GB SSD Win11 Laptop",
+    "product1_text": "Acer Extensa 15 EX215-54 Intel Core i5 8GB 256GB SSD 15.6 Inch Laptop",
+    "product2_text": "Acer Extensa 15 15.6\" i5-1135G7 8GB 256GB SSD Win11 Laptop",
+    "product1_id": "SYN_POS_30",
+    "product2_id": "SYN_POS_31",
+    "label": 1
+  },
+  {
+    "product1_name": "Dell Inspiron 15 3525 AMD Ryzen 5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_name": "Dell Inspiron 15 3525 15.6\" Ryzen 5 5625U 8GB 512GB Windows 11",
+    "product1_text": "Dell Inspiron 15 3525 AMD Ryzen 5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_text": "Dell Inspiron 15 3525 15.6\" Ryzen 5 5625U 8GB 512GB Windows 11",
+    "product1_id": "SYN_POS_31",
+    "product2_id": "SYN_POS_32",
+    "label": 1
+  },
+  {
+    "product1_name": "Dell Inspiron 14 5425 AMD Ryzen 7 16GB 512GB SSD 14 Inch Laptop",
+    "product2_name": "Dell Inspiron 14 5425 14\" Ryzen 7 5825U 16GB 512GB Laptop",
+    "product1_text": "Dell Inspiron 14 5425 AMD Ryzen 7 16GB 512GB SSD 14 Inch Laptop",
+    "product2_text": "Dell Inspiron 14 5425 14\" Ryzen 7 5825U 16GB 512GB Laptop",
+    "product1_id": "SYN_POS_32",
+    "product2_id": "SYN_POS_33",
+    "label": 1
+  },
+  {
+    "product1_name": "Dell XPS 13 9315 Intel Core i7 16GB 512GB SSD 13.4 Inch Laptop",
+    "product2_name": "Dell XPS 13 9315 13.4\" i7-1250U 16GB 512GB SSD Silver",
+    "product1_text": "Dell XPS 13 9315 Intel Core i7 16GB 512GB SSD 13.4 Inch Laptop",
+    "product2_text": "Dell XPS 13 9315 13.4\" i7-1250U 16GB 512GB SSD Silver",
+    "product1_id": "SYN_POS_33",
+    "product2_id": "SYN_POS_34",
+    "label": 1
+  },
+  {
+    "product1_name": "Dell Vostro 15 3525 AMD Ryzen 5 8GB 256GB SSD 15.6 Inch Business Laptop",
+    "product2_name": "Dell Vostro 3525 15.6\" Ryzen 5 5625U 8GB 256GB Business Laptop",
+    "product1_text": "Dell Vostro 15 3525 AMD Ryzen 5 8GB 256GB SSD 15.6 Inch Business Laptop",
+    "product2_text": "Dell Vostro 3525 15.6\" Ryzen 5 5625U 8GB 256GB Business Laptop",
+    "product1_id": "SYN_POS_34",
+    "product2_id": "SYN_POS_35",
+    "label": 1
+  },
+  {
+    "product1_name": "Dell G15 5525 AMD Ryzen 7 16GB 512GB RTX 3060 15.6 Inch Gaming Laptop",
+    "product2_name": "Dell G15 5525 Gaming 15.6\" Ryzen 7 6800H 16GB 512GB RTX 3060",
+    "product1_text": "Dell G15 5525 AMD Ryzen 7 16GB 512GB RTX 3060 15.6 Inch Gaming Laptop",
+    "product2_text": "Dell G15 5525 Gaming 15.6\" Ryzen 7 6800H 16GB 512GB RTX 3060",
+    "product1_id": "SYN_POS_35",
+    "product2_id": "SYN_POS_36",
+    "label": 1
+  },
+  {
+    "product1_name": "Asus VivoBook 15 X1502ZA Intel Core i5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_name": "Asus VivoBook 15 15.6\" i5-12500H 8GB 512GB SSD Laptop",
+    "product1_text": "Asus VivoBook 15 X1502ZA Intel Core i5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_text": "Asus VivoBook 15 15.6\" i5-12500H 8GB 512GB SSD Laptop",
+    "product1_id": "SYN_POS_36",
+    "product2_id": "SYN_POS_37",
+    "label": 1
+  },
+  {
+    "product1_name": "Asus ZenBook 14 UX425EA Intel Core i7 16GB 512GB SSD 14 Inch Laptop",
+    "product2_name": "Asus ZenBook 14 14\" i7-1165G7 16GB 512GB SSD Pine Grey",
+    "product1_text": "Asus ZenBook 14 UX425EA Intel Core i7 16GB 512GB SSD 14 Inch Laptop",
+    "product2_text": "Asus ZenBook 14 14\" i7-1165G7 16GB 512GB SSD Pine Grey",
+    "product1_id": "SYN_POS_37",
+    "product2_id": "SYN_POS_38",
+    "label": 1
+  },
+  {
+    "product1_name": "Asus ROG Strix G15 G513QM AMD Ryzen 7 16GB 512GB RTX 3060 15.6 Inch Gaming",
+    "product2_name": "Asus ROG Strix G15 15.6\" Ryzen 7 5800H 16GB 512GB RTX 3060 Gaming",
+    "product1_text": "Asus ROG Strix G15 G513QM AMD Ryzen 7 16GB 512GB RTX 3060 15.6 Inch Gaming",
+    "product2_text": "Asus ROG Strix G15 15.6\" Ryzen 7 5800H 16GB 512GB RTX 3060 Gaming",
+    "product1_id": "SYN_POS_38",
+    "product2_id": "SYN_POS_39",
+    "label": 1
+  },
+  {
+    "product1_name": "Asus Chromebook CX1 CX1400CNA Intel Celeron 4GB 64GB eMMC 14 Inch ChromeOS",
+    "product2_name": "Asus Chromebook CX1 14\" Celeron N3350 4GB 64GB ChromeOS Laptop",
+    "product1_text": "Asus Chromebook CX1 CX1400CNA Intel Celeron 4GB 64GB eMMC 14 Inch ChromeOS",
+    "product2_text": "Asus Chromebook CX1 14\" Celeron N3350 4GB 64GB ChromeOS Laptop",
+    "product1_id": "SYN_POS_39",
+    "product2_id": "SYN_POS_40",
+    "label": 1
+  },
+  {
+    "product1_name": "Asus TUF Gaming A15 FA507NV AMD Ryzen 7 16GB 512GB RTX 4060 15.6 Inch",
+    "product2_name": "Asus TUF Gaming A15 15.6\" Ryzen 7 7735HS 16GB 512GB RTX 4060",
+    "product1_text": "Asus TUF Gaming A15 FA507NV AMD Ryzen 7 16GB 512GB RTX 4060 15.6 Inch",
+    "product2_text": "Asus TUF Gaming A15 15.6\" Ryzen 7 7735HS 16GB 512GB RTX 4060",
+    "product1_id": "SYN_POS_40",
+    "product2_id": "SYN_POS_41",
+    "label": 1
+  },
+  {
+    "product1_name": "Apple MacBook Air M2 8GB 256GB SSD 13.6 Inch macOS Laptop Midnight",
+    "product2_name": "Apple MacBook Air 13.6\" M2 Chip 8GB 256GB SSD Midnight",
+    "product1_text": "Apple MacBook Air M2 8GB 256GB SSD 13.6 Inch macOS Laptop Midnight",
+    "product2_text": "Apple MacBook Air 13.6\" M2 Chip 8GB 256GB SSD Midnight",
+    "product1_id": "SYN_POS_41",
+    "product2_id": "SYN_POS_42",
+    "label": 1
+  },
+  {
+    "product1_name": "Apple MacBook Pro M3 8GB 512GB SSD 14.2 Inch macOS Laptop Space Grey",
+    "product2_name": "Apple MacBook Pro 14\" M3 8GB 512GB SSD Space Grey",
+    "product1_text": "Apple MacBook Pro M3 8GB 512GB SSD 14.2 Inch macOS Laptop Space Grey",
+    "product2_text": "Apple MacBook Pro 14\" M3 8GB 512GB SSD Space Grey",
+    "product1_id": "SYN_POS_42",
+    "product2_id": "SYN_POS_43",
+    "label": 1
+  },
+  {
+    "product1_name": "Samsung Galaxy Book3 Intel Core i5 8GB 256GB SSD 15.6 Inch Windows 11 Laptop",
+    "product2_name": "Samsung Galaxy Book3 15.6\" i5-1335U 8GB 256GB Win11 Laptop",
+    "product1_text": "Samsung Galaxy Book3 Intel Core i5 8GB 256GB SSD 15.6 Inch Windows 11 Laptop",
+    "product2_text": "Samsung Galaxy Book3 15.6\" i5-1335U 8GB 256GB Win11 Laptop",
+    "product1_id": "SYN_POS_43",
+    "product2_id": "SYN_POS_44",
+    "label": 1
+  },
+  {
+    "product1_name": "MSI Modern 15 B12M Intel Core i5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_name": "MSI Modern 15 15.6\" i5-1235U 8GB 512GB SSD Business Laptop",
+    "product1_text": "MSI Modern 15 B12M Intel Core i5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_text": "MSI Modern 15 15.6\" i5-1235U 8GB 512GB SSD Business Laptop",
+    "product1_id": "SYN_POS_44",
+    "product2_id": "SYN_POS_45",
+    "label": 1
+  },
+  {
+    "product1_name": "MSI GF63 Thin 12UC Intel Core i5 8GB 512GB RTX 3050 15.6 Inch Gaming Laptop",
+    "product2_name": "MSI GF63 Thin 15.6\" i5-12450H 8GB 512GB RTX 3050 Gaming",
+    "product1_text": "MSI GF63 Thin 12UC Intel Core i5 8GB 512GB RTX 3050 15.6 Inch Gaming Laptop",
+    "product2_text": "MSI GF63 Thin 15.6\" i5-12450H 8GB 512GB RTX 3050 Gaming",
+    "product1_id": "SYN_POS_45",
+    "product2_id": "SYN_POS_46",
+    "label": 1
+  },
+  {
+    "product1_name": "Asus VivoBook 16 M1603QA AMD Ryzen 5 8GB 512GB SSD 16 Inch Laptop",
+    "product2_name": "Asus VivoBook 16 16\" Ryzen 5 5600H 8GB 512GB SSD Laptop",
+    "product1_text": "Asus VivoBook 16 M1603QA AMD Ryzen 5 8GB 512GB SSD 16 Inch Laptop",
+    "product2_text": "Asus VivoBook 16 16\" Ryzen 5 5600H 8GB 512GB SSD Laptop",
+    "product1_id": "SYN_POS_46",
+    "product2_id": "SYN_POS_47",
+    "label": 1
+  },
+  {
+    "product1_name": "Dell Inspiron 16 5625 AMD Ryzen 7 16GB 1TB SSD 16 Inch Laptop",
+    "product2_name": "Dell Inspiron 16 5625 16\" Ryzen 7 5825U 16GB 1TB Laptop",
+    "product1_text": "Dell Inspiron 16 5625 AMD Ryzen 7 16GB 1TB SSD 16 Inch Laptop",
+    "product2_text": "Dell Inspiron 16 5625 16\" Ryzen 7 5825U 16GB 1TB Laptop",
+    "product1_id": "SYN_POS_47",
+    "product2_id": "SYN_POS_48",
+    "label": 1
+  },
+  {
+    "product1_name": "Lenovo ThinkPad X1 Carbon Gen 11 Intel Core i7 16GB 512GB 14 Inch Laptop",
+    "product2_name": "Lenovo ThinkPad X1 Carbon G11 14\" i7-1365U 16GB 512GB Business",
+    "product1_text": "Lenovo ThinkPad X1 Carbon Gen 11 Intel Core i7 16GB 512GB 14 Inch Laptop",
+    "product2_text": "Lenovo ThinkPad X1 Carbon G11 14\" i7-1365U 16GB 512GB Business",
+    "product1_id": "SYN_POS_48",
+    "product2_id": "SYN_POS_49",
+    "label": 1
+  },
+  {
+    "product1_name": "HP ProBook 450 G9 Intel Core i5 16GB 512GB SSD 15.6 Inch Business Laptop",
+    "product2_name": "HP ProBook 450 G9 15.6\" i5-1235U 16GB 512GB Business Laptop",
+    "product1_text": "HP ProBook 450 G9 Intel Core i5 16GB 512GB SSD 15.6 Inch Business Laptop",
+    "product2_text": "HP ProBook 450 G9 15.6\" i5-1235U 16GB 512GB Business Laptop",
+    "product1_id": "SYN_POS_49",
+    "product2_id": "SYN_POS_50",
+    "label": 1
+  },
+  {
+    "product1_name": "Acer Swift X SFX16-51G Intel Core i7 16GB 512GB RTX 3050 Ti 16 Inch Laptop",
+    "product2_name": "Acer Swift X 16\" i7-11390H 16GB 512GB RTX 3050 Ti Creator Laptop",
+    "product1_text": "Acer Swift X SFX16-51G Intel Core i7 16GB 512GB RTX 3050 Ti 16 Inch Laptop",
+    "product2_text": "Acer Swift X 16\" i7-11390H 16GB 512GB RTX 3050 Ti Creator Laptop",
+    "product1_id": "SYN_POS_50",
+    "product2_id": "SYN_POS_51",
+    "label": 1
+  },
+  {
+    "product1_name": "HP Pavilion 15 Intel Core i5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_name": "HP Pavilion 15 Intel Core i5 16GB 512GB SSD 15.6 Inch Laptop",
+    "product1_text": "HP Pavilion 15 Intel Core i5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_text": "HP Pavilion 15 Intel Core i5 16GB 512GB SSD 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_51",
+    "product2_id": "SYN_NEG_52",
+    "label": 0
+  },
+  {
+    "product1_name": "Lenovo IdeaPad 3 AMD Ryzen 5 8GB 256GB 15.6 Inch Laptop",
+    "product2_name": "Lenovo IdeaPad 3 AMD Ryzen 5 16GB 256GB 15.6 Inch Laptop",
+    "product1_text": "Lenovo IdeaPad 3 AMD Ryzen 5 8GB 256GB 15.6 Inch Laptop",
+    "product2_text": "Lenovo IdeaPad 3 AMD Ryzen 5 16GB 256GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_52",
+    "product2_id": "SYN_NEG_53",
+    "label": 0
+  },
+  {
+    "product1_name": "Acer Aspire 5 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product2_name": "Acer Aspire 5 Intel Core i5 16GB 512GB 15.6 Inch Laptop",
+    "product1_text": "Acer Aspire 5 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product2_text": "Acer Aspire 5 Intel Core i5 16GB 512GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_53",
+    "product2_id": "SYN_NEG_54",
+    "label": 0
+  },
+  {
+    "product1_name": "Dell Inspiron 15 AMD Ryzen 5 4GB 256GB 15.6 Inch Laptop",
+    "product2_name": "Dell Inspiron 15 AMD Ryzen 5 8GB 256GB 15.6 Inch Laptop",
+    "product1_text": "Dell Inspiron 15 AMD Ryzen 5 4GB 256GB 15.6 Inch Laptop",
+    "product2_text": "Dell Inspiron 15 AMD Ryzen 5 8GB 256GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_54",
+    "product2_id": "SYN_NEG_55",
+    "label": 0
+  },
+  {
+    "product1_name": "Asus VivoBook 15 Intel Core i3 4GB 128GB 15.6 Inch Laptop",
+    "product2_name": "Asus VivoBook 15 Intel Core i3 8GB 128GB 15.6 Inch Laptop",
+    "product1_text": "Asus VivoBook 15 Intel Core i3 4GB 128GB 15.6 Inch Laptop",
+    "product2_text": "Asus VivoBook 15 Intel Core i3 8GB 128GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_55",
+    "product2_id": "SYN_NEG_56",
+    "label": 0
+  },
+  {
+    "product1_name": "HP 15s Intel Core i5 8GB 256GB SSD 15.6 Inch Laptop Silver",
+    "product2_name": "HP 15s Intel Core i5 8GB 512GB SSD 15.6 Inch Laptop Silver",
+    "product1_text": "HP 15s Intel Core i5 8GB 256GB SSD 15.6 Inch Laptop Silver",
+    "product2_text": "HP 15s Intel Core i5 8GB 512GB SSD 15.6 Inch Laptop Silver",
+    "product1_id": "SYN_NEG_56",
+    "product2_id": "SYN_NEG_57",
+    "label": 0
+  },
+  {
+    "product1_name": "Lenovo IdeaPad 1 AMD Ryzen 3 8GB 256GB SSD 15.6 Inch Laptop",
+    "product2_name": "Lenovo IdeaPad 1 AMD Ryzen 3 8GB 512GB SSD 15.6 Inch Laptop",
+    "product1_text": "Lenovo IdeaPad 1 AMD Ryzen 3 8GB 256GB SSD 15.6 Inch Laptop",
+    "product2_text": "Lenovo IdeaPad 1 AMD Ryzen 3 8GB 512GB SSD 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_57",
+    "product2_id": "SYN_NEG_58",
+    "label": 0
+  },
+  {
+    "product1_name": "Acer Aspire 3 Intel Core i3 8GB 128GB SSD 15.6 Inch Laptop",
+    "product2_name": "Acer Aspire 3 Intel Core i3 8GB 512GB SSD 15.6 Inch Laptop",
+    "product1_text": "Acer Aspire 3 Intel Core i3 8GB 128GB SSD 15.6 Inch Laptop",
+    "product2_text": "Acer Aspire 3 Intel Core i3 8GB 512GB SSD 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_58",
+    "product2_id": "SYN_NEG_59",
+    "label": 0
+  },
+  {
+    "product1_name": "Dell Vostro 15 Intel Core i5 8GB 256GB SSD Business Laptop",
+    "product2_name": "Dell Vostro 15 Intel Core i5 8GB 1TB SSD Business Laptop",
+    "product1_text": "Dell Vostro 15 Intel Core i5 8GB 256GB SSD Business Laptop",
+    "product2_text": "Dell Vostro 15 Intel Core i5 8GB 1TB SSD Business Laptop",
+    "product1_id": "SYN_NEG_59",
+    "product2_id": "SYN_NEG_60",
+    "label": 0
+  },
+  {
+    "product1_name": "Samsung Galaxy Book3 Intel Core i5 8GB 256GB 15.6 Inch Laptop",
+    "product2_name": "Samsung Galaxy Book3 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product1_text": "Samsung Galaxy Book3 Intel Core i5 8GB 256GB 15.6 Inch Laptop",
+    "product2_text": "Samsung Galaxy Book3 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_60",
+    "product2_id": "SYN_NEG_61",
+    "label": 0
+  },
+  {
+    "product1_name": "HP Pavilion 15 Intel Core i5 16GB 512GB SSD 15.6 Inch Laptop",
+    "product2_name": "Lenovo IdeaPad 5 Intel Core i5 16GB 512GB SSD 15.6 Inch Laptop",
+    "product1_text": "HP Pavilion 15 Intel Core i5 16GB 512GB SSD 15.6 Inch Laptop",
+    "product2_text": "Lenovo IdeaPad 5 Intel Core i5 16GB 512GB SSD 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_61",
+    "product2_id": "SYN_NEG_62",
+    "label": 0
+  },
+  {
+    "product1_name": "Acer Aspire 5 AMD Ryzen 5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_name": "Asus VivoBook 15 AMD Ryzen 5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product1_text": "Acer Aspire 5 AMD Ryzen 5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product2_text": "Asus VivoBook 15 AMD Ryzen 5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_62",
+    "product2_id": "SYN_NEG_63",
+    "label": 0
+  },
+  {
+    "product1_name": "Dell Inspiron 15 Intel Core i7 16GB 1TB SSD 15.6 Inch Laptop",
+    "product2_name": "HP Envy 15 Intel Core i7 16GB 1TB SSD 15.6 Inch Laptop",
+    "product1_text": "Dell Inspiron 15 Intel Core i7 16GB 1TB SSD 15.6 Inch Laptop",
+    "product2_text": "HP Envy 15 Intel Core i7 16GB 1TB SSD 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_63",
+    "product2_id": "SYN_NEG_64",
+    "label": 0
+  },
+  {
+    "product1_name": "MSI Modern 15 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product2_name": "Acer Swift 3 Intel Core i5 8GB 512GB 14 Inch Laptop",
+    "product1_text": "MSI Modern 15 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product2_text": "Acer Swift 3 Intel Core i5 8GB 512GB 14 Inch Laptop",
+    "product1_id": "SYN_NEG_64",
+    "product2_id": "SYN_NEG_65",
+    "label": 0
+  },
+  {
+    "product1_name": "Lenovo ThinkPad E15 Intel Core i5 16GB 512GB 15.6 Inch Laptop",
+    "product2_name": "Dell Latitude 5520 Intel Core i5 16GB 512GB 15.6 Inch Laptop",
+    "product1_text": "Lenovo ThinkPad E15 Intel Core i5 16GB 512GB 15.6 Inch Laptop",
+    "product2_text": "Dell Latitude 5520 Intel Core i5 16GB 512GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_65",
+    "product2_id": "SYN_NEG_66",
+    "label": 0
+  },
+  {
+    "product1_name": "HP Pavilion 14 Intel Core i5 8GB 512GB SSD 14 Inch Laptop",
+    "product2_name": "HP Pavilion 15 Intel Core i5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product1_text": "HP Pavilion 14 Intel Core i5 8GB 512GB SSD 14 Inch Laptop",
+    "product2_text": "HP Pavilion 15 Intel Core i5 8GB 512GB SSD 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_66",
+    "product2_id": "SYN_NEG_67",
+    "label": 0
+  },
+  {
+    "product1_name": "Lenovo IdeaPad Slim 3 14 Intel Core i3 8GB 256GB 14 Inch Laptop",
+    "product2_name": "Lenovo IdeaPad Slim 3 15 Intel Core i3 8GB 256GB 15.6 Inch Laptop",
+    "product1_text": "Lenovo IdeaPad Slim 3 14 Intel Core i3 8GB 256GB 14 Inch Laptop",
+    "product2_text": "Lenovo IdeaPad Slim 3 15 Intel Core i3 8GB 256GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_67",
+    "product2_id": "SYN_NEG_68",
+    "label": 0
+  },
+  {
+    "product1_name": "Acer Swift 1 SF114 Intel Pentium 4GB 128GB 14 Inch Laptop",
+    "product2_name": "Acer Aspire 3 A315 Intel Celeron 4GB 128GB 15.6 Inch Laptop",
+    "product1_text": "Acer Swift 1 SF114 Intel Pentium 4GB 128GB 14 Inch Laptop",
+    "product2_text": "Acer Aspire 3 A315 Intel Celeron 4GB 128GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_68",
+    "product2_id": "SYN_NEG_69",
+    "label": 0
+  },
+  {
+    "product1_name": "Dell XPS 13 Intel Core i7 16GB 512GB 13.4 Inch Laptop",
+    "product2_name": "Dell XPS 15 Intel Core i7 16GB 512GB 15.6 Inch Laptop",
+    "product1_text": "Dell XPS 13 Intel Core i7 16GB 512GB 13.4 Inch Laptop",
+    "product2_text": "Dell XPS 15 Intel Core i7 16GB 512GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_69",
+    "product2_id": "SYN_NEG_70",
+    "label": 0
+  },
+  {
+    "product1_name": "Asus ZenBook 14 Intel Core i5 8GB 512GB 14 Inch Laptop",
+    "product2_name": "Asus ZenBook 15 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product1_text": "Asus ZenBook 14 Intel Core i5 8GB 512GB 14 Inch Laptop",
+    "product2_text": "Asus ZenBook 15 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_70",
+    "product2_id": "SYN_NEG_71",
+    "label": 0
+  },
+  {
+    "product1_name": "Acer Nitro 5 Intel Core i5 16GB 512GB RTX 3050 15.6 Inch Gaming",
+    "product2_name": "Acer Nitro 5 Intel Core i5 16GB 512GB RTX 3060 15.6 Inch Gaming",
+    "product1_text": "Acer Nitro 5 Intel Core i5 16GB 512GB RTX 3050 15.6 Inch Gaming",
+    "product2_text": "Acer Nitro 5 Intel Core i5 16GB 512GB RTX 3060 15.6 Inch Gaming",
+    "product1_id": "SYN_NEG_71",
+    "product2_id": "SYN_NEG_72",
+    "label": 0
+  },
+  {
+    "product1_name": "Asus ROG Strix AMD Ryzen 7 16GB 512GB RTX 3060 15.6 Inch Gaming",
+    "product2_name": "Asus ROG Strix AMD Ryzen 7 16GB 512GB RTX 3070 15.6 Inch Gaming",
+    "product1_text": "Asus ROG Strix AMD Ryzen 7 16GB 512GB RTX 3060 15.6 Inch Gaming",
+    "product2_text": "Asus ROG Strix AMD Ryzen 7 16GB 512GB RTX 3070 15.6 Inch Gaming",
+    "product1_id": "SYN_NEG_72",
+    "product2_id": "SYN_NEG_73",
+    "label": 0
+  },
+  {
+    "product1_name": "MSI GF65 Intel Core i5 8GB 512GB GTX 1660 Ti 15.6 Inch Gaming",
+    "product2_name": "MSI GF65 Intel Core i5 8GB 512GB RTX 3060 15.6 Inch Gaming",
+    "product1_text": "MSI GF65 Intel Core i5 8GB 512GB GTX 1660 Ti 15.6 Inch Gaming",
+    "product2_text": "MSI GF65 Intel Core i5 8GB 512GB RTX 3060 15.6 Inch Gaming",
+    "product1_id": "SYN_NEG_73",
+    "product2_id": "SYN_NEG_74",
+    "label": 0
+  },
+  {
+    "product1_name": "Lenovo Legion 5 AMD Ryzen 5 16GB 512GB RTX 3050 Ti 15.6 Inch",
+    "product2_name": "Lenovo Legion 5 AMD Ryzen 5 16GB 512GB RTX 3060 15.6 Inch",
+    "product1_text": "Lenovo Legion 5 AMD Ryzen 5 16GB 512GB RTX 3050 Ti 15.6 Inch",
+    "product2_text": "Lenovo Legion 5 AMD Ryzen 5 16GB 512GB RTX 3060 15.6 Inch",
+    "product1_id": "SYN_NEG_74",
+    "product2_id": "SYN_NEG_75",
+    "label": 0
+  },
+  {
+    "product1_name": "Dell G15 Intel Core i7 16GB 512GB RTX 3060 15.6 Inch Gaming",
+    "product2_name": "Dell G15 Intel Core i7 16GB 512GB RTX 3070 Ti 15.6 Inch Gaming",
+    "product1_text": "Dell G15 Intel Core i7 16GB 512GB RTX 3060 15.6 Inch Gaming",
+    "product2_text": "Dell G15 Intel Core i7 16GB 512GB RTX 3070 Ti 15.6 Inch Gaming",
+    "product1_id": "SYN_NEG_75",
+    "product2_id": "SYN_NEG_76",
+    "label": 0
+  },
+  {
+    "product1_name": "HP Pavilion 15 Intel Core i3 8GB 256GB SSD 15.6 Inch Laptop",
+    "product2_name": "HP Pavilion 15 Intel Core i7 16GB 512GB SSD 15.6 Inch Laptop",
+    "product1_text": "HP Pavilion 15 Intel Core i3 8GB 256GB SSD 15.6 Inch Laptop",
+    "product2_text": "HP Pavilion 15 Intel Core i7 16GB 512GB SSD 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_76",
+    "product2_id": "SYN_NEG_77",
+    "label": 0
+  },
+  {
+    "product1_name": "Lenovo IdeaPad 3 AMD Ryzen 3 8GB 256GB 15.6 Inch Laptop",
+    "product2_name": "Lenovo IdeaPad 3 AMD Ryzen 7 16GB 512GB 15.6 Inch Laptop",
+    "product1_text": "Lenovo IdeaPad 3 AMD Ryzen 3 8GB 256GB 15.6 Inch Laptop",
+    "product2_text": "Lenovo IdeaPad 3 AMD Ryzen 7 16GB 512GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_77",
+    "product2_id": "SYN_NEG_78",
+    "label": 0
+  },
+  {
+    "product1_name": "Acer Aspire 5 Intel Core i3 8GB 256GB 15.6 Inch Laptop",
+    "product2_name": "Acer Aspire 5 Intel Core i7 16GB 1TB 15.6 Inch Laptop",
+    "product1_text": "Acer Aspire 5 Intel Core i3 8GB 256GB 15.6 Inch Laptop",
+    "product2_text": "Acer Aspire 5 Intel Core i7 16GB 1TB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_78",
+    "product2_id": "SYN_NEG_79",
+    "label": 0
+  },
+  {
+    "product1_name": "Dell Inspiron 15 AMD Ryzen 3 4GB 128GB 15.6 Inch Laptop",
+    "product2_name": "Dell Inspiron 15 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product1_text": "Dell Inspiron 15 AMD Ryzen 3 4GB 128GB 15.6 Inch Laptop",
+    "product2_text": "Dell Inspiron 15 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_79",
+    "product2_id": "SYN_NEG_80",
+    "label": 0
+  },
+  {
+    "product1_name": "Asus VivoBook AMD Ryzen 5 8GB 512GB 15.6 Inch Laptop",
+    "product2_name": "Asus VivoBook Intel Core i7 16GB 1TB 15.6 Inch Laptop",
+    "product1_text": "Asus VivoBook AMD Ryzen 5 8GB 512GB 15.6 Inch Laptop",
+    "product2_text": "Asus VivoBook Intel Core i7 16GB 1TB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_80",
+    "product2_id": "SYN_NEG_81",
+    "label": 0
+  },
+  {
+    "product1_name": "Apple MacBook Air M2 8GB 256GB 13.6 Inch Laptop",
+    "product2_name": "Lenovo ThinkPad X1 Carbon Intel Core i7 16GB 512GB 14 Inch Laptop",
+    "product1_text": "Apple MacBook Air M2 8GB 256GB 13.6 Inch Laptop",
+    "product2_text": "Lenovo ThinkPad X1 Carbon Intel Core i7 16GB 512GB 14 Inch Laptop",
+    "product1_id": "SYN_NEG_81",
+    "product2_id": "SYN_NEG_82",
+    "label": 0
+  },
+  {
+    "product1_name": "HP Stream 14 Intel Celeron 4GB 64GB 14 Inch Windows 11 Laptop Blue",
+    "product2_name": "MSI GF63 Thin Intel Core i5 8GB 512GB RTX 3050 15.6 Inch Gaming",
+    "product1_text": "HP Stream 14 Intel Celeron 4GB 64GB 14 Inch Windows 11 Laptop Blue",
+    "product2_text": "MSI GF63 Thin Intel Core i5 8GB 512GB RTX 3050 15.6 Inch Gaming",
+    "product1_id": "SYN_NEG_82",
+    "product2_id": "SYN_NEG_83",
+    "label": 0
+  },
+  {
+    "product1_name": "Acer Chromebook 315 Intel Celeron 4GB 64GB 15.6 Inch ChromeOS",
+    "product2_name": "Dell G15 AMD Ryzen 7 16GB 512GB RTX 3060 15.6 Inch Gaming",
+    "product1_text": "Acer Chromebook 315 Intel Celeron 4GB 64GB 15.6 Inch ChromeOS",
+    "product2_text": "Dell G15 AMD Ryzen 7 16GB 512GB RTX 3060 15.6 Inch Gaming",
+    "product1_id": "SYN_NEG_83",
+    "product2_id": "SYN_NEG_84",
+    "label": 0
+  },
+  {
+    "product1_name": "Samsung Galaxy Book3 Intel Core i3 8GB 256GB 15.6 Inch Laptop",
+    "product2_name": "Asus ROG Strix AMD Ryzen 9 32GB 1TB RTX 3080 15.6 Inch Gaming",
+    "product1_text": "Samsung Galaxy Book3 Intel Core i3 8GB 256GB 15.6 Inch Laptop",
+    "product2_text": "Asus ROG Strix AMD Ryzen 9 32GB 1TB RTX 3080 15.6 Inch Gaming",
+    "product1_id": "SYN_NEG_84",
+    "product2_id": "SYN_NEG_85",
+    "label": 0
+  },
+  {
+    "product1_name": "Lenovo IdeaPad 1 AMD Ryzen 3 4GB 128GB 15.6 Inch Budget Laptop",
+    "product2_name": "Apple MacBook Pro M3 Pro 18GB 512GB 14.2 Inch Laptop",
+    "product1_text": "Lenovo IdeaPad 1 AMD Ryzen 3 4GB 128GB 15.6 Inch Budget Laptop",
+    "product2_text": "Apple MacBook Pro M3 Pro 18GB 512GB 14.2 Inch Laptop",
+    "product1_id": "SYN_NEG_85",
+    "product2_id": "SYN_NEG_86",
+    "label": 0
+  },
+  {
+    "product1_name": "HP Chromebook 14 Intel Celeron 4GB 64GB ChromeOS Laptop",
+    "product2_name": "Dell XPS 15 Intel Core i9 32GB 1TB RTX 3050 Ti 15.6 Inch",
+    "product1_text": "HP Chromebook 14 Intel Celeron 4GB 64GB ChromeOS Laptop",
+    "product2_text": "Dell XPS 15 Intel Core i9 32GB 1TB RTX 3050 Ti 15.6 Inch",
+    "product1_id": "SYN_NEG_86",
+    "product2_id": "SYN_NEG_87",
+    "label": 0
+  },
+  {
+    "product1_name": "Acer Aspire 1 Intel Celeron 4GB 64GB eMMC 14 Inch Laptop",
+    "product2_name": "Lenovo Legion 7i Intel Core i9 32GB 1TB RTX 3080 Ti 16 Inch Gaming",
+    "product1_text": "Acer Aspire 1 Intel Celeron 4GB 64GB eMMC 14 Inch Laptop",
+    "product2_text": "Lenovo Legion 7i Intel Core i9 32GB 1TB RTX 3080 Ti 16 Inch Gaming",
+    "product1_id": "SYN_NEG_87",
+    "product2_id": "SYN_NEG_88",
+    "label": 0
+  },
+  {
+    "product1_name": "HP 14s Intel Core i3 4GB 128GB SSD 14 Inch Budget Laptop",
+    "product2_name": "Asus ZenBook Pro Duo Intel Core i9 32GB 1TB RTX 3070 Ti 15.6 Inch",
+    "product1_text": "HP 14s Intel Core i3 4GB 128GB SSD 14 Inch Budget Laptop",
+    "product2_text": "Asus ZenBook Pro Duo Intel Core i9 32GB 1TB RTX 3070 Ti 15.6 Inch",
+    "product1_id": "SYN_NEG_88",
+    "product2_id": "SYN_NEG_89",
+    "label": 0
+  },
+  {
+    "product1_name": "Samsung Chromebook 4 Intel Celeron 4GB 32GB eMMC 11.6 Inch",
+    "product2_name": "MSI Raider GE76 Intel Core i9 32GB 2TB RTX 3080 Ti 17.3 Inch Gaming",
+    "product1_text": "Samsung Chromebook 4 Intel Celeron 4GB 32GB eMMC 11.6 Inch",
+    "product2_text": "MSI Raider GE76 Intel Core i9 32GB 2TB RTX 3080 Ti 17.3 Inch Gaming",
+    "product1_id": "SYN_NEG_89",
+    "product2_id": "SYN_NEG_90",
+    "label": 0
+  },
+  {
+    "product1_name": "Lenovo IdeaPad Slim 1 AMD Athlon 4GB 128GB 14 Inch Budget Laptop",
+    "product2_name": "Dell XPS 17 Intel Core i7 16GB 512GB RTX 3060 17.3 Inch Laptop",
+    "product1_text": "Lenovo IdeaPad Slim 1 AMD Athlon 4GB 128GB 14 Inch Budget Laptop",
+    "product2_text": "Dell XPS 17 Intel Core i7 16GB 512GB RTX 3060 17.3 Inch Laptop",
+    "product1_id": "SYN_NEG_90",
+    "product2_id": "SYN_NEG_91",
+    "label": 0
+  },
+  {
+    "product1_name": "HP Pavilion 15 Gen 7 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product2_name": "HP Pavilion 15 Gen 8 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product1_text": "HP Pavilion 15 Gen 7 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product2_text": "HP Pavilion 15 Gen 8 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_91",
+    "product2_id": "SYN_NEG_92",
+    "label": 0
+  },
+  {
+    "product1_name": "Lenovo IdeaPad 3 Gen 6 AMD Ryzen 5 8GB 512GB 15.6 Inch Laptop",
+    "product2_name": "Lenovo IdeaPad 3 Gen 7 AMD Ryzen 5 8GB 512GB 15.6 Inch Laptop",
+    "product1_text": "Lenovo IdeaPad 3 Gen 6 AMD Ryzen 5 8GB 512GB 15.6 Inch Laptop",
+    "product2_text": "Lenovo IdeaPad 3 Gen 7 AMD Ryzen 5 8GB 512GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_92",
+    "product2_id": "SYN_NEG_93",
+    "label": 0
+  },
+  {
+    "product1_name": "Dell Inspiron 15 3511 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product2_name": "Dell Inspiron 15 3520 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product1_text": "Dell Inspiron 15 3511 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product2_text": "Dell Inspiron 15 3520 Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_93",
+    "product2_id": "SYN_NEG_94",
+    "label": 0
+  },
+  {
+    "product1_name": "Acer Nitro 5 AN515-57 Intel Core i5 16GB 512GB RTX 3050 15.6 Inch",
+    "product2_name": "Acer Nitro 5 AN515-58 Intel Core i5 16GB 512GB RTX 3050 15.6 Inch",
+    "product1_text": "Acer Nitro 5 AN515-57 Intel Core i5 16GB 512GB RTX 3050 15.6 Inch",
+    "product2_text": "Acer Nitro 5 AN515-58 Intel Core i5 16GB 512GB RTX 3050 15.6 Inch",
+    "product1_id": "SYN_NEG_94",
+    "product2_id": "SYN_NEG_95",
+    "label": 0
+  },
+  {
+    "product1_name": "Asus VivoBook 15 X1502 Intel Core i5 8GB 512GB 15.6 Inch 2022",
+    "product2_name": "Asus VivoBook 15 X1504 Intel Core i5 8GB 512GB 15.6 Inch 2023",
+    "product1_text": "Asus VivoBook 15 X1502 Intel Core i5 8GB 512GB 15.6 Inch 2022",
+    "product2_text": "Asus VivoBook 15 X1504 Intel Core i5 8GB 512GB 15.6 Inch 2023",
+    "product1_id": "SYN_NEG_95",
+    "product2_id": "SYN_NEG_96",
+    "label": 0
+  },
+  {
+    "product1_name": "HP EliteBook 840 G8 Intel Core i5 16GB 512GB 14 Inch Laptop",
+    "product2_name": "HP EliteBook 840 G9 Intel Core i5 16GB 512GB 14 Inch Laptop",
+    "product1_text": "HP EliteBook 840 G8 Intel Core i5 16GB 512GB 14 Inch Laptop",
+    "product2_text": "HP EliteBook 840 G9 Intel Core i5 16GB 512GB 14 Inch Laptop",
+    "product1_id": "SYN_NEG_96",
+    "product2_id": "SYN_NEG_97",
+    "label": 0
+  },
+  {
+    "product1_name": "Lenovo ThinkPad T14 Gen 2 Intel Core i7 16GB 512GB 14 Inch",
+    "product2_name": "Lenovo ThinkPad T14 Gen 3 Intel Core i7 16GB 512GB 14 Inch",
+    "product1_text": "Lenovo ThinkPad T14 Gen 2 Intel Core i7 16GB 512GB 14 Inch",
+    "product2_text": "Lenovo ThinkPad T14 Gen 3 Intel Core i7 16GB 512GB 14 Inch",
+    "product1_id": "SYN_NEG_97",
+    "product2_id": "SYN_NEG_98",
+    "label": 0
+  },
+  {
+    "product1_name": "Dell Latitude 5520 Intel Core i5 16GB 512GB 15.6 Inch Laptop",
+    "product2_name": "Dell Latitude 5530 Intel Core i5 16GB 512GB 15.6 Inch Laptop",
+    "product1_text": "Dell Latitude 5520 Intel Core i5 16GB 512GB 15.6 Inch Laptop",
+    "product2_text": "Dell Latitude 5530 Intel Core i5 16GB 512GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_98",
+    "product2_id": "SYN_NEG_99",
+    "label": 0
+  },
+  {
+    "product1_name": "MSI Modern 15 A11M Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product2_name": "MSI Modern 15 B12M Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product1_text": "MSI Modern 15 A11M Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product2_text": "MSI Modern 15 B12M Intel Core i5 8GB 512GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_99",
+    "product2_id": "SYN_NEG_100",
+    "label": 0
+  },
+  {
+    "product1_name": "Samsung Galaxy Book2 Intel Core i5 8GB 256GB 15.6 Inch Laptop",
+    "product2_name": "Samsung Galaxy Book3 Intel Core i5 8GB 256GB 15.6 Inch Laptop",
+    "product1_text": "Samsung Galaxy Book2 Intel Core i5 8GB 256GB 15.6 Inch Laptop",
+    "product2_text": "Samsung Galaxy Book3 Intel Core i5 8GB 256GB 15.6 Inch Laptop",
+    "product1_id": "SYN_NEG_100",
+    "product2_id": "SYN_NEG_101",
+    "label": 0
+  }
+]

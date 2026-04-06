@@ -6,3 +6,4 @@ lxml,
 requests
 nest_asyncio
 playwright
+matplotlib

@@ -1,0 +1,5988 @@
+[
+  {
+    "cluster_id": "CLU_00001",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 593.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00001",
+        "retailer": "LaptopsDirect",
+        "name": "HP 250R G9 Intel Core Ultra 5 16GB RAM 512 GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "HP",
+        "price": 593.97,
+        "price_str": "£593.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core Ultra 5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/hp-250r-g9-intel-core-ultra-5-16gb-ram-512-gb-ssd-15.6-inch-windows-11-pro-c38lfat/version.asp",
+        "product_text": "HP 250R G9 Intel Core Ultra 5 16GB RAM 512 GB SSD 15.6 Inch Windows 11 Pro Laptop HP 16GB 512GB Intel Core Ultra 5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00002",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 519.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00002",
+        "retailer": "LaptopsDirect",
+        "name": "Apple MacBook Air 13.3 Inch M1 8GB RAM 256GB SSD 2020 - Space Grey",
+        "brand": "Apple",
+        "price": 519.97,
+        "price_str": "£519.97",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen_size": "13.3\"",
+        "processor": "Apple M1",
+        "url": "https://www.laptopsdirect.co.uk/macbook-air-13-inch-apple-m1-chip-8-core-cpu-7-core-gpu-8gb-256gb-ssd-spa-mgn63b-a/version.asp",
+        "product_text": "Apple MacBook Air 13.3 Inch M1 8GB RAM 256GB SSD 2020 - Space Grey Apple 8GB 256GB 13.3\" Apple M1"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00003",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 319.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00003",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 5490 Intel Core i5 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 319.97,
+        "price_str": "£319.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 8th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-5490-core-i5-8th-gen-16gb-256gb-14-inch-windows-1-t1-5490i516gb256gbw10p/version.asp",
+        "product_text": "Refurbished Dell Latitude 5490 Intel Core i5 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB Intel Core i5 8th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00004",
+    "product_count": 5,
+    "retailers": [
+      "LaptopsDirect",
+      "Argos"
+    ],
+    "best_price": 569.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00004",
+        "retailer": "LaptopsDirect",
+        "name": "Apple MacBook Neo 13 Inch A18 Pro 8GB RAM 256GB SSD 2026 - Indigo",
+        "brand": "Apple",
+        "price": 569.97,
+        "price_str": "£569.97",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen_size": "13.0\"",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/macbook-neo-13-inch-apple-a18-pro-chip-6c-cpu-5c-gpu-8gb-um-256gb-ssd-mhff4b-a/version.asp",
+        "product_text": "Apple MacBook Neo 13 Inch A18 Pro 8GB RAM 256GB SSD 2026 - Indigo Apple 8GB 256GB 13.0\""
+      },
+      {
+        "global_id": "PROD_00161",
+        "retailer": "Argos",
+        "name": "Apple MacBook Neo 2026 13in A18 Pro 8GB 256GB - Indigo",
+        "brand": "Apple",
+        "price": 599.0,
+        "price_str": "£599.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8211664?clickSR=slp:term:laptops:41:372:1",
+        "product_text": "Apple MacBook Neo 2026 13in A18 Pro 8GB 256GB - Indigo Apple"
+      },
+      {
+        "global_id": "PROD_00163",
+        "retailer": "Argos",
+        "name": "Apple MacBook Neo 2026 13in A18 Pro 8GB 256GB - Silver",
+        "brand": "Apple",
+        "price": 599.0,
+        "price_str": "£599.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8211640?clickSR=slp:term:laptops:43:372:1",
+        "product_text": "Apple MacBook Neo 2026 13in A18 Pro 8GB 256GB - Silver Apple"
+      },
+      {
+        "global_id": "PROD_00165",
+        "retailer": "Argos",
+        "name": "Apple MacBook Neo 2026 13in A18 Pro 8GB 256GB - Citrus",
+        "brand": "Apple",
+        "price": 599.0,
+        "price_str": "£599.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8211657?clickSR=slp:term:laptops:45:372:1",
+        "product_text": "Apple MacBook Neo 2026 13in A18 Pro 8GB 256GB - Citrus Apple"
+      },
+      {
+        "global_id": "PROD_00203",
+        "retailer": "Argos",
+        "name": "Apple MacBook Neo 2026 13in A18 Pro 8GB 256GB - Blush",
+        "brand": "Apple",
+        "price": 599.0,
+        "price_str": "£599.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8211729?clickSR=slp:term:laptops:79:372:1",
+        "product_text": "Apple MacBook Neo 2026 13in A18 Pro 8GB 256GB - Blush Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00005",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 699.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00005",
+        "retailer": "LaptopsDirect",
+        "name": "Samsung Galaxy Book4 Intel Core i5 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "Samsung",
+        "price": 699.97,
+        "price_str": "£699.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/samsung-galaxy-book4-intel-core-i5-16gb-ram-512gb-ssd-15.6-inch-windows-11-np754xgj-cg1uk/version.asp",
+        "product_text": "Samsung Galaxy Book4 Intel Core i5 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop Samsung 16GB 256GB Intel Core i5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00006",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1419.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00006",
+        "retailer": "LaptopsDirect",
+        "name": "Samsung Galaxy Book5 Pro Intel Core Ultra 7 16GB RAM 512GB SSD 14 Inch Touchscreen Windows 11 Pro Laptop",
+        "brand": "Samsung",
+        "price": 1419.97,
+        "price_str": "£1419.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core Ultra 7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/samsung-galaxy-book5-pro-intel-core-ultra-7-16gb-ram-512gb-ssd-14-inch-touc-np944xha-kg2uk/version.asp",
+        "product_text": "Samsung Galaxy Book5 Pro Intel Core Ultra 7 16GB RAM 512GB SSD 14 Inch Touchscreen Windows 11 Pro Laptop Samsung 16GB 512GB Intel Core Ultra 7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00007",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1499.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00007",
+        "retailer": "LaptopsDirect",
+        "name": "HP OMEN Intel Core i7 24GB RAM 1TB SSD RTX 5070 Windows 11 Gaming Laptop + HyperX Wireless Mouse and HyperX Cloud Headset",
+        "brand": "HP",
+        "price": 1499.97,
+        "price_str": "£1499.97",
+        "ram": "24GB",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "Intel Core i7 24GB",
+        "url": "https://www.laptopsdirect.co.uk/hp-omen-intel-core-i7-24gb-ram-1tb-ssd-rtx-5070-windows-11-gaming-laptop-c17wrea-abubun/version.asp",
+        "product_text": "HP OMEN Intel Core i7 24GB RAM 1TB SSD RTX 5070 Windows 11 Gaming Laptop + HyperX Wireless Mouse and HyperX Cloud Headset HP 24GB 1TB Intel Core i7 24GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00008",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 594.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00008",
+        "retailer": "LaptopsDirect",
+        "name": "HP 250 Intel Core i5 16GB RAM 512GB SSD 15.6 inch Windows 11 Pro Laptop",
+        "brand": "HP",
+        "price": 594.97,
+        "price_str": "£594.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/hp-250-intel-core-i5-16gb-ram-512gb-ssd-15.6-inch-windows-11-pro-laptop-ak9t1at/version.asp",
+        "product_text": "HP 250 Intel Core i5 16GB RAM 512GB SSD 15.6 inch Windows 11 Pro Laptop HP 16GB 512GB Intel Core i5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00009",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 569.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00009",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V14 G4 Intel Core i5 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 569.97,
+        "price_str": "£569.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "14.0\"",
+        "processor": "Intel Core i5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v14-g4-i5-13420h-16gb-512gb-ssd-14-inch-windows-11-pro-laptop-83a0007luk/version.asp",
+        "product_text": "Lenovo V14 G4 Intel Core i5 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop Lenovo 16GB 512GB 14.0\" Intel Core i5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00010",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 569.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00010",
+        "retailer": "LaptopsDirect",
+        "name": "HP 250 G10 Intel Core i7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "HP",
+        "price": 569.97,
+        "price_str": "£569.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/hp-250-g10-intel-core-i7-16gb-ram-512gb-ssd-windows-11-home-laptop-aa0k4es/version.asp",
+        "product_text": "HP 250 G10 Intel Core i7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop HP 16GB 512GB Intel Core i7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00011",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 437.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00011",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V15 G4 Ryzen 5 8GB RAM 256GB SSD 15 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 437.97,
+        "price_str": "£437.97",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v15-g4-ryzen-5-8gb-ram-256gb-ssd-windows-11-pro-laptop-82yy004nuk/version.asp",
+        "product_text": "Lenovo V15 G4 Ryzen 5 8GB RAM 256GB SSD 15 Inch Windows 11 Pro Laptop Lenovo 8GB 256GB 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00012",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 349.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00012",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 5420 Intel Core i5 11th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 349.97,
+        "price_str": "£349.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 11th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-5420-core-i5-11th-gen-16gb-256gb-14-inch-windows-t1-5420i516gb256gbw10p/version.asp",
+        "product_text": "Refurbished Dell Latitude 5420 Intel Core i5 11th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB Intel Core i5 11th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00013",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 699.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00013",
+        "retailer": "LaptopsDirect",
+        "name": "HP 250 G10 Intel Core i7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "HP",
+        "price": 699.97,
+        "price_str": "£699.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/hewlett-packard-hp-250-g10-notebook-intel-core-i7-1355u-up-to-5-ghz-9b9r8ea/version.asp",
+        "product_text": "HP 250 G10 Intel Core i7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop HP 16GB 512GB Intel Core i7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00014",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 729.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00014",
+        "retailer": "LaptopsDirect",
+        "name": "HP ProBook 455 G10 Ryzen 7 7730U 16GB RAM 512GB SSD 15.6 inch Windows 11 Pro Laptop",
+        "brand": "HP",
+        "price": 729.97,
+        "price_str": "£729.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/hp-probook-455-g10-ryzen-7-7730u-16gb-512gb-ssd-15.6-inch-windows-11-pro-la-b39rvat/version.asp",
+        "product_text": "HP ProBook 455 G10 Ryzen 7 7730U 16GB RAM 512GB SSD 15.6 inch Windows 11 Pro Laptop HP 16GB 512GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00015",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 679.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00015",
+        "retailer": "LaptopsDirect",
+        "name": "Samsung Galaxy Book4 Intel Core i7 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "Samsung",
+        "price": 679.97,
+        "price_str": "£679.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/samsung-galaxy-book4-intel-core-i5-16gb-ram-256gb-ssd-15.6-inch-windows-11-np754xgj-cg2uk/version.asp",
+        "product_text": "Samsung Galaxy Book4 Intel Core i7 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop Samsung 16GB 256GB Intel Core i7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00016",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 999.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00016",
+        "retailer": "LaptopsDirect",
+        "name": "Acer Nitro V15 Intel Core i7 16GB RAM 1TB SSD RTX 5060 165Hz 15.6 Inch Windows 11 Gaming Laptop",
+        "brand": "Acer",
+        "price": 999.97,
+        "price_str": "£999.97",
+        "ram": "16GB",
+        "storage": "1TB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/acer-nitro-v15-intel-core-i7-16gb-ram-1tb-ssd-rtx-5060-165hz-15.6-inch-wind-nh.qzaek.004/version.asp",
+        "product_text": "Acer Nitro V15 Intel Core i7 16GB RAM 1TB SSD RTX 5060 165Hz 15.6 Inch Windows 11 Gaming Laptop Acer 16GB 1TB 15.0\" Intel Core i7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00017",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 409.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00017",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 5520 Core i5 11th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 409.97,
+        "price_str": "£409.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-5520-core-i5-11th-gen-16gb-256gb-15.6-inch-window-t1-5520i516gb256gbw11p/version.asp",
+        "product_text": "Refurbished Dell Latitude 5520 Core i5 11th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop 16GB 256GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00018",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 589.0,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00018",
+        "retailer": "LaptopsDirect",
+        "name": "ASUS Vivobook 15 Intel Core 7 16GB RAM 1TB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "Asus",
+        "price": 589.0,
+        "price_str": "£589.00",
+        "ram": "16GB",
+        "storage": "1TB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core 7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/asus-vivobook-15-intel-core-7-16gb-ram-1tb-ssd-15.6-inch-windows-11-laptop-x1504va-bq3782w/version.asp",
+        "product_text": "ASUS Vivobook 15 Intel Core 7 16GB RAM 1TB SSD 15.6 Inch Windows 11 Laptop Asus 16GB 1TB 15.0\" Intel Core 7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00019",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 569.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00019",
+        "retailer": "LaptopsDirect",
+        "name": "Apple MacBook Neo 13 Inch A18 Pro 8GB RAM 256GB SSD 2026 - Citrus",
+        "brand": "Apple",
+        "price": 569.97,
+        "price_str": "£569.97",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen_size": "13.0\"",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/macbook-neo-13-inch-apple-a18-pro-chip-6c-cpu-5c-gpu-8gb-um-256gb-ssd-mhfd4b-a/version.asp",
+        "product_text": "Apple MacBook Neo 13 Inch A18 Pro 8GB RAM 256GB SSD 2026 - Citrus Apple 8GB 256GB 13.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00020",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1299.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00020",
+        "retailer": "LaptopsDirect",
+        "name": "Medion ERAZER Defender 17 P1 Intel Core i7-13620H 32GB RAM 2TB SSD RTX 5060 144Hz 17.3 Inch Windows 11 Gaming Laptop",
+        "brand": "Medion",
+        "price": 1299.97,
+        "price_str": "£1299.97",
+        "ram": "32GB",
+        "storage": "2TB",
+        "screen_size": "17.0\"",
+        "processor": "Intel Core i7-13620H",
+        "url": "https://www.laptopsdirect.co.uk/medion-erazer-defender-17-p1-intel-core-i7-32gb-ram-2tb-ssd-rtx-5060-144hz-30039761/version.asp",
+        "product_text": "Medion ERAZER Defender 17 P1 Intel Core i7-13620H 32GB RAM 2TB SSD RTX 5060 144Hz 17.3 Inch Windows 11 Gaming Laptop Medion 32GB 2TB 17.0\" Intel Core i7-13620H"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00021",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1149.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00021",
+        "retailer": "LaptopsDirect",
+        "name": "MSI Cyborg 14 Intel Core i7 16GB RAM 512GB SSD RTX 4060 144Hz 14 Inch Windows 11 Gaming Laptop",
+        "brand": "MSI",
+        "price": 1149.97,
+        "price_str": "£1149.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "14.0\"",
+        "processor": "Intel Core i7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/msi-cyborg-14-intel-core-i7-16gb-512gb-rtx-4060-144hz-fhd-14-inch-windows-1-9s7-14p111-011/version.asp",
+        "product_text": "MSI Cyborg 14 Intel Core i7 16GB RAM 512GB SSD RTX 4060 144Hz 14 Inch Windows 11 Gaming Laptop MSI 16GB 512GB 14.0\" Intel Core i7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00022",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1499.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00022",
+        "retailer": "LaptopsDirect",
+        "name": "Medion ERAZER Deputy 15 P1 Intel Core 9 32GB RAM 2TB SSD RTX 5070 144Hz 15.6 Inch Windows 11 Gaming Laptop",
+        "brand": "Medion",
+        "price": 1499.97,
+        "price_str": "£1499.97",
+        "ram": "32GB",
+        "storage": "2TB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core 9 32GB",
+        "url": "https://www.laptopsdirect.co.uk/medion-erazer-deputy-15-p1-intel-core-i9-32gb-ram-2tb-ssd-rtx-5070-144hz-15-30039895/version.asp",
+        "product_text": "Medion ERAZER Deputy 15 P1 Intel Core 9 32GB RAM 2TB SSD RTX 5070 144Hz 15.6 Inch Windows 11 Gaming Laptop Medion 32GB 2TB 15.0\" Intel Core 9 32GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00023",
+    "product_count": 2,
+    "retailers": [
+      "LaptopsDirect",
+      "Argos"
+    ],
+    "best_price": 399.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00023",
+        "retailer": "LaptopsDirect",
+        "name": "HP 250R G9 Intel Core Ultra 5 8GB RAM 256GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "HP",
+        "price": 399.97,
+        "price_str": "£399.97",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core Ultra 5 8GB",
+        "url": "https://www.laptopsdirect.co.uk/hp-250r-g9-intel-core-ultra-5-8gb-ram-256gb-ssd-15.6-inch-windows-11-laptop-c38lbat/version.asp",
+        "product_text": "HP 250R G9 Intel Core Ultra 5 8GB RAM 256GB SSD 15.6 Inch Windows 11 Laptop HP 8GB 256GB Intel Core Ultra 5 8GB"
+      },
+      {
+        "global_id": "PROD_00138",
+        "retailer": "Argos",
+        "name": "HP 15-fd0064na 15.6in Intel Core i5 8GB 256GB Laptop",
+        "brand": "HP",
+        "price": 449.0,
+        "price_str": "£449.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i5 8GB",
+        "url": "https://www.argos.co.uk/product/7849587?clickSR=slp:term:laptops:18:372:1",
+        "product_text": "HP 15-fd0064na 15.6in Intel Core i5 8GB 256GB Laptop HP 15.0\" Intel Core i5 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00024",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1699.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00024",
+        "retailer": "LaptopsDirect",
+        "name": "Medion Erazer Major 16X1 Intel Core Ultra 7 32GB RAM 2TB SSD 300Hz RTX 5070 Ti 16 Inch Windows 11 Gaming Laptop",
+        "brand": "Medion",
+        "price": 1699.97,
+        "price_str": "£1699.97",
+        "ram": "32GB",
+        "storage": "2TB",
+        "screen_size": "16.0\"",
+        "processor": "Intel Core Ultra 7 32GB",
+        "url": "https://www.laptopsdirect.co.uk/medion-erazer-major-16-x1-intel-core-ultra-7-32gb-ram-2tb-ssd-rtx-5070ti-30-30041431/version.asp",
+        "product_text": "Medion Erazer Major 16X1 Intel Core Ultra 7 32GB RAM 2TB SSD 300Hz RTX 5070 Ti 16 Inch Windows 11 Gaming Laptop Medion 32GB 2TB 16.0\" Intel Core Ultra 7 32GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00025",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1299.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00025",
+        "retailer": "LaptopsDirect",
+        "name": "MSI Sword 16 HX B14VGKG-013UK Intel Core i7 16GB RAM 1TB SSD RTX 4070 240Hz 16 Inch Windows 11 Gaming Laptop",
+        "brand": "MSI",
+        "price": 1299.97,
+        "price_str": "£1299.97",
+        "ram": "16GB",
+        "storage": "1TB",
+        "screen_size": "16.0\"",
+        "processor": "Intel Core i7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/msi-sword-16-hx-b14vgkg-013uk-intel-core-i7-16gb-1tb-rtx-4070-240hz-qhd-16-9s7-15p214-013/version.asp",
+        "product_text": "MSI Sword 16 HX B14VGKG-013UK Intel Core i7 16GB RAM 1TB SSD RTX 4070 240Hz 16 Inch Windows 11 Gaming Laptop MSI 16GB 1TB 16.0\" Intel Core i7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00026",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 819.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00026",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Microsoft Surface Laptop 5 Core i7 12th gen 16GB RAM 512GB SSD 13.5 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 819.97,
+        "price_str": "£819.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-microsoft-surface-laptop-5-core-i7-12th-gen-16gb-ram-512-gb-ssd-t1-msl5i716gb512gbw11p/version.asp",
+        "product_text": "Refurbished Microsoft Surface Laptop 5 Core i7 12th gen 16GB RAM 512GB SSD 13.5 Inch Windows 11 Pro Laptop 16GB 512GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00027",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1379.99,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00027",
+        "retailer": "LaptopsDirect",
+        "name": "Medion Erazer Defender 17 P1 Intel Core 7 32GB RAM 1TB SSD 17.3 Inch 144Hz RTX 5070 Gaming Laptop with Cooler Master GA2711 27\" IPS QHD 100Hz 1ms Gaming Monitor",
+        "brand": "Medion",
+        "price": 1379.99,
+        "price_str": "£1379.99",
+        "ram": "32GB",
+        "storage": "1TB",
+        "screen_size": "17.0\"",
+        "processor": "Intel Core 7 32GB",
+        "url": "https://www.laptopsdirect.co.uk/medion-erazer-defender-17-p1-intel-core-7-32gb-ram-1tb-ssd-17.3-inch-144hz-bun-30041204-98892/version.asp",
+        "product_text": "Medion Erazer Defender 17 P1 Intel Core 7 32GB RAM 1TB SSD 17.3 Inch 144Hz RTX 5070 Gaming Laptop with Cooler Master GA2711 27\" IPS QHD 100Hz 1ms Gaming Monitor Medion 32GB 1TB 17.0\" Intel Core 7 32GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00028",
+    "product_count": 2,
+    "retailers": [
+      "LaptopsDirect",
+      "Argos"
+    ],
+    "best_price": 319.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00028",
+        "retailer": "LaptopsDirect",
+        "name": "HP BM2V4EA Intel Core i3 4GB RAM 128 UFS 15.6 Inch Windows 11 S Laptop",
+        "brand": "HP",
+        "price": 399.97,
+        "price_str": "£399.97",
+        "ram": "4GB",
+        "storage": "",
+        "screen_size": "",
+        "processor": "Intel Core i3 4GB",
+        "url": "https://www.laptopsdirect.co.uk/hewlett-packard-hp-15-fd0060na-core-i3-4gb-128gb-25.6-inch-windows-11-lapto-bm2v4ea/version.asp",
+        "product_text": "HP BM2V4EA Intel Core i3 4GB RAM 128 UFS 15.6 Inch Windows 11 S Laptop HP 4GB Intel Core i3 4GB"
+      },
+      {
+        "global_id": "PROD_00179",
+        "retailer": "Argos",
+        "name": "HP 15-fd0060na 15.6in Intel Core i3 4GB 128GB Laptop",
+        "brand": "HP",
+        "price": 319.0,
+        "price_str": "£319.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i3 4GB",
+        "url": "https://www.argos.co.uk/product/7801790?clickSR=slp:term:laptops:59:372:1",
+        "product_text": "HP 15-fd0060na 15.6in Intel Core i3 4GB 128GB Laptop HP 15.0\" Intel Core i3 4GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00029",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1699.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00029",
+        "retailer": "LaptopsDirect",
+        "name": "Samsung Galaxy Book5 Pro Intel Core Ultra 7 32GB RAM 512GB SSD 14 Inch Touchscreen Windows 11 Pro Laptop",
+        "brand": "Samsung",
+        "price": 1699.97,
+        "price_str": "£1699.97",
+        "ram": "32GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core Ultra 7 32GB",
+        "url": "https://www.laptopsdirect.co.uk/samsung-galaxy-book5-pro-intel-core-ultra-7-32gb-ram-512gb-ssd-14-inch-touc-np944xha-kg1uk/version.asp",
+        "product_text": "Samsung Galaxy Book5 Pro Intel Core Ultra 7 32GB RAM 512GB SSD 14 Inch Touchscreen Windows 11 Pro Laptop Samsung 32GB 512GB Intel Core Ultra 7 32GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00030",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1329.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00030",
+        "retailer": "LaptopsDirect",
+        "name": "HP OMEN Intel Core i7 24GB RAM 1TB SSD RTX 5060 Windows 11 Gaming Laptop with Backpack",
+        "brand": "HP",
+        "price": 1329.97,
+        "price_str": "£1329.97",
+        "ram": "24GB",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "Intel Core i7 24GB",
+        "url": "https://www.laptopsdirect.co.uk/hp-omen-intel-core-i7-24gb-ram-1tb-ssd-rtx-5060-windows-11-gaming-laptop-wi-c17wqea-abubun/version.asp",
+        "product_text": "HP OMEN Intel Core i7 24GB RAM 1TB SSD RTX 5060 Windows 11 Gaming Laptop with Backpack HP 24GB 1TB Intel Core i7 24GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00031",
+    "product_count": 2,
+    "retailers": [
+      "LaptopsDirect",
+      "Argos"
+    ],
+    "best_price": 439.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00031",
+        "retailer": "LaptopsDirect",
+        "name": "HP 255 G10 AMD Ryzen 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "HP",
+        "price": 499.97,
+        "price_str": "£499.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "AMD Ryzen 5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/hp-255-g10-notebook-amd-ryzen-5-7530u-16gb-512gb-ssd-15.6-inch-full-hd-ak9v0at/version.asp",
+        "product_text": "HP 255 G10 AMD Ryzen 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop HP 16GB 512GB AMD Ryzen 5 16GB"
+      },
+      {
+        "global_id": "PROD_00240",
+        "retailer": "Argos",
+        "name": "HP BM2U3EA 15.6in R5 16GB 512GB Laptop - Silver",
+        "brand": "HP",
+        "price": 439.0,
+        "price_str": "£439.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7834262?clickSR=slp:term:laptops:116:372:1",
+        "product_text": "HP BM2U3EA 15.6in R5 16GB 512GB Laptop - Silver HP"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00032",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 419.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00032",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V15 G4 Intel Core i5 8GB RAM 256GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "Lenovo",
+        "price": 419.97,
+        "price_str": "£419.97",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i5 8GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v15-g3-intel-core-i5-1235u-8gb-ram-256gb-ssd-windows-11-home-laptop-83a100amuk/version.asp",
+        "product_text": "Lenovo V15 G4 Intel Core i5 8GB RAM 256GB SSD 15.6 Inch Windows 11 Laptop Lenovo 8GB 256GB 15.0\" Intel Core i5 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00033",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 844.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00033",
+        "retailer": "LaptopsDirect",
+        "name": "Apple MacBook Air 13.6 Inch M3 16GB RAM 256GB SSD - Midnight",
+        "brand": "Apple",
+        "price": 844.97,
+        "price_str": "£844.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "13.6\"",
+        "processor": "Apple M3 Pro",
+        "url": "https://www.laptopsdirect.co.uk/apple-macbook-air-13.6-inch-m3-16gb-ram-256gb-ssd-midnight-mc8k4b-a/version.asp",
+        "product_text": "Apple MacBook Air 13.6 Inch M3 16GB RAM 256GB SSD - Midnight Apple 16GB 256GB 13.6\" Apple M3 Pro"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00034",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 477.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00034",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V15 G4 AMD Ryzen 5 16GB RAM 256GB SSD 15.6 inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 477.97,
+        "price_str": "£477.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "15.0\"",
+        "processor": "AMD Ryzen 5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v15-g4-amn-ryzen-5-7520u-16gb-ram-256gb-ssd-15.6-inch-82yu00hxuk/version.asp",
+        "product_text": "Lenovo V15 G4 AMD Ryzen 5 16GB RAM 256GB SSD 15.6 inch Windows 11 Pro Laptop Lenovo 16GB 256GB 15.0\" AMD Ryzen 5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00035",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 619.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00035",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo ThinkBook 16 G7 Qualcomm Snapdragon X Plus 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 619.97,
+        "price_str": "£619.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "16.0\"",
+        "processor": "Snapdragon X",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-thinkbook-16-g7-qualcomm-snapdragon-x-plus-16gb-ram-512gb-ssd-16-inc-21nh0004uk/version.asp",
+        "product_text": "Lenovo ThinkBook 16 G7 Qualcomm Snapdragon X Plus 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop Lenovo 16GB 512GB 16.0\" Snapdragon X"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00036",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 399.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00036",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V15 G4 AMD Ryzen 5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "Lenovo",
+        "price": 399.97,
+        "price_str": "£399.97",
+        "ram": "8GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "AMD Ryzen 5 8GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v15-g4-amn-amd-ryzen-5-7520u-8gb-512gb-ssd-15.6-inch-fhd-windows-11-82yu00u8uk/version.asp",
+        "product_text": "Lenovo V15 G4 AMD Ryzen 5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop Lenovo 8GB 512GB 15.0\" AMD Ryzen 5 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00037",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 629.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00037",
+        "retailer": "LaptopsDirect",
+        "name": "HP 255 G10 AMD Ryzen 7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "HP",
+        "price": 629.97,
+        "price_str": "£629.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "AMD Ryzen 7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/hp-255-amd-ryzen-7-16gb-ram-512gb-ssd-15.6-inch-windows-11-pro-laptop-aa1d6es/version.asp",
+        "product_text": "HP 255 G10 AMD Ryzen 7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop HP 16GB 512GB AMD Ryzen 7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00038",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 399.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00038",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished HP EliteBook 850 G6 Intel Core i7 8th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 399.97,
+        "price_str": "£399.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 8th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-hp-elitebok-850-g6-core-i7-8th-gen-16gb-256gb-15-inch-windows-1-t1-850g6i716gb256gbw10p/version.asp",
+        "product_text": "Refurbished HP EliteBook 850 G6 Intel Core i7 8th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop 16GB 256GB Intel Core i7 8th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00039",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 319.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00039",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Lenovo ThinkPad T14s G2 Core i5 11th Gen 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 319.97,
+        "price_str": "£319.97",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen_size": "14.0\"",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-lenovo-thinkpad-t14s-g2-core-i5-11th-gen-8gb-ram-256gb-ssd-14-i-t1-t14sg2i58gb256gbw11p/version.asp",
+        "product_text": "Refurbished Lenovo ThinkPad T14s G2 Core i5 11th Gen 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 8GB 256GB 14.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00040",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 649.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00040",
+        "retailer": "LaptopsDirect",
+        "name": "Medion ERAZER Crawler E30 Intel Core i5 16GB RAM 512GB SSD RTX 2050 60Hz 15.6 Inch Windows 11 Gaming Laptop",
+        "brand": "Medion",
+        "price": 649.97,
+        "price_str": "£649.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/medion-erazer-crawler-e30-intel-core-i5-16gb-ram-512gb-ssd-rtx-2050-144hz-1-30040583/version.asp",
+        "product_text": "Medion ERAZER Crawler E30 Intel Core i5 16GB RAM 512GB SSD RTX 2050 60Hz 15.6 Inch Windows 11 Gaming Laptop Medion 16GB 512GB Intel Core i5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00041",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 179.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00041",
+        "retailer": "LaptopsDirect",
+        "name": "Entity Book Intel Celeron 4GB RAM 128GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "",
+        "price": 179.97,
+        "price_str": "£179.97",
+        "ram": "4GB",
+        "storage": "128GB",
+        "screen_size": "",
+        "processor": "Intel Celeron 4GB",
+        "url": "https://www.laptopsdirect.co.uk/entity-book-intel-celeron-4gb-ram-128gb-ssd-15.6-inch-windows-11-laptop-21015101/version.asp",
+        "product_text": "Entity Book Intel Celeron 4GB RAM 128GB SSD 15.6 Inch Windows 11 Laptop 4GB 128GB Intel Celeron 4GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00042",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 499.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00042",
+        "retailer": "LaptopsDirect",
+        "name": "Acer Extensa 15 AMD Ryzen 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "Acer",
+        "price": 499.97,
+        "price_str": "£499.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "AMD Ryzen 5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/acer-extensa-15-amd-ryzen-5-16gb-ram-512gb-ssd-15.6-inch-windows-11-pro-lap-nx.ej4ek.008/version.asp",
+        "product_text": "Acer Extensa 15 AMD Ryzen 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop Acer 16GB 512GB 15.0\" AMD Ryzen 5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00043",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 849.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00043",
+        "retailer": "LaptopsDirect",
+        "name": "Medion ERAZER Scout 15 Intel Core i5 16GB RAM 1TB SSD RTX 5050 144Hz 15.6 Inch Windows 11 Gaming Laptop",
+        "brand": "Medion",
+        "price": 849.97,
+        "price_str": "£849.97",
+        "ram": "16GB",
+        "storage": "1TB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/medion-erazer-scout-15-intel-core-i5-16gb-ram-1tb-ssd-rtx-5050-144hz-15.6-i-30039773/version.asp",
+        "product_text": "Medion ERAZER Scout 15 Intel Core i5 16GB RAM 1TB SSD RTX 5050 144Hz 15.6 Inch Windows 11 Gaming Laptop Medion 16GB 1TB 15.0\" Intel Core i5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00044",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 949.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00044",
+        "retailer": "LaptopsDirect",
+        "name": "Medion ERAZER Deputy 15 P1 Intel Core i7 16GB RAM 1TB SSD RTX 5060 144Hz 15.6 Inch Windows 11 Gaming Laptop",
+        "brand": "Medion",
+        "price": 949.97,
+        "price_str": "£949.97",
+        "ram": "16GB",
+        "storage": "1TB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/medion-erazer-deputy-15-p1-intel-core-i7-16gb-ram-1tb-ssd-rtx-5060-144hz-15-30039889/version.asp",
+        "product_text": "Medion ERAZER Deputy 15 P1 Intel Core i7 16GB RAM 1TB SSD RTX 5060 144Hz 15.6 Inch Windows 11 Gaming Laptop Medion 16GB 1TB 15.0\" Intel Core i7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00045",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 2249.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00045",
+        "retailer": "LaptopsDirect",
+        "name": "MSI Vector 16 HX AI A2XWHG-654UK Core Ultra 9 32GB 1TB GeForce RTX 5070 Ti 16 Inch QHD 240Hz Gaming Laptop",
+        "brand": "MSI",
+        "price": 2249.97,
+        "price_str": "£2249.97",
+        "ram": "32GB",
+        "storage": "1TB",
+        "screen_size": "16.0\"",
+        "processor": "Intel Core Ultra 9",
+        "url": "https://www.laptopsdirect.co.uk/msi-vector-16-hx-ai-a2xwhg-654uk-core-ultra-9-32gb-1tb-geforce-rtx-5070-ti-9s7-15m352-654/version.asp",
+        "product_text": "MSI Vector 16 HX AI A2XWHG-654UK Core Ultra 9 32GB 1TB GeForce RTX 5070 Ti 16 Inch QHD 240Hz Gaming Laptop MSI 32GB 1TB 16.0\" Intel Core Ultra 9"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00046",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 2016.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00046",
+        "retailer": "LaptopsDirect",
+        "name": "Medion ERAZER Major 18 Intel Core Ultra 9 32GB RAM 2TB SSD RTX 5070Ti 240Hz 18 Inch Windows 11 Gaming Laptop",
+        "brand": "Medion",
+        "price": 2016.97,
+        "price_str": "£2016.97",
+        "ram": "32GB",
+        "storage": "2TB",
+        "screen_size": "18.0\"",
+        "processor": "Intel Core Ultra 9 32GB",
+        "url": "https://www.laptopsdirect.co.uk/medion-erazer-major-18-intel-ultra-9-275hx-32gb-2tb-ssd-rtx-5070ti-18-inch-30039661/version.asp",
+        "product_text": "Medion ERAZER Major 18 Intel Core Ultra 9 32GB RAM 2TB SSD RTX 5070Ti 240Hz 18 Inch Windows 11 Gaming Laptop Medion 32GB 2TB 18.0\" Intel Core Ultra 9 32GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00047",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 2699.98,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00047",
+        "retailer": "LaptopsDirect",
+        "name": "Medion ERAZER Beast 16 X1 Ultimate Intel Core Ultra 9 32GB RAM 2TB SSD RTX 5090 300Hz 16 Inch Windows 11 Gaming Laptop",
+        "brand": "Medion",
+        "price": 2699.98,
+        "price_str": "£2699.98",
+        "ram": "32GB",
+        "storage": "2TB",
+        "screen_size": "16.0\"",
+        "processor": "Intel Core Ultra 9 32GB",
+        "url": "https://www.laptopsdirect.co.uk/medion-erazer-beast-16-x1-intel-ultra-9-275hx-32gb-2tb-ssd-rtx-5090-16-inch-30039609/version.asp",
+        "product_text": "Medion ERAZER Beast 16 X1 Ultimate Intel Core Ultra 9 32GB RAM 2TB SSD RTX 5090 300Hz 16 Inch Windows 11 Gaming Laptop Medion 32GB 2TB 16.0\" Intel Core Ultra 9 32GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00048",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 834.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00048",
+        "retailer": "LaptopsDirect",
+        "name": "MSI Modern 15 Intel Core Ultra 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "MSI",
+        "price": 834.97,
+        "price_str": "£834.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core Ultra 5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/msi-modern-15-intel-core-ultra-5-16gb-ram-512gb-ssd-15.6-inch-windows-11-la-9s7-15h551-003/version.asp",
+        "product_text": "MSI Modern 15 Intel Core Ultra 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop MSI 16GB 512GB 15.0\" Intel Core Ultra 5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00049",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1049.98,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00049",
+        "retailer": "LaptopsDirect",
+        "name": "Medion ERAZER Deputy 15 P1 Intel Core 7 16GB RAM 1TB SSD RTX 5060 144Hz 15.6 Inch Windows 11 Gaming Laptop",
+        "brand": "Medion",
+        "price": 1049.98,
+        "price_str": "£1049.98",
+        "ram": "16GB",
+        "storage": "1TB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core 7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/medion-erazer-deputy-15-p1-intel-core-i7-16gb-ram-1tb-ssd-rtx-5060-144hz-15-30039887/version.asp",
+        "product_text": "Medion ERAZER Deputy 15 P1 Intel Core 7 16GB RAM 1TB SSD RTX 5060 144Hz 15.6 Inch Windows 11 Gaming Laptop Medion 16GB 1TB 15.0\" Intel Core 7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00050",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1699.0,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00050",
+        "retailer": "LaptopsDirect",
+        "name": "Acer Nitro 18 AMD Ryzen AI 7 16GB RAM 1TB SSD RTX 5070 Ti 165Hz 18 Inch Windows 11 Gaming Laptop",
+        "brand": "Acer",
+        "price": 1699.0,
+        "price_str": "£1699.00",
+        "ram": "16GB",
+        "storage": "1TB",
+        "screen_size": "18.0\"",
+        "processor": "AMD Ryzen AI 7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/acer-nitro-18-amd-ryzen-ai-7-16gb-ram-1tb-ssd-rtx-5070-ti-165hz-18-inch-win-nh.qycek.003/version.asp",
+        "product_text": "Acer Nitro 18 AMD Ryzen AI 7 16GB RAM 1TB SSD RTX 5070 Ti 165Hz 18 Inch Windows 11 Gaming Laptop Acer 16GB 1TB 18.0\" AMD Ryzen AI 7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00051",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 2899.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00051",
+        "retailer": "LaptopsDirect",
+        "name": "Apple MacBook Pro 14.2 Inch M4 Max 36GB RAM 1TB SSD - Silver",
+        "brand": "Apple",
+        "price": 2899.97,
+        "price_str": "£2899.97",
+        "ram": "36GB",
+        "storage": "1TB",
+        "screen_size": "14.2\"",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/14-inch-macbook-pro-apple-m4-max-chip-with-14-core-cpu-and-32-core-gpu-36-mx2g3b-a/version.asp",
+        "product_text": "Apple MacBook Pro 14.2 Inch M4 Max 36GB RAM 1TB SSD - Silver Apple 36GB 1TB 14.2\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00052",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 699.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00052",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished HP OmniBook X 14-fe1500na Copilot+ PC Snapdragon X1P-42-100 16GB RAM 512GB SSD 14 Inch Windows 11 Laptop - Silver",
+        "brand": "",
+        "price": 699.97,
+        "price_str": "£699.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "14.0\"",
+        "processor": "Snapdragon X1P",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-hp-omnibook-x-14-fe1500na-copilot-pc-snapdragon-x1p-42-100-16g-a1-ap4r2ea/version.asp",
+        "product_text": "Refurbished HP OmniBook X 14-fe1500na Copilot+ PC Snapdragon X1P-42-100 16GB RAM 512GB SSD 14 Inch Windows 11 Laptop - Silver 16GB 512GB 14.0\" Snapdragon X1P"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00053",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 3399.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00053",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo Legion Pro 7 16IAX10H Intel Core Ultra 9 32GB RAM 1TB SSD RTX 5080 16 Inch Windows 11 Gaming Laptop",
+        "brand": "Lenovo",
+        "price": 3399.97,
+        "price_str": "£3399.97",
+        "ram": "32GB",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "Intel Core Ultra 9 32GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-legion-pro-7-16iax10h-intel-core-ultra-9-32gb-ram-1tb-ssd-geforce-rt-83f5000ruk/version.asp",
+        "product_text": "Lenovo Legion Pro 7 16IAX10H Intel Core Ultra 9 32GB RAM 1TB SSD RTX 5080 16 Inch Windows 11 Gaming Laptop Lenovo 32GB 1TB Intel Core Ultra 9 32GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00054",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 479.0,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00054",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished HP 850 G7 Intel Core i7 10th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 479.0,
+        "price_str": "£479.00",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 10th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-hp-850-g7-intel-core-i7-10th-gen-16gb-ram-256gb-ssd-15.6-inch-w-t1-850g7i716gb256gbw11p/version.asp",
+        "product_text": "Refurbished HP 850 G7 Intel Core i7 10th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop 16GB 256GB Intel Core i7 10th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00055",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 649.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00055",
+        "retailer": "LaptopsDirect",
+        "name": "Samsung Galaxy Book4 Intel Core 7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "Samsung",
+        "price": 649.97,
+        "price_str": "£649.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core 7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/samsung-galaxy-book4-intel-core-7-16gb-ram-512gb-ssd-15.6-inch-windows-11-p-np754xgk-kg1uk/version.asp",
+        "product_text": "Samsung Galaxy Book4 Intel Core 7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop Samsung 16GB 512GB Intel Core 7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00056",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 374.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00056",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V14 G4 AMD Ryzen 5 8GB RAM 512GB SSD 14 Inch Windows 11 Laptop",
+        "brand": "Lenovo",
+        "price": 374.97,
+        "price_str": "£374.97",
+        "ram": "8GB",
+        "storage": "512GB",
+        "screen_size": "14.0\"",
+        "processor": "AMD Ryzen 5 8GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v14-g4-amd-ryzen-8gb-ram-512gb-ssd-14-inch-windows-11-laptop-83fg001auk/version.asp",
+        "product_text": "Lenovo V14 G4 AMD Ryzen 5 8GB RAM 512GB SSD 14 Inch Windows 11 Laptop Lenovo 8GB 512GB 14.0\" AMD Ryzen 5 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00057",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 299.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00057",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Lenovo ThinkPad T480 Intel Core i5 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 299.97,
+        "price_str": "£299.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 8th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-lenovo-thinkpad-t480-core-i5-8th-gen-16gb-256gb-14-inch-windows-t1-t480i516gb256gbw10p/version.asp",
+        "product_text": "Refurbished Lenovo ThinkPad T480 Intel Core i5 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB Intel Core i5 8th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00058",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 239.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00058",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 5490 Intel Core i5 8th gen 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 239.97,
+        "price_str": "£239.97",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 8th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-5490-core-i5-8th-gen-8gb-256gb-14-inch-windows-10-t1-5490i58gb256gbw10p/version.asp",
+        "product_text": "Refurbished Dell Latitude 5490 Intel Core i5 8th gen 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 8GB 256GB Intel Core i5 8th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00059",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 2249.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00059",
+        "retailer": "LaptopsDirect",
+        "name": "ASUS ROG Strix G18 Intel Core Ultra 9 32GB RAM 2TB SSD RTX 5070 Ti 240Hz 16 Inch Windows 11 Gaming Laptop",
+        "brand": "Asus",
+        "price": 2249.97,
+        "price_str": "£2249.97",
+        "ram": "32GB",
+        "storage": "2TB",
+        "screen_size": "18.0\"",
+        "processor": "Intel Core Ultra 9 32GB",
+        "url": "https://www.laptopsdirect.co.uk/asus-rog-strix-g16-intel-core-ultra-9-32gb-ram-2tb-ssd-rtx-5070-ti-240hz-16-g615lr-s5191w/version.asp",
+        "product_text": "ASUS ROG Strix G18 Intel Core Ultra 9 32GB RAM 2TB SSD RTX 5070 Ti 240Hz 16 Inch Windows 11 Gaming Laptop Asus 32GB 2TB 18.0\" Intel Core Ultra 9 32GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00060",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1149.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00060",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Apple MacBook Pro 16\" M2 16GB 512GB SSD - 2023 Space Grey",
+        "brand": "",
+        "price": 1149.97,
+        "price_str": "£1149.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "16.0\"",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-apple-macbook-pro-16-m2-16gb-512gb-ssd-2023-space-grey-a1-mnw83b-a/version.asp",
+        "product_text": "Refurbished Apple MacBook Pro 16\" M2 16GB 512GB SSD - 2023 Space Grey 16GB 512GB 16.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00061",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1139.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00061",
+        "retailer": "LaptopsDirect",
+        "name": "HP Victus 15 fb2006na AMD Ryzen 7 16GB RAM 512GB SSD RTX 4060 144Hz 15.6 Inch Windows 11 Gaming Laptop",
+        "brand": "HP",
+        "price": 1139.97,
+        "price_str": "£1139.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "AMD Ryzen 7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/hp-victus-15-fb2006na-amd-ryzen-7-16gb-ram-512gb-ssd-rtx-4060-15.6-inch-win-a2dd7ea/version.asp",
+        "product_text": "HP Victus 15 fb2006na AMD Ryzen 7 16GB RAM 512GB SSD RTX 4060 144Hz 15.6 Inch Windows 11 Gaming Laptop HP 16GB 512GB 15.0\" AMD Ryzen 7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00062",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 849.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00062",
+        "retailer": "LaptopsDirect",
+        "name": "Dell Pro 16 Intel Core 5 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop",
+        "brand": "Dell",
+        "price": 849.97,
+        "price_str": "£849.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "16.0\"",
+        "processor": "Intel Core i5",
+        "url": "https://www.laptopsdirect.co.uk/-ht0v6/version.asp",
+        "product_text": "Dell Pro 16 Intel Core 5 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop Dell 16GB 512GB 16.0\" Intel Core i5"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00063",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1049.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00063",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo ThinkPad E14 Gen 7 21SX Intel Core Ultra 7 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 1049.97,
+        "price_str": "£1049.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "14.0\"",
+        "processor": "Intel Core Ultra 7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-thinkpad-e14-gen-7-21sx-intel-core-ultra-7-16gb-ram-512gb-ssd-14-inc-21sx000vuk/version.asp",
+        "product_text": "Lenovo ThinkPad E14 Gen 7 21SX Intel Core Ultra 7 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop Lenovo 16GB 512GB 14.0\" Intel Core Ultra 7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00064",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 729.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00064",
+        "retailer": "LaptopsDirect",
+        "name": "Apple MacBook Air 13.6 Inch M2 16GB RAM 256GB SSD - Midnight",
+        "brand": "Apple",
+        "price": 729.97,
+        "price_str": "£729.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "13.6\"",
+        "processor": "Apple M2",
+        "url": "https://www.laptopsdirect.co.uk/apple-macbook-air-13.6-inch-m2-16gb-ram-256gb-ssd-midnight-mc7x4b-a/version.asp",
+        "product_text": "Apple MacBook Air 13.6 Inch M2 16GB RAM 256GB SSD - Midnight Apple 16GB 256GB 13.6\" Apple M2"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00065",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 479.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00065",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V15 G4 Intel Core i5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 479.97,
+        "price_str": "£479.97",
+        "ram": "8GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i5 8GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v15-g4-iru-intel-core-i5-8gb-ram-512gb-ssd-15.6-inch-fhd-windows-11-83a1008yuk/version.asp",
+        "product_text": "Lenovo V15 G4 Intel Core i5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop Lenovo 8GB 512GB 15.0\" Intel Core i5 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00066",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 699.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00066",
+        "retailer": "LaptopsDirect",
+        "name": "HP 255 G9 AMD Ryzen 7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "HP",
+        "price": 699.97,
+        "price_str": "£699.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "AMD Ryzen 7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/hp-255-g9-amd-ryzen-7-5825u-16gb-ram-512gb-ssd-15.6-inch-windows-11-pro-lap-816r4ea/version.asp",
+        "product_text": "HP 255 G9 AMD Ryzen 7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop HP 16GB 512GB AMD Ryzen 7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00067",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 369.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00067",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished HP EliteBook 840 G7 Intel Core i5 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 369.97,
+        "price_str": "£369.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 10th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-hp-elitebook-840-g7-core-i5-10th-gen-16gb-256gb-14-inch-windows-t1-840g7i516gb256gbw10p/version.asp",
+        "product_text": "Refurbished HP EliteBook 840 G7 Intel Core i5 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB Intel Core i5 10th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00068",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 934.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00068",
+        "retailer": "LaptopsDirect",
+        "name": "Dell Latitude 3450 Intel Core i7 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "Dell",
+        "price": 934.97,
+        "price_str": "£934.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/dell-latitude-3450-13th-gen-intel-core-i7-1355u-12-mb-cache-10-cores-12-thr-m96kv/version.asp",
+        "product_text": "Dell Latitude 3450 Intel Core i7 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop Dell 16GB 512GB Intel Core i7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00069",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 319.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00069",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished HP EliteBook 840 G6 Intel Core i5 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 319.97,
+        "price_str": "£319.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 8th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-hp-elitebook-840-g6-ultrabook-core-i5-8th-gen-16gb-256gb-ssd-14-t1-840g6i516gb256gbw10p/version.asp",
+        "product_text": "Refurbished HP EliteBook 840 G6 Intel Core i5 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB Intel Core i5 8th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00070",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 269.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00070",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 5490 Intel Core i7 8th gen 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 269.97,
+        "price_str": "£269.97",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 8th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-5490-core-i7-8th-gen-8gb-256gb-14-inch-windows-10-t1-5490i78gb256gbw10p/version.asp",
+        "product_text": "Refurbished Dell Latitude 5490 Intel Core i7 8th gen 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 8GB 256GB Intel Core i7 8th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00071",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 349.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00071",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 5330 Core i5 12th gen 8GB RAM 256GB SSD 13.3 Inch Windows 11 Pro Touchscreen Convertible Laptop",
+        "brand": "",
+        "price": 349.97,
+        "price_str": "£349.97",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-5330-core-i5-12th-gen-8gb-ram-256gb-ssd-13.3-inch-t1-53302in1i58gb256gbw11/version.asp",
+        "product_text": "Refurbished Dell Latitude 5330 Core i5 12th gen 8GB RAM 256GB SSD 13.3 Inch Windows 11 Pro Touchscreen Convertible Laptop 8GB 256GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00072",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 2299.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00072",
+        "retailer": "LaptopsDirect",
+        "name": "ASUS ROG Strix G16 AMD Ryzen 9 32GB RAM 1TB SSD RTX 5070 Ti 165Hz 16 Inch Windows 11 Gaming Laptop",
+        "brand": "Asus",
+        "price": 2299.97,
+        "price_str": "£2299.97",
+        "ram": "32GB",
+        "storage": "1TB",
+        "screen_size": "16.0\"",
+        "processor": "AMD Ryzen 9 32GB",
+        "url": "https://www.laptopsdirect.co.uk/asus-rog-strix-g16-amd-ryzen-9-32gb-ram-1tb-ssd-rtx-5070-ti-165hz-16-inch-w-g614pr-rv003w/version.asp",
+        "product_text": "ASUS ROG Strix G16 AMD Ryzen 9 32GB RAM 1TB SSD RTX 5070 Ti 165Hz 16 Inch Windows 11 Gaming Laptop Asus 32GB 1TB 16.0\" AMD Ryzen 9 32GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00073",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 369.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00073",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 5420 Core i7 11th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 369.97,
+        "price_str": "£369.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-5420-core-i7-11th-gen-16gb-256gb-14-inch-windows-t1-5420i716gb256gbw10p/version.asp",
+        "product_text": "Refurbished Dell Latitude 5420 Core i7 11th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00074",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 369.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00074",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Lenovo ThinkPad T590 Core i5 8th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 369.97,
+        "price_str": "£369.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-lenovo-thinkpad-t590-core-i5-8th-gen-16gb-256gb-15.6-inch-windo-t1-t590i516gb256gbw10p/version.asp",
+        "product_text": "Refurbished Lenovo ThinkPad T590 Core i5 8th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop 16GB 256GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00075",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 299.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00075",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 5490 Core i7 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 299.97,
+        "price_str": "£299.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-5490-core-i7-8th-gen-16gb-256gb-14-inch-windows-1-t1-5490i716gb256gbw10p/version.asp",
+        "product_text": "Refurbished Dell Latitude 5490 Core i7 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00076",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 319.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00076",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Lenovo ThinkPad L14 Ryzen 5 Pro 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 319.97,
+        "price_str": "£319.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "14.0\"",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-lenovo-thinkpad-l14-ryzen-5-pro-16gb-ram-256gb-ssd-14-inch-wind-t1-l14r5p16gb256gbw11p/version.asp",
+        "product_text": "Refurbished Lenovo ThinkPad L14 Ryzen 5 Pro 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB 14.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00077",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 399.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00077",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished HP EliteBook 840 G7 Core i5 10th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 399.97,
+        "price_str": "£399.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 10th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-hp-elitebook-840-g7-core-i5-10th-gen-16gb-512gb-14-inch-windows-t1-840g7i516gb512gbw10p/version.asp",
+        "product_text": "Refurbished HP EliteBook 840 G7 Core i5 10th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop 16GB 512GB Intel Core i5 10th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00078",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 359.0,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00078",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Lenovo ThinkPad T14 Intel Core i5 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 359.0,
+        "price_str": "£359.00",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "14.0\"",
+        "processor": "Intel Core i5 10th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-lenovo-thinkpad-t14-core-i5-10th-gen-16gb-256gb-14-inch-windows-t1-t14i516gb256gbw10p/version.asp",
+        "product_text": "Refurbished Lenovo ThinkPad T14 Intel Core i5 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB 14.0\" Intel Core i5 10th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00079",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 399.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00079",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished HP EliteBook 840 G7 Intel Core i7 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 399.97,
+        "price_str": "£399.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 10th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-hp-elitebook-840-g7-core-i7-10th-gen-16gb-256gb-14-inch-windows-t1-840g7i716gb256gbw11p/version.asp",
+        "product_text": "Refurbished HP EliteBook 840 G7 Intel Core i7 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB Intel Core i7 10th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00080",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 349.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00080",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 7410 Core i5 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 349.97,
+        "price_str": "£349.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 10th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-7410-core-i5-10th-gen-16gb-256gb-14-inch-windows-t1-7410i516gb256gbw10p/version.asp",
+        "product_text": "Refurbished Dell Latitude 7410 Core i5 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB Intel Core i5 10th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00081",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 349.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00081",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 5410 Intel Core i7 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 349.97,
+        "price_str": "£349.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 10th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-5410-core-i7-10th-gen-16gb-256gb-14-inch-windows-t1-5410i716gb256gbw10p/version.asp",
+        "product_text": "Refurbished Dell Latitude 5410 Intel Core i7 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB Intel Core i7 10th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00082",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 349.0,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00082",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished HP EliteBook 840 G6 Intel Core i7 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 349.0,
+        "price_str": "£349.00",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 8th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-hp-elitebook-840-g6-ultrabook-core-i7-8th-gen-16gb-256gb-14-inc-t1-840g6i716gb256gbw10p/version.asp",
+        "product_text": "Refurbished HP EliteBook 840 G6 Intel Core i7 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB Intel Core i7 8th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00083",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 339.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00083",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 5410 Core i5 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 339.97,
+        "price_str": "£339.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-5410-core-i5-10th-gen-16gb-256gb-14-inch-windows-t1-5410i516gb256gbw11p/version.asp",
+        "product_text": "Refurbished Dell Latitude 5410 Core i5 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00084",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 349.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00084",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 7410 Core i7 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 349.97,
+        "price_str": "£349.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 10th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-7410-core-i7-8th-gen-16gb-256gb-14-inch-windows-1-t1-7410i716gb256gbw11p/version.asp",
+        "product_text": "Refurbished Dell Latitude 7410 Core i7 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB Intel Core i7 10th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00085",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 349.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00085",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Lenovo Thinkpad E14 Core i5 10th Gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 349.97,
+        "price_str": "£349.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "14.0\"",
+        "processor": "Intel Core i5 10th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-lenovo-e14-core-i5-10th-gen-16gb-ram-256gb-ssd-14-inch-windows-t1-e14i516gb256gbw11p/version.asp",
+        "product_text": "Refurbished Lenovo Thinkpad E14 Core i5 10th Gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB 14.0\" Intel Core i5 10th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00086",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 579.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00086",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V15 G5 Intel Core i5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 579.97,
+        "price_str": "£579.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v15-g4-intel-core-i5-16gb-ram-512gb-ssd-15.6-inch-windows-11-pro-lap-83gw007puk/version.asp",
+        "product_text": "Lenovo V15 G5 Intel Core i5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop Lenovo 16GB 512GB 15.0\" Intel Core i5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00087",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 489.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00087",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V15 G5 Intel Core i5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "Lenovo",
+        "price": 489.97,
+        "price_str": "£489.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v15-g4-intel-core-i5-16gb-ram-512gb-ssd-15.6-inch-windows-11-laptop-83gw007juk/version.asp",
+        "product_text": "Lenovo V15 G5 Intel Core i5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop Lenovo 16GB 512GB 15.0\" Intel Core i5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00088",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 699.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00088",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V15 G4 Intel Core i7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 699.97,
+        "price_str": "£699.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v15-g4-intel-core-i7-16gb-ram-512gb-ssd-15.6-inch-windows-11-pro-lap-83gw007guk/version.asp",
+        "product_text": "Lenovo V15 G4 Intel Core i7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop Lenovo 16GB 512GB 15.0\" Intel Core i7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00089",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 539.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00089",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V15 G4 AMD Ryzen 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 539.97,
+        "price_str": "£539.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "AMD Ryzen 5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v15-g4-amd-ryzen-5-16gb-ram-512gb-ssd-15.6-inch-windows-11-pro-lapto-82yu00jyuk/version.asp",
+        "product_text": "Lenovo V15 G4 AMD Ryzen 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop Lenovo 16GB 512GB 15.0\" AMD Ryzen 5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00090",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 429.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00090",
+        "retailer": "LaptopsDirect",
+        "name": "Dell Inspiron 15 AMD Ryzen 5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "Dell",
+        "price": 429.97,
+        "price_str": "£429.97",
+        "ram": "8GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "AMD Ryzen 5 8GB",
+        "url": "https://www.laptopsdirect.co.uk/dell-inspiron-15-amd-ryzen-5-8gb-ram-512gb-ssd-15.6-inch-windows-11-laptop-12k2h/version.asp",
+        "product_text": "Dell Inspiron 15 AMD Ryzen 5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop Dell 8GB 512GB 15.0\" AMD Ryzen 5 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00091",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 649.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00091",
+        "retailer": "LaptopsDirect",
+        "name": "Dell Pro 15 Essential Intel Core i5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "Dell",
+        "price": 649.97,
+        "price_str": "£649.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/dell-pro-15-essential-pv15250i5-1334u16gb512gb-ssd15.6-fhdintel-uhdf-t26h4/version.asp",
+        "product_text": "Dell Pro 15 Essential Intel Core i5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop Dell 16GB 512GB 15.0\" Intel Core i5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00092",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 874.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00092",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo ThinkPad E16 Gen 3 21SR Intel Core Ultra 5 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 874.97,
+        "price_str": "£874.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "16.0\"",
+        "processor": "Intel Core Ultra 5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-tp-e16-g3-ultra5-225u-16in-21sr0044uk/version.asp",
+        "product_text": "Lenovo ThinkPad E16 Gen 3 21SR Intel Core Ultra 5 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop Lenovo 16GB 512GB 16.0\" Intel Core Ultra 5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00093",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 249.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00093",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 5400 Intel Core i5 8th gen 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 249.97,
+        "price_str": "£249.97",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 8th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-5400-core-i5-8th-gen-8gb-256gb-14-inch-windows-10-t1-5400i58gb256gbw10p/version.asp",
+        "product_text": "Refurbished Dell Latitude 5400 Intel Core i5 8th gen 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 8GB 256GB Intel Core i5 8th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00094",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 719.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00094",
+        "retailer": "LaptopsDirect",
+        "name": "Apple MacBook Air 13 Inch M2 16GB RAM 256GB SSD - Starlight",
+        "brand": "Apple",
+        "price": 719.97,
+        "price_str": "£719.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "13.0\"",
+        "processor": "Apple M2 Pro",
+        "url": "https://www.laptopsdirect.co.uk/apple-macbook-air-13.6-inch-m2-16gb-ram-256gb-ssd-starlight-mc7w4b-a/version.asp",
+        "product_text": "Apple MacBook Air 13 Inch M2 16GB RAM 256GB SSD - Starlight Apple 16GB 256GB 13.0\" Apple M2 Pro"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00095",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 399.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00095",
+        "retailer": "LaptopsDirect",
+        "name": "HP 17-cp2009na AMD Ryzen 3 8GB RAM 512GB SSD 17.3 Inch Windows 11 Laptop",
+        "brand": "HP",
+        "price": 399.97,
+        "price_str": "£399.97",
+        "ram": "8GB",
+        "storage": "512GB",
+        "screen_size": "17.0\"",
+        "processor": "AMD Ryzen 3 8GB",
+        "url": "https://www.laptopsdirect.co.uk/hp-17-cp2009na-amd-ryzen-3-8gb-ram-512gb-ssd-17.3-inch-windows-11-laptop-c1ll3ea/version.asp",
+        "product_text": "HP 17-cp2009na AMD Ryzen 3 8GB RAM 512GB SSD 17.3 Inch Windows 11 Laptop HP 8GB 512GB 17.0\" AMD Ryzen 3 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00096",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 869.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00096",
+        "retailer": "LaptopsDirect",
+        "name": "ASUS ExpertBook P1 Intel Core i7 32GB RAM 1TB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "Asus",
+        "price": 869.97,
+        "price_str": "£869.97",
+        "ram": "32GB",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "Intel Core i7 32GB",
+        "url": "https://www.laptopsdirect.co.uk/asus-14.0-clamshell-i7-13620h-32gb-1tb-2280-pcie-g4-ssd-win11-p1403cv-i731x/version.asp",
+        "product_text": "ASUS ExpertBook P1 Intel Core i7 32GB RAM 1TB SSD 14 Inch Windows 11 Pro Laptop Asus 32GB 1TB Intel Core i7 32GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00097",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 399.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00097",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo IdeaPad 1 AMD Ryzen 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "Lenovo",
+        "price": 399.97,
+        "price_str": "£399.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "AMD Ryzen 5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-ideapad-1-amd-ryzen-5-16gb-ram-512gb-ssd-15.6-inch-windows-11-home-l-82vg004uuk/version.asp",
+        "product_text": "Lenovo IdeaPad 1 AMD Ryzen 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop Lenovo 16GB 512GB AMD Ryzen 5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00098",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 279.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00098",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 5490 Core i5 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 279.97,
+        "price_str": "£279.97",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-5490-core-i5-8th-gen-16gb-256gb-14-inch-windows-1-t2-5490i516gb256gbw10p/version.asp",
+        "product_text": "Refurbished Dell Latitude 5490 Core i5 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop 16GB 256GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00099",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 419.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00099",
+        "retailer": "LaptopsDirect",
+        "name": "HP 15-fd0062na Intel Core i5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Home Laptop",
+        "brand": "HP",
+        "price": 419.97,
+        "price_str": "£419.97",
+        "ram": "8GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i5 8GB",
+        "url": "https://www.laptopsdirect.co.uk/hp-15-fd0062na-intel-core-i5-8gb-ram-512gb-ssd-15.6-inch-windows-11-home-la-bm2v6ea/version.asp",
+        "product_text": "HP 15-fd0062na Intel Core i5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Home Laptop HP 8GB 512GB 15.0\" Intel Core i5 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00100",
+    "product_count": 3,
+    "retailers": [
+      "LaptopsDirect",
+      "Argos"
+    ],
+    "best_price": 397.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00100",
+        "retailer": "LaptopsDirect",
+        "name": "ASUS Vivobook 15 Intel Core 5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "Asus",
+        "price": 397.97,
+        "price_str": "£397.97",
+        "ram": "8GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core 5 8GB",
+        "url": "https://www.laptopsdirect.co.uk/asus-vivobook-15-intel-core-5-8gb-ram-512gb-ssd-15.6-inch-windows-11-laptop-x1504va-bq2890w/version.asp",
+        "product_text": "ASUS Vivobook 15 Intel Core 5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop Asus 8GB 512GB 15.0\" Intel Core 5 8GB"
+      },
+      {
+        "global_id": "PROD_00129",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook 15 15.6in Core 5 8GB 512GB Laptop - Silver",
+        "brand": "ASUS",
+        "price": 489.0,
+        "price_str": "£489.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7788507?clickSR=slp:term:laptops:9:372:1",
+        "product_text": "ASUS Vivobook 15 15.6in Core 5 8GB 512GB Laptop - Silver ASUS 15.0\""
+      },
+      {
+        "global_id": "PROD_00189",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook 15 15.6in Core 5 8GB 512GB Laptop - Silver",
+        "brand": "ASUS",
+        "price": 489.0,
+        "price_str": "£489.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7788507?clickSR=slp:term:laptops:65:372:1",
+        "product_text": "ASUS Vivobook 15 15.6in Core 5 8GB 512GB Laptop - Silver ASUS 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00101",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 399.0,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00101",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 7410 Intel Core i7 10th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop - Black",
+        "brand": "",
+        "price": 399.0,
+        "price_str": "£399.00",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 10th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-7410-core-i7-10th-gen-16gb-512gb-14-inch-windows-t1-7410i716gb512gbw11p/version.asp",
+        "product_text": "Refurbished Dell Latitude 7410 Intel Core i7 10th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop - Black 16GB 512GB Intel Core i7 10th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00102",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 359.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00102",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 7410 Intel Core i7 10th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 359.97,
+        "price_str": "£359.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 10th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-7410-intel-core-i7-10th-gen-16gb-512gb-14-inch-wi-t2-7410i716gb512gbw11p/version.asp",
+        "product_text": "Refurbished Dell Latitude 7410 Intel Core i7 10th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop 16GB 512GB Intel Core i7 10th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00103",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 424.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00103",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V15 G4 Intel Core i5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "Lenovo",
+        "price": 424.97,
+        "price_str": "£424.97",
+        "ram": "8GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i5 8GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v15-intel-core-i5-8gb-ram-512gb-ssd-15.6-inch-wndows-11-laptop-83a100pnuk/version.asp",
+        "product_text": "Lenovo V15 G4 Intel Core i5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop Lenovo 8GB 512GB 15.0\" Intel Core i5 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00104",
+    "product_count": 2,
+    "retailers": [
+      "LaptopsDirect",
+      "Argos"
+    ],
+    "best_price": 399.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00104",
+        "retailer": "LaptopsDirect",
+        "name": "HP 15-fc0045na AMD Ryzen 3 7320U 8GB RAM 256GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "HP",
+        "price": 399.97,
+        "price_str": "£399.97",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen_size": "15.0\"",
+        "processor": "AMD Ryzen 3 7320U",
+        "url": "https://www.laptopsdirect.co.uk/hp-15-fc0045na-amd-ryzen-3-7320u-8gb-ram-256gb-ssd-15.6-inch-windows-11-lap-bm2u1ea/version.asp",
+        "product_text": "HP 15-fc0045na AMD Ryzen 3 7320U 8GB RAM 256GB SSD 15.6 Inch Windows 11 Laptop HP 8GB 256GB 15.0\" AMD Ryzen 3 7320U"
+      },
+      {
+        "global_id": "PROD_00154",
+        "retailer": "Argos",
+        "name": "HP 15-fc0045na 15.6in AMD Ryzen 3 8GB 256GB Laptop - Black",
+        "brand": "HP",
+        "price": 449.0,
+        "price_str": "£449.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "AMD Ryzen 3 8GB",
+        "url": "https://www.argos.co.uk/product/7806764?clickSR=slp:term:laptops:34:372:1",
+        "product_text": "HP 15-fc0045na 15.6in AMD Ryzen 3 8GB 256GB Laptop - Black HP 15.0\" AMD Ryzen 3 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00105",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 119.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00105",
+        "retailer": "LaptopsDirect",
+        "name": "Entity Book Targa Intel Celeron 4GB RAM 128GB SSD 11.6 Inch Windows 11 Touchscreen Laptop",
+        "brand": "",
+        "price": 119.97,
+        "price_str": "£119.97",
+        "ram": "4GB",
+        "storage": "128GB",
+        "screen_size": "",
+        "processor": "Intel Celeron 4GB",
+        "url": "https://www.laptopsdirect.co.uk/entity-book-targa-intel-celeron-4gb-ram-128gb-ssd-11.6-inch-windows-11-touc-22011101/version.asp",
+        "product_text": "Entity Book Targa Intel Celeron 4GB RAM 128GB SSD 11.6 Inch Windows 11 Touchscreen Laptop 4GB 128GB Intel Celeron 4GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00106",
+    "product_count": 2,
+    "retailers": [
+      "LaptopsDirect",
+      "Argos"
+    ],
+    "best_price": 1447.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00106",
+        "retailer": "LaptopsDirect",
+        "name": "Apple MacBook Pro 14 Inch M5 16GB RAM 512GB SSD - Space Black",
+        "brand": "Apple",
+        "price": 1447.97,
+        "price_str": "£1447.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "14.0\"",
+        "processor": "",
+        "url": "https://www.laptopsdirect.co.uk/apple-macbook-pro-14-inch-m5-16gb-ram-512gb-ssd-space-black-mde04b-a/version.asp",
+        "product_text": "Apple MacBook Pro 14 Inch M5 16GB RAM 512GB SSD - Space Black Apple 16GB 512GB 14.0\""
+      },
+      {
+        "global_id": "PROD_00198",
+        "retailer": "Argos",
+        "name": "Apple MacBook Pro 2025 14.2in M5 16GB 512GB - Space Black",
+        "brand": "Apple",
+        "price": 1599.0,
+        "price_str": "£1599.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7859405?clickSR=slp:term:laptops:75:372:1",
+        "product_text": "Apple MacBook Pro 2025 14.2in M5 16GB 512GB - Space Black Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00107",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 199.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00107",
+        "retailer": "LaptopsDirect",
+        "name": "Acer Aspire Lite Intel N150 4GB RAM 128GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "Acer",
+        "price": 199.97,
+        "price_str": "£199.97",
+        "ram": "4GB",
+        "storage": "128GB",
+        "screen_size": "",
+        "processor": "Intel N150",
+        "url": "https://www.laptopsdirect.co.uk/acer-aspire-lite-intel-n150-4gb-ram-128gb-ssd-15.6-inch-windows-11-laptop-nx.da9ek.001/version.asp",
+        "product_text": "Acer Aspire Lite Intel N150 4GB RAM 128GB SSD 15.6 Inch Windows 11 Laptop Acer 4GB 128GB Intel N150"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00108",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 1049.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00108",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo ThinkPad E16 G3 Intel Core Ultra 7 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 1049.97,
+        "price_str": "£1049.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "16.0\"",
+        "processor": "Intel Core Ultra 7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-thinkpad-e16-g3-intel-core-ultra-7-16gb-ram-512gb-ssd-16-inch-window-21sr000nuk/version.asp",
+        "product_text": "Lenovo ThinkPad E16 G3 Intel Core Ultra 7 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop Lenovo 16GB 512GB 16.0\" Intel Core Ultra 7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00109",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 379.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00109",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 5510 Core i5 10th gen 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 379.97,
+        "price_str": "£379.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 10310U",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-5510-core-i5-10th-gen-16gb-ram-512gb-ssd-15.6-inch-windows-t1-5510i516gb512gbw11p/version.asp",
+        "product_text": "Refurbished Dell Latitude 5510 Core i5 10th gen 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop 16GB 512GB Intel Core i5 10310U"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00110",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 999.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00110",
+        "retailer": "LaptopsDirect",
+        "name": "MSI Katana 17 B13VEK-015UK Intel Core i7 16GB RAM 1TB SSD RTX 4050 144Hz 17.3 Inch Windows 11 Gaming Laptop",
+        "brand": "MSI",
+        "price": 999.97,
+        "price_str": "£999.97",
+        "ram": "16GB",
+        "storage": "1TB",
+        "screen_size": "17.0\"",
+        "processor": "Intel Core i7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/msi-katana-17-intel-core-i7-13620h-16gb-1tb-ssd-geforce-rtx-4050-17.3-inch-9s7-17l541-015/version.asp",
+        "product_text": "MSI Katana 17 B13VEK-015UK Intel Core i7 16GB RAM 1TB SSD RTX 4050 144Hz 17.3 Inch Windows 11 Gaming Laptop MSI 16GB 1TB 17.0\" Intel Core i7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00111",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 549.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00111",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V15 G4 Intel core i7 8GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 549.97,
+        "price_str": "£549.97",
+        "ram": "8GB",
+        "storage": "512GB",
+        "screen_size": "15.0\"",
+        "processor": "Intel core i7 8GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v15-g4-intel-core-i7-8gb-ram-512gb-ssd-15.6-inch-windows-11-pro-lapt-83a1012fuk/version.asp",
+        "product_text": "Lenovo V15 G4 Intel core i7 8GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop Lenovo 8GB 512GB 15.0\" Intel core i7 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00112",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 479.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00112",
+        "retailer": "LaptopsDirect",
+        "name": "HP 250 Intel Core i5 16GB 512GB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "HP",
+        "price": 479.97,
+        "price_str": "£479.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core i5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/hewlett-packard-hp-250-ak9u2at-ak9u2at/version.asp",
+        "product_text": "HP 250 Intel Core i5 16GB 512GB SSD 15.6 Inch Windows 11 Laptop HP 16GB 512GB Intel Core i5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00113",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 399.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00113",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo V14 G4 ABP AMD Ryzen 5 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 399.97,
+        "price_str": "£399.97",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen_size": "14.0\"",
+        "processor": "AMD Ryzen 5 8GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-v14-g4-abp-r5-7430u-14in-8gb-256gb-w11p-82yx005euk/version.asp",
+        "product_text": "Lenovo V14 G4 ABP AMD Ryzen 5 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop Lenovo 8GB 256GB 14.0\" AMD Ryzen 5 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00114",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 449.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00114",
+        "retailer": "LaptopsDirect",
+        "name": "ASUS Vivobook 14 Copilot+ PC AMD Ryzen 5 AI 16GB RAM 512GB SSD 14 Inch Windows 11 Laptop",
+        "brand": "Asus",
+        "price": 449.97,
+        "price_str": "£449.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "14.0\"",
+        "processor": "AMD Ryzen 5",
+        "url": "https://www.laptopsdirect.co.uk/asus-vivobook-ai-5-330-16gb-512gb-blue-m1407ka-ly134w/version.asp",
+        "product_text": "ASUS Vivobook 14 Copilot+ PC AMD Ryzen 5 AI 16GB RAM 512GB SSD 14 Inch Windows 11 Laptop Asus 16GB 512GB 14.0\" AMD Ryzen 5"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00115",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 399.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00115",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Lenovo ThinkPad T14 Intel Core i5 10th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 399.97,
+        "price_str": "£399.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "14.0\"",
+        "processor": "Intel Core i5 10th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-lenovo-thinkpad-t14-core-i5-10th-gen-16gb-512gb-14-inch-windows-t1-t14i516gb512gbw10p/version.asp",
+        "product_text": "Refurbished Lenovo ThinkPad T14 Intel Core i5 10th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop 16GB 512GB 14.0\" Intel Core i5 10th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00116",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 849.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00116",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo ThinkBook 14 G8 IRL Intel Core 7 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 849.97,
+        "price_str": "£849.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "14.0\"",
+        "processor": "Intel Core 7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-thinkbook-14-g8-irl-intel-core-7-16gb-ram-512gb-ssd-14-inch-windows-21sg008buk/version.asp",
+        "product_text": "Lenovo ThinkBook 14 G8 IRL Intel Core 7 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop Lenovo 16GB 512GB 14.0\" Intel Core 7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00117",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 699.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00117",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished HP Zbook Studio G7 Intel Core i9 10th gen 32GB RAM 512GB SSD T2000 Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 699.97,
+        "price_str": "£699.97",
+        "ram": "32GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core i9 10th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-hp-zbook-studio-g7-intel-core-i9-10th-gen-32gb-ram-512gb-ssd-t2-t1-zbg7i932gb512gbt2w11p/version.asp",
+        "product_text": "Refurbished HP Zbook Studio G7 Intel Core i9 10th gen 32GB RAM 512GB SSD T2000 Windows 11 Pro Laptop 32GB 512GB Intel Core i9 10th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00118",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 544.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00118",
+        "retailer": "LaptopsDirect",
+        "name": "Medion Akoya E15443 Intel Core Ultra 5 16GB RAM 1TB SSD 15.6 Inch Windows 11 Laptop",
+        "brand": "Medion",
+        "price": 544.97,
+        "price_str": "£544.97",
+        "ram": "16GB",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "Intel Core Ultra 5 16GB",
+        "url": "https://www.laptopsdirect.co.uk/medion-akoya-e15443-intel-core-ultra-5-16gb-ram-1tb-ssd-15.6-inch-windows-1-30040713/version.asp",
+        "product_text": "Medion Akoya E15443 Intel Core Ultra 5 16GB RAM 1TB SSD 15.6 Inch Windows 11 Laptop Medion 16GB 1TB Intel Core Ultra 5 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00119",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 899.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00119",
+        "retailer": "LaptopsDirect",
+        "name": "Lenovo ThinkBook 16 G8 IAL Intel Core Ultra 7 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop",
+        "brand": "Lenovo",
+        "price": 899.97,
+        "price_str": "£899.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "16.0\"",
+        "processor": "Intel Core Ultra 7 16GB",
+        "url": "https://www.laptopsdirect.co.uk/lenovo-thinkbook-16-g8-ial-intel-core-ultra-7-16gb-ram-512gb-ssd-16-inch-wi-21sk007euk/version.asp",
+        "product_text": "Lenovo ThinkBook 16 G8 IAL Intel Core Ultra 7 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop Lenovo 16GB 512GB 16.0\" Intel Core Ultra 7 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00120",
+    "product_count": 1,
+    "retailers": [
+      "LaptopsDirect"
+    ],
+    "best_price": 329.97,
+    "best_retailer": "LaptopsDirect",
+    "products": [
+      {
+        "global_id": "PROD_00120",
+        "retailer": "LaptopsDirect",
+        "name": "Refurbished Dell Latitude 7490 Intel Core i7 8th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
+        "brand": "",
+        "price": 329.97,
+        "price_str": "£329.97",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen_size": "",
+        "processor": "Intel Core i7 8th",
+        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-7490-core-i7-8650u-16gb-512gb-14-inch-windows-10-t1-7490i716gb512gbw10p/version.asp",
+        "product_text": "Refurbished Dell Latitude 7490 Intel Core i7 8th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop 16GB 512GB Intel Core i7 8th"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00121",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 239.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00121",
+        "retailer": "Argos",
+        "name": "HP 14-em0018na 14 Inch AMD Athlon 4GB 128GB Laptop - Black",
+        "brand": "HP",
+        "price": 239.0,
+        "price_str": "£239.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14\"",
+        "processor": "AMD Athlon 4GB",
+        "url": "https://www.argos.co.uk/product/7931426?clickPR=plp:1:372",
+        "product_text": "HP 14-em0018na 14 Inch AMD Athlon 4GB 128GB Laptop - Black HP 14\" AMD Athlon 4GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00122",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 279.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00122",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad Slim 3 14in MediaTek 8GB 128GB Chromebook",
+        "brand": "Lenovo",
+        "price": 279.0,
+        "price_str": "£279.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/3288599?clickPR=plp:2:372",
+        "product_text": "Lenovo IdeaPad Slim 3 14in MediaTek 8GB 128GB Chromebook Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00123",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 259.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00123",
+        "retailer": "Argos",
+        "name": "HP 15-fc0078na 15.6 Inch AMD Athlon 8GB 128GB Laptop - Black",
+        "brand": "HP",
+        "price": 259.0,
+        "price_str": "£259.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.6\"",
+        "processor": "AMD Athlon 8GB",
+        "url": "https://www.argos.co.uk/product/7934605?clickPR=plp:3:372",
+        "product_text": "HP 15-fc0078na 15.6 Inch AMD Athlon 8GB 128GB Laptop - Black HP 15.6\" AMD Athlon 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00124",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 379.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00124",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad 14in i3 8GB 128GB Chromebook  Plus Bundle",
+        "brand": "Lenovo",
+        "price": 379.0,
+        "price_str": "£379.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/5028159?clickPR=plp:4:372",
+        "product_text": "Lenovo IdeaPad 14in i3 8GB 128GB Chromebook  Plus Bundle Lenovo 14.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00125",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 269.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00125",
+        "retailer": "Argos",
+        "name": "Acer Aspire Lite 15 15.6in i3 8GB 512GB Laptop - Silver",
+        "brand": "Acer",
+        "price": 269.0,
+        "price_str": "£269.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7799778?clickSR=slp:term:laptops:5:372:1",
+        "product_text": "Acer Aspire Lite 15 15.6in i3 8GB 512GB Laptop - Silver Acer 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00126",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 259.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00126",
+        "retailer": "Argos",
+        "name": "HP 15-fc0078na 15.6 Inch AMD Athlon 8GB 128GB Laptop - Black",
+        "brand": "HP",
+        "price": 259.0,
+        "price_str": "£259.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.6\"",
+        "processor": "AMD Athlon 8GB",
+        "url": "https://www.argos.co.uk/product/7934605?clickSR=slp:term:laptops:6:372:1",
+        "product_text": "HP 15-fc0078na 15.6 Inch AMD Athlon 8GB 128GB Laptop - Black HP 15.6\" AMD Athlon 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00127",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 289.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00127",
+        "retailer": "Argos",
+        "name": "HP 17-cn3008na 17.3in N100 4GB 128GB Laptop - Black",
+        "brand": "HP",
+        "price": 289.0,
+        "price_str": "£289.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "17.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7814361?clickSR=slp:term:laptops:8:372:1",
+        "product_text": "HP 17-cn3008na 17.3in N100 4GB 128GB Laptop - Black HP 17.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00128",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 239.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00128",
+        "retailer": "Argos",
+        "name": "HP 14-em0018na 14 Inch AMD Athlon 4GB 128GB Laptop - Black",
+        "brand": "HP",
+        "price": 239.0,
+        "price_str": "£239.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14\"",
+        "processor": "AMD Athlon 4GB",
+        "url": "https://www.argos.co.uk/product/7931426?clickSR=slp:term:laptops:9:372:1",
+        "product_text": "HP 14-em0018na 14 Inch AMD Athlon 4GB 128GB Laptop - Black HP 14\" AMD Athlon 4GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00129",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 159.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00130",
+        "retailer": "Argos",
+        "name": "Samsung Galaxy 11in Celeron 4GB 64GB Chromebook - Silver",
+        "brand": "Samsung",
+        "price": 159.0,
+        "price_str": "£159.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "11.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/3932340?clickSR=slp:term:laptops:10:372:1",
+        "product_text": "Samsung Galaxy 11in Celeron 4GB 64GB Chromebook - Silver Samsung 11.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00130",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 329.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00131",
+        "retailer": "Argos",
+        "name": "Lenovo Slim 3 15.3in Intel i3 8GB 256GB Laptop - Grey",
+        "brand": "Lenovo",
+        "price": 329.0,
+        "price_str": "£329.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7838732?clickSR=slp:term:laptops:11:372:1",
+        "product_text": "Lenovo Slim 3 15.3in Intel i3 8GB 256GB Laptop - Grey Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00131",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 189.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00132",
+        "retailer": "Argos",
+        "name": "HP 14s-dq3001na 14in Intel Celeron 4GB 64GB Laptop - Black",
+        "brand": "HP",
+        "price": 189.0,
+        "price_str": "£189.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14.0\"",
+        "processor": "Intel Celeron 4GB",
+        "url": "https://www.argos.co.uk/product/7728660?clickSR=slp:term:laptops:12:372:1",
+        "product_text": "HP 14s-dq3001na 14in Intel Celeron 4GB 64GB Laptop - Black HP 14.0\" Intel Celeron 4GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00132",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 209.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00133",
+        "retailer": "Argos",
+        "name": "HP BM2T5EA 14in Intel Core 4GB 128GB Laptop - Black",
+        "brand": "HP",
+        "price": 209.0,
+        "price_str": "£209.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "Intel Core 4",
+        "url": "https://www.argos.co.uk/product/7739934?clickSR=slp:term:laptops:14:372:1",
+        "product_text": "HP BM2T5EA 14in Intel Core 4GB 128GB Laptop - Black HP Intel Core 4"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00133",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 389.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00134",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook Go 15 15.6in R5 8GB 512GB Laptop - Silver",
+        "brand": "ASUS",
+        "price": 389.0,
+        "price_str": "£389.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7760202?clickSR=slp:term:laptops:15:372:1",
+        "product_text": "ASUS Vivobook Go 15 15.6in R5 8GB 512GB Laptop - Silver ASUS 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00134",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 349.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00135",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook 15 15.6in i3 8GB 128GB Laptop Bundle",
+        "brand": "ASUS",
+        "price": 349.0,
+        "price_str": "£349.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7721100?clickSR=slp:term:laptops:16:372:1",
+        "product_text": "ASUS Vivobook 15 15.6in i3 8GB 128GB Laptop Bundle ASUS 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00135",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 179.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00136",
+        "retailer": "Argos",
+        "name": "HP 14a-ne1000na 14in Celeron 4GB 64GB Chromebook - Grey",
+        "brand": "HP",
+        "price": 179.0,
+        "price_str": "£179.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7631324?clickSR=slp:term:laptops:17:372:1",
+        "product_text": "HP 14a-ne1000na 14in Celeron 4GB 64GB Chromebook - Grey HP 14.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00136",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 329.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00137",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad Slim 3 15.6in R3 8GB 256GB Laptop",
+        "brand": "Lenovo",
+        "price": 329.0,
+        "price_str": "£329.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7812332?clickSR=slp:term:laptops:17:372:1",
+        "product_text": "Lenovo IdeaPad Slim 3 15.6in R3 8GB 256GB Laptop Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00137",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 549.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00139",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook 15 15.6in i5 16GB 512GB Laptop Bundle - Silver",
+        "brand": "ASUS",
+        "price": 549.0,
+        "price_str": "£549.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7823338?clickSR=slp:term:laptops:19:372:1",
+        "product_text": "ASUS Vivobook 15 15.6in i5 16GB 512GB Laptop Bundle - Silver ASUS 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00138",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 249.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00140",
+        "retailer": "Argos",
+        "name": "Acer Aspire Go Spin 14in N150 4GB 128GB Laptop - Silver",
+        "brand": "Acer",
+        "price": 249.0,
+        "price_str": "£249.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7842216?clickSR=slp:term:laptops:20:372:1",
+        "product_text": "Acer Aspire Go Spin 14in N150 4GB 128GB Laptop - Silver Acer 14.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00139",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 299.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00141",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook Go 15 15.6in R3 8GB 128GB Laptop - Silver",
+        "brand": "ASUS",
+        "price": 299.0,
+        "price_str": "£299.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7806544?clickSR=slp:term:laptops:21:372:1",
+        "product_text": "ASUS Vivobook Go 15 15.6in R3 8GB 128GB Laptop - Silver ASUS 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00140",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 379.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00142",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook 15 15.6in i3 8GB 512GB Laptop Bundle - Silver",
+        "brand": "ASUS",
+        "price": 379.0,
+        "price_str": "£379.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7846724?clickSR=slp:term:laptops:22:372:1",
+        "product_text": "ASUS Vivobook 15 15.6in i3 8GB 512GB Laptop Bundle - Silver ASUS 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00141",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 349.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00143",
+        "retailer": "Argos",
+        "name": "Acer Aspire Lite 17.3in N150 4GB 128GB Laptop - Silver",
+        "brand": "Acer",
+        "price": 349.0,
+        "price_str": "£349.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "17.3\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7795947?clickSR=slp:term:laptops:23:372:1",
+        "product_text": "Acer Aspire Lite 17.3in N150 4GB 128GB Laptop - Silver Acer 17.3\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00142",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 209.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00144",
+        "retailer": "Argos",
+        "name": "HP 14-dq6001na 14 Inch Intel N150 4GB 128GB Laptop - Blue",
+        "brand": "HP",
+        "price": 209.0,
+        "price_str": "£209.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14\"",
+        "processor": "Intel N150",
+        "url": "https://www.argos.co.uk/product/7793743?clickSR=slp:term:laptops:24:372:1",
+        "product_text": "HP 14-dq6001na 14 Inch Intel N150 4GB 128GB Laptop - Blue HP 14\" Intel N150"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00143",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 199.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00145",
+        "retailer": "Argos",
+        "name": "ASUS CX15 15.6in N50 4GB 64GB Chromebook - Grey",
+        "brand": "ASUS",
+        "price": 199.0,
+        "price_str": "£199.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7797141?clickSR=slp:term:laptops:25:372:1",
+        "product_text": "ASUS CX15 15.6in N50 4GB 64GB Chromebook - Grey ASUS 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00144",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 279.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00146",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad Slim 3 14in MediaTek 8GB 128GB Chromebook",
+        "brand": "Lenovo",
+        "price": 279.0,
+        "price_str": "£279.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/3288599?clickSR=slp:term:laptops:26:372:1",
+        "product_text": "Lenovo IdeaPad Slim 3 14in MediaTek 8GB 128GB Chromebook Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00145",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 379.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00147",
+        "retailer": "Argos",
+        "name": "Acer Aspire Lite 15 15.6in Pentium 8GB 256GB Laptop - Silver",
+        "brand": "Acer",
+        "price": 379.0,
+        "price_str": "£379.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7800612?clickSR=slp:term:laptops:27:372:1",
+        "product_text": "Acer Aspire Lite 15 15.6in Pentium 8GB 256GB Laptop - Silver Acer 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00146",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 309.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00148",
+        "retailer": "Argos",
+        "name": "HP 15-fd0059na 15.6 Inch i3 8GB 128GB Laptop - Black",
+        "brand": "HP",
+        "price": 309.0,
+        "price_str": "£309.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.6\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7828845?clickSR=slp:term:laptops:28:372:1",
+        "product_text": "HP 15-fd0059na 15.6 Inch i3 8GB 128GB Laptop - Black HP 15.6\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00147",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 209.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00149",
+        "retailer": "Argos",
+        "name": "HP 14a-nf0002na 14in Intel N100 4GB 128GB Chromebook",
+        "brand": "HP",
+        "price": 209.0,
+        "price_str": "£209.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14.0\"",
+        "processor": "Intel N100",
+        "url": "https://www.argos.co.uk/product/7891669?clickSR=slp:term:laptops:29:372:1",
+        "product_text": "HP 14a-nf0002na 14in Intel N100 4GB 128GB Chromebook HP 14.0\" Intel N100"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00148",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 249.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00150",
+        "retailer": "Argos",
+        "name": "ASUS CX15 15.6in N50 4GB 128GB Chromebook - Pink",
+        "brand": "ASUS",
+        "price": 249.0,
+        "price_str": "£249.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7805662?clickSR=slp:term:laptops:30:372:1",
+        "product_text": "ASUS CX15 15.6in N50 4GB 128GB Chromebook - Pink ASUS 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00149",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 679.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00151",
+        "retailer": "Argos",
+        "name": "Lenovo Slim 3x 15.3in Snapdragon 16GB 512GB Laptop Bundle",
+        "brand": "Lenovo",
+        "price": 679.0,
+        "price_str": "£679.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "Snapdragon 16GB",
+        "url": "https://www.argos.co.uk/product/7745650?clickSR=slp:term:laptops:31:372:1",
+        "product_text": "Lenovo Slim 3x 15.3in Snapdragon 16GB 512GB Laptop Bundle Lenovo Snapdragon 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00150",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 1999.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00152",
+        "retailer": "Argos",
+        "name": "Asus Zenbook S16 16In AMD Ryzen7 32GB 1TB Laptop- White",
+        "brand": "ASUS",
+        "price": 1999.0,
+        "price_str": "£1999.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "16.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7957778?clickSR=slp:term:laptops:32:372:1",
+        "product_text": "Asus Zenbook S16 16In AMD Ryzen7 32GB 1TB Laptop- White ASUS 1TB 16.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00151",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 299.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00153",
+        "retailer": "Argos",
+        "name": "Lenovo Chrome Slim 3 14in i3 8GB 256GB Chromebook Plus- Grey",
+        "brand": "Lenovo",
+        "price": 299.0,
+        "price_str": "£299.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8516699?clickSR=slp:term:laptops:33:372:1",
+        "product_text": "Lenovo Chrome Slim 3 14in i3 8GB 256GB Chromebook Plus- Grey Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00152",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 249.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00155",
+        "retailer": "Argos",
+        "name": "Acer CBOA314-1H 14in 4 GB 64GB N4500 Chromebook",
+        "brand": "Acer",
+        "price": 249.0,
+        "price_str": "£249.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7745210?clickSR=slp:term:laptops:35:372:1",
+        "product_text": "Acer CBOA314-1H 14in 4 GB 64GB N4500 Chromebook Acer"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00153",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 199.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00156",
+        "retailer": "Argos",
+        "name": "Acer 311 11.6in Celeron 4GB 64GB Chromebook",
+        "brand": "Acer",
+        "price": 199.0,
+        "price_str": "£199.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7664896?clickSR=slp:term:laptops:36:372:1",
+        "product_text": "Acer 311 11.6in Celeron 4GB 64GB Chromebook Acer"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00154",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 449.99,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00157",
+        "retailer": "Argos",
+        "name": "Acer Aspire Go 15.6in R3 8GB 256GB Laptop - Silver",
+        "brand": "Acer",
+        "price": 449.99,
+        "price_str": "£449.99",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.6\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7330539?clickSR=slp:term:laptops:37:372:1",
+        "product_text": "Acer Aspire Go 15.6in R3 8GB 256GB Laptop - Silver Acer 15.6\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00155",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 379.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00158",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad 14in i3 8GB 128GB Chromebook  Plus Bundle",
+        "brand": "Lenovo",
+        "price": 379.0,
+        "price_str": "£379.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/5028159?clickSR=slp:term:laptops:38:372:1",
+        "product_text": "Lenovo IdeaPad 14in i3 8GB 128GB Chromebook  Plus Bundle Lenovo 14.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00156",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 499.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00159",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook AI 16in Ryzen 5 16GB 512GB Laptop - Blue",
+        "brand": "ASUS",
+        "price": 499.0,
+        "price_str": "£499.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "16.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7741159?clickSR=slp:term:laptops:39:372:1",
+        "product_text": "ASUS Vivobook AI 16in Ryzen 5 16GB 512GB Laptop - Blue ASUS 16.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00157",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 219.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00160",
+        "retailer": "Argos",
+        "name": "Samsung Galaxy 14in 4GB 64GB Chromebook Go - Silver",
+        "brand": "Samsung",
+        "price": 219.0,
+        "price_str": "£219.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7825697?clickSR=slp:term:laptops:40:372:1",
+        "product_text": "Samsung Galaxy 14in 4GB 64GB Chromebook Go - Silver Samsung 14.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00158",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 1099.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00162",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2026 13in M5 16GB 512GB - Midnight",
+        "brand": "Apple",
+        "price": 1099.0,
+        "price_str": "£1099.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8181732?clickSR=slp:term:laptops:42:372:1",
+        "product_text": "Apple MacBook Air 2026 13in M5 16GB 512GB - Midnight Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00159",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 199.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00164",
+        "retailer": "Argos",
+        "name": "Acer 315 15.6in Celeron 4GB 128GB Chromebook - Silver",
+        "brand": "Acer",
+        "price": 199.0,
+        "price_str": "£199.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7443691?clickSR=slp:term:laptops:44:372:1",
+        "product_text": "Acer 315 15.6in Celeron 4GB 128GB Chromebook - Silver Acer"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00160",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 799.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00166",
+        "retailer": "Argos",
+        "name": "Lenovo LOQ15.6in i7 16GB 512GB RTX4050 Gaming Laptop",
+        "brand": "Lenovo",
+        "price": 799.0,
+        "price_str": "£799.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.6\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8447146?clickSR=slp:term:laptops:46:372:1",
+        "product_text": "Lenovo LOQ15.6in i7 16GB 512GB RTX4050 Gaming Laptop Lenovo 15.6\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00161",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 199.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00167",
+        "retailer": "Argos",
+        "name": "HP 15a-nb0006na 15.6in Intel N100 4GB 128GB Chromebook",
+        "brand": "HP",
+        "price": 199.0,
+        "price_str": "£199.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "Intel N100",
+        "url": "https://www.argos.co.uk/product/7513442?clickSR=slp:term:laptops:47:372:1",
+        "product_text": "HP 15a-nb0006na 15.6in Intel N100 4GB 128GB Chromebook HP 15.0\" Intel N100"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00162",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 299.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00168",
+        "retailer": "Argos",
+        "name": "Acer CB516-1H 16in i3 8GB 128GB Chromebook Plus - Grey",
+        "brand": "Acer",
+        "price": 299.0,
+        "price_str": "£299.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7717932?clickSR=slp:term:laptops:48:372:1",
+        "product_text": "Acer CB516-1H 16in i3 8GB 128GB Chromebook Plus - Grey Acer"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00163",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 1299.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00169",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2026 15in M5 16GB 512GB - Midnight",
+        "brand": "Apple",
+        "price": 1299.0,
+        "price_str": "£1299.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8184306?clickSR=slp:term:laptops:49:372:1",
+        "product_text": "Apple MacBook Air 2026 15in M5 16GB 512GB - Midnight Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00164",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 999.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00170",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2025 15.3in M4 16GB 256GB - Midnight",
+        "brand": "Apple",
+        "price": 999.0,
+        "price_str": "£999.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7419405?clickSR=slp:term:laptops:50:372:1",
+        "product_text": "Apple MacBook Air 2025 15.3in M4 16GB 256GB - Midnight Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00165",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 999.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00171",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2025 13.6in M4 16GB 512GB - Midnight",
+        "brand": "Apple",
+        "price": 999.0,
+        "price_str": "£999.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7419027?clickSR=slp:term:laptops:51:372:1",
+        "product_text": "Apple MacBook Air 2025 13.6in M4 16GB 512GB - Midnight Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00166",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 239.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00172",
+        "retailer": "Argos",
+        "name": "HP 14a-nf0003na 14in Intel 8GB 128GB Chromebook",
+        "brand": "HP",
+        "price": 239.0,
+        "price_str": "£239.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7166064?clickSR=slp:term:laptops:52:372:1",
+        "product_text": "HP 14a-nf0003na 14in Intel 8GB 128GB Chromebook HP 14.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00167",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 549.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00173",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook 15 15.6in R7 16GB 512GB Laptop",
+        "brand": "ASUS",
+        "price": 549.0,
+        "price_str": "£549.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7481787?clickSR=slp:term:laptops:53:372:1",
+        "product_text": "ASUS Vivobook 15 15.6in R7 16GB 512GB Laptop ASUS 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00168",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 699.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00174",
+        "retailer": "Argos",
+        "name": "Apple MacBook Neo 2026 13in A18 Pro 8GB 512GB - Indigo",
+        "brand": "Apple",
+        "price": 699.0,
+        "price_str": "£699.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8211815?clickSR=slp:term:laptops:54:372:1",
+        "product_text": "Apple MacBook Neo 2026 13in A18 Pro 8GB 512GB - Indigo Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00169",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 879.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00175",
+        "retailer": "Argos",
+        "name": "Lenovo LOQ E15 15.6in i5 16GB 512GB RTX5050 Gaming Laptop",
+        "brand": "Lenovo",
+        "price": 879.0,
+        "price_str": "£879.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7806908?clickSR=slp:term:laptops:55:372:1",
+        "product_text": "Lenovo LOQ E15 15.6in i5 16GB 512GB RTX5050 Gaming Laptop Lenovo 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00170",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 999.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00176",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2025 15.3in M4 16GB 256GB - Sky Blue",
+        "brand": "Apple",
+        "price": 999.0,
+        "price_str": "£999.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7419481?clickSR=slp:term:laptops:56:372:1",
+        "product_text": "Apple MacBook Air 2025 15.3in M4 16GB 256GB - Sky Blue Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00171",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 679.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00177",
+        "retailer": "Argos",
+        "name": "HP Victus 15.6in R7 16GB 512GB RTX3050 Laptop - Black",
+        "brand": "HP",
+        "price": 679.0,
+        "price_str": "£679.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.6\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7837094?clickSR=slp:term:laptops:57:372:1",
+        "product_text": "HP Victus 15.6in R7 16GB 512GB RTX3050 Laptop - Black HP 15.6\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00172",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 2199.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00178",
+        "retailer": "Argos",
+        "name": "Apple MacBook Pro 2026 14in M5 Pro 24GB 1TB - Space Black",
+        "brand": "Apple",
+        "price": 2199.0,
+        "price_str": "£2199.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8186050?clickSR=slp:term:laptops:58:372:1",
+        "product_text": "Apple MacBook Pro 2026 14in M5 Pro 24GB 1TB - Space Black Apple 1TB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00173",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 999.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00180",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2025 15.3in M4 16GB 256GB - Starlight",
+        "brand": "Apple",
+        "price": 999.0,
+        "price_str": "£999.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7419539?clickSR=slp:term:laptops:60:372:1",
+        "product_text": "Apple MacBook Air 2025 15.3in M4 16GB 256GB - Starlight Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00174",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 799.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00181",
+        "retailer": "Argos",
+        "name": "Lenovo Slim 3 15.3in R7 24GB 1TB Laptop - Grey",
+        "brand": "Lenovo",
+        "price": 799.0,
+        "price_str": "£799.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7799053?clickSR=slp:term:laptops:61:372:1",
+        "product_text": "Lenovo Slim 3 15.3in R7 24GB 1TB Laptop - Grey Lenovo 1TB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00175",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 499.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00182",
+        "retailer": "Argos",
+        "name": "HP 17-cn3007na 17in Intel Core i3 8GB 512GB Laptop - Silver",
+        "brand": "HP",
+        "price": 499.0,
+        "price_str": "£499.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "17.0\"",
+        "processor": "Intel Core i3 8GB",
+        "url": "https://www.argos.co.uk/product/7713833?clickSR=slp:term:laptops:62:372:1",
+        "product_text": "HP 17-cn3007na 17in Intel Core i3 8GB 512GB Laptop - Silver HP 17.0\" Intel Core i3 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00176",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 999.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00183",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad Slim 5 16in Ryzen AI 7 32GB 1TB Laptop",
+        "brand": "Lenovo",
+        "price": 999.0,
+        "price_str": "£999.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7617740?clickSR=slp:term:laptops:63:372:1",
+        "product_text": "Lenovo IdeaPad Slim 5 16in Ryzen AI 7 32GB 1TB Laptop Lenovo 1TB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00177",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 1799.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00184",
+        "retailer": "Argos",
+        "name": "Apple MacBook Pro 2025 14.2in M5 24GB 1TB - Space Black",
+        "brand": "Apple",
+        "price": 1799.0,
+        "price_str": "£1799.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7850679?clickSR=slp:term:laptops:64:372:1",
+        "product_text": "Apple MacBook Pro 2025 14.2in M5 24GB 1TB - Space Black Apple 1TB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00178",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 449.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00185",
+        "retailer": "Argos",
+        "name": "HP 15-fc0057na 15.6in AMD Ryzen 5 8GB 512GB Laptop",
+        "brand": "HP",
+        "price": 449.0,
+        "price_str": "£449.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "AMD Ryzen 5 8GB",
+        "url": "https://www.argos.co.uk/product/7848997?clickSR=slp:term:laptops:61:372:1",
+        "product_text": "HP 15-fc0057na 15.6in AMD Ryzen 5 8GB 512GB Laptop HP 15.0\" AMD Ryzen 5 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00179",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 979.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00186",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2025 13.6in M4 16GB 512GB - Sky Blue",
+        "brand": "Apple",
+        "price": 979.0,
+        "price_str": "£979.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7419058?clickSR=slp:term:laptops:62:372:1",
+        "product_text": "Apple MacBook Air 2025 13.6in M4 16GB 512GB - Sky Blue Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00180",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 299.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00187",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad Duet 3 10.95in MediaTek 8GB 128GB Chromebook",
+        "brand": "Lenovo",
+        "price": 299.0,
+        "price_str": "£299.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/4378707?clickSR=slp:term:laptops:63:372:1",
+        "product_text": "Lenovo IdeaPad Duet 3 10.95in MediaTek 8GB 128GB Chromebook Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00181",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 299.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00188",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook Go 15 15.6in R3 8GB 128GB Laptop - Silver",
+        "brand": "ASUS",
+        "price": 299.0,
+        "price_str": "£299.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7806544?clickSR=slp:term:laptops:64:372:1",
+        "product_text": "ASUS Vivobook Go 15 15.6in R3 8GB 128GB Laptop - Silver ASUS 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00182",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 429.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00190",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook 17 17.3in i3 8GB 512GB Laptop - Silver",
+        "brand": "ASUS",
+        "price": 429.0,
+        "price_str": "£429.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "17.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7844300?clickSR=slp:term:laptops:66:372:1",
+        "product_text": "ASUS Vivobook 17 17.3in i3 8GB 512GB Laptop - Silver ASUS 17.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00183",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 199.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00191",
+        "retailer": "Argos",
+        "name": "ASUS CX14 14in N50 4GB 64GB Chromebook - Grey",
+        "brand": "ASUS",
+        "price": 199.0,
+        "price_str": "£199.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7811333?clickSR=slp:term:laptops:68:372:1",
+        "product_text": "ASUS CX14 14in N50 4GB 64GB Chromebook - Grey ASUS 14.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00184",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 699.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00192",
+        "retailer": "Argos",
+        "name": "Apple MacBook Neo 2026 13in A18 Pro 8GB 512GB - Silver",
+        "brand": "Apple",
+        "price": 699.0,
+        "price_str": "£699.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8211781?clickSR=slp:term:laptops:69:372:1",
+        "product_text": "Apple MacBook Neo 2026 13in A18 Pro 8GB 512GB - Silver Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00185",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 249.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00193",
+        "retailer": "Argos",
+        "name": "ASUS CX15 15.6in N50 4GB 128GB Chromebook - Pink",
+        "brand": "ASUS",
+        "price": 249.0,
+        "price_str": "£249.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7805662?clickSR=slp:term:laptops:69:372:1",
+        "product_text": "ASUS CX15 15.6in N50 4GB 128GB Chromebook - Pink ASUS 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00186",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 279.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00194",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad Slim 3 14in MediaTek 8GB 128GB Chromebook",
+        "brand": "Lenovo",
+        "price": 279.0,
+        "price_str": "£279.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/3288599?clickSR=slp:term:laptops:70:372:1",
+        "product_text": "Lenovo IdeaPad Slim 3 14in MediaTek 8GB 128GB Chromebook Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00187",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 999.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00195",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2025 15.3in M4 16GB 256GB - Silver",
+        "brand": "Apple",
+        "price": 999.0,
+        "price_str": "£999.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7419467?clickSR=slp:term:laptops:71:372:1",
+        "product_text": "Apple MacBook Air 2025 15.3in M4 16GB 256GB - Silver Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00188",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 299.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00196",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad Flex 3 12in 8GB 128GB Chromebook - Grey",
+        "brand": "Lenovo",
+        "price": 299.0,
+        "price_str": "£299.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7123911?clickSR=slp:term:laptops:72:372:1",
+        "product_text": "Lenovo IdeaPad Flex 3 12in 8GB 128GB Chromebook - Grey Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00189",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 629.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00197",
+        "retailer": "Argos",
+        "name": "Lenovo Slim  3 15.3in R5 24GB 512GB Laptop",
+        "brand": "Lenovo",
+        "price": 629.0,
+        "price_str": "£629.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7847132?clickSR=slp:term:laptops:74:372:1",
+        "product_text": "Lenovo Slim  3 15.3in R5 24GB 512GB Laptop Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00190",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 389.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00199",
+        "retailer": "Argos",
+        "name": "HP BM2U7EA 15.6in R3 8GB 512GB - Laptop - Silver",
+        "brand": "HP",
+        "price": 389.0,
+        "price_str": "£389.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7729078?clickSR=slp:term:laptops:76:372:1",
+        "product_text": "HP BM2U7EA 15.6in R3 8GB 512GB - Laptop - Silver HP"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00191",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 179.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00200",
+        "retailer": "Argos",
+        "name": "ASUS CX1405CKA-NK0030 14in Celeron 4GB 64GB Chromebook- Blue",
+        "brand": "ASUS",
+        "price": 179.0,
+        "price_str": "£179.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7627314?clickSR=slp:term:laptops:77:372:1",
+        "product_text": "ASUS CX1405CKA-NK0030 14in Celeron 4GB 64GB Chromebook- Blue ASUS"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00192",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 649.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00201",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad Slim 5 13in R7 16GB 512GB Laptop",
+        "brand": "Lenovo",
+        "price": 649.0,
+        "price_str": "£649.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7482841?clickSR=slp:term:laptops:77:372:1",
+        "product_text": "Lenovo IdeaPad Slim 5 13in R7 16GB 512GB Laptop Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00193",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 209.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00202",
+        "retailer": "Argos",
+        "name": "HP BM2T5EA 14in Intel Core 4GB 128GB Laptop - Black",
+        "brand": "HP",
+        "price": 209.0,
+        "price_str": "£209.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "Intel Core 4",
+        "url": "https://www.argos.co.uk/product/7739934?clickSR=slp:term:laptops:78:372:1",
+        "product_text": "HP BM2T5EA 14in Intel Core 4GB 128GB Laptop - Black HP Intel Core 4"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00194",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 199.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00204",
+        "retailer": "Argos",
+        "name": "Acer Spin 311 11.6in MediaTek 4GB 64GB Chromebook",
+        "brand": "Acer",
+        "price": 199.0,
+        "price_str": "£199.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7894628?clickSR=slp:term:laptops:80:372:1",
+        "product_text": "Acer Spin 311 11.6in MediaTek 4GB 64GB Chromebook Acer"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00195",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 1099.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00205",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2026 13in M5 16GB 512GB - Sky Blue",
+        "brand": "Apple",
+        "price": 1099.0,
+        "price_str": "£1099.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8181691?clickSR=slp:term:laptops:81:372:1",
+        "product_text": "Apple MacBook Air 2026 13in M5 16GB 512GB - Sky Blue Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00196",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 2699.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00206",
+        "retailer": "Argos",
+        "name": "Apple MacBook Pro 2026 16in M5 Pro 24GB 1TB - Space Black",
+        "brand": "Apple",
+        "price": 2699.0,
+        "price_str": "£2699.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8179847?clickSR=slp:term:laptops:82:372:1",
+        "product_text": "Apple MacBook Pro 2026 16in M5 Pro 24GB 1TB - Space Black Apple 1TB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00197",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 209.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00207",
+        "retailer": "Argos",
+        "name": "HP 14-dq6001na 14 Inch Intel N150 4GB 128GB Laptop - Blue",
+        "brand": "HP",
+        "price": 209.0,
+        "price_str": "£209.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14\"",
+        "processor": "Intel N150",
+        "url": "https://www.argos.co.uk/product/7793743?clickSR=slp:term:laptops:83:372:1",
+        "product_text": "HP 14-dq6001na 14 Inch Intel N150 4GB 128GB Laptop - Blue HP 14\" Intel N150"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00198",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 599.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00208",
+        "retailer": "Argos",
+        "name": "Lenovo Slim 3 15.30in i5 16GB 512GB Laptop - Grey",
+        "brand": "Lenovo",
+        "price": 599.0,
+        "price_str": "£599.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7791082?clickSR=slp:term:laptops:84:372:1",
+        "product_text": "Lenovo Slim 3 15.30in i5 16GB 512GB Laptop - Grey Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00199",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 349.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00209",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad 1 15.6in Celeron N4500 8GB 256GB Laptop- Grey",
+        "brand": "Lenovo",
+        "price": 349.0,
+        "price_str": "£349.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7816905?clickSR=slp:term:laptops:85:372:1",
+        "product_text": "Lenovo IdeaPad 1 15.6in Celeron N4500 8GB 256GB Laptop- Grey Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00200",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 299.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00210",
+        "retailer": "Argos",
+        "name": "Lenovo Chrome Slim 3 14in i3 8GB 256GB Chromebook Plus- Grey",
+        "brand": "Lenovo",
+        "price": 299.0,
+        "price_str": "£299.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8516699?clickSR=slp:term:laptops:86:372:1",
+        "product_text": "Lenovo Chrome Slim 3 14in i3 8GB 256GB Chromebook Plus- Grey Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00201",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 769.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00211",
+        "retailer": "Argos",
+        "name": "HP Victus 15.6in R7 16GB 512GB RTX 4050 Gaming Laptop",
+        "brand": "HP",
+        "price": 769.0,
+        "price_str": "£769.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.6\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7840421?clickSR=slp:term:laptops:87:372:1",
+        "product_text": "HP Victus 15.6in R7 16GB 512GB RTX 4050 Gaming Laptop HP 15.6\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00202",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 849.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00212",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad 5 14 in i5 32GB 1TB Laptop - Grey",
+        "brand": "Lenovo",
+        "price": 849.0,
+        "price_str": "£849.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7807897?clickSR=slp:term:laptops:88:372:1",
+        "product_text": "Lenovo IdeaPad 5 14 in i5 32GB 1TB Laptop - Grey Lenovo 1TB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00203",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 1799.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00213",
+        "retailer": "Argos",
+        "name": "Apple MacBook Pro 2025 14.2in M5 24GB 1TB - Silver",
+        "brand": "Apple",
+        "price": 1799.0,
+        "price_str": "£1799.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7851252?clickSR=slp:term:laptops:89:372:1",
+        "product_text": "Apple MacBook Pro 2025 14.2in M5 24GB 1TB - Silver Apple 1TB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00204",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 2099.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00214",
+        "retailer": "Argos",
+        "name": "Apple MacBook Pro 2026 14in M5 32GB 1TB - Space Black",
+        "brand": "Apple",
+        "price": 2099.0,
+        "price_str": "£2099.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8186146?clickSR=slp:term:laptops:90:372:1",
+        "product_text": "Apple MacBook Pro 2026 14in M5 32GB 1TB - Space Black Apple 1TB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00205",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 279.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00215",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad Slim 3 15.6in N100 4GB 128GB Laptop",
+        "brand": "Lenovo",
+        "price": 279.0,
+        "price_str": "£279.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8539669?clickSR=slp:term:laptops:91:372:1",
+        "product_text": "Lenovo IdeaPad Slim 3 15.6in N100 4GB 128GB Laptop Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00206",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 679.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00216",
+        "retailer": "Argos",
+        "name": "Lenovo Slim 3x 15.3in Snapdragon 16GB 512GB Laptop Bundle",
+        "brand": "Lenovo",
+        "price": 679.0,
+        "price_str": "£679.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "Snapdragon 16GB",
+        "url": "https://www.argos.co.uk/product/7745650?clickSR=slp:term:laptops:92:372:1",
+        "product_text": "Lenovo Slim 3x 15.3in Snapdragon 16GB 512GB Laptop Bundle Lenovo Snapdragon 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00207",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 999.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00217",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2025 13.6in M4 16GB 512GB - Silver",
+        "brand": "Apple",
+        "price": 999.0,
+        "price_str": "£999.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7419034?clickSR=slp:term:laptops:93:372:1",
+        "product_text": "Apple MacBook Air 2025 13.6in M4 16GB 512GB - Silver Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00208",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 629.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00218",
+        "retailer": "Argos",
+        "name": "Lenovo Ideapad Slim 3 16in Intel i5 24GB 512GB Laptop - Grey",
+        "brand": "Lenovo",
+        "price": 629.0,
+        "price_str": "£629.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7848818?clickSR=slp:term:laptops:94:372:1",
+        "product_text": "Lenovo Ideapad Slim 3 16in Intel i5 24GB 512GB Laptop - Grey Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00209",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 599.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00219",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad Slim 5 AI 14in Snapdragon 16GB 512GB Laptop",
+        "brand": "Lenovo",
+        "price": 599.0,
+        "price_str": "£599.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "Snapdragon 16GB",
+        "url": "https://www.argos.co.uk/product/5029268?clickSR=slp:term:laptops:95:372:1",
+        "product_text": "Lenovo IdeaPad Slim 5 AI 14in Snapdragon 16GB 512GB Laptop Lenovo Snapdragon 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00210",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 209.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00220",
+        "retailer": "Argos",
+        "name": "Samsung LS32D396GAUXXU 32 Inch 100Hz FHD Curved Monitor",
+        "brand": "Samsung",
+        "price": 209.0,
+        "price_str": "£209.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "32\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7703283?clickSR=slp:term:laptops:96:372:1",
+        "product_text": "Samsung LS32D396GAUXXU 32 Inch 100Hz FHD Curved Monitor Samsung 32\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00211",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 999.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00221",
+        "retailer": "Argos",
+        "name": "Lenovo LOQ E 15.6in i7 16GB 1TB RTX5050 Gaming Laptop",
+        "brand": "Lenovo",
+        "price": 999.0,
+        "price_str": "£999.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "15.6\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7942831?clickSR=slp:term:laptops:97:372:1",
+        "product_text": "Lenovo LOQ E 15.6in i7 16GB 1TB RTX5050 Gaming Laptop Lenovo 1TB 15.6\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00212",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 699.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00222",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad 5 14 in i5 32GB 512GB Laptop - Blue",
+        "brand": "Lenovo",
+        "price": 699.0,
+        "price_str": "£699.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7696606?clickSR=slp:term:laptops:98:372:1",
+        "product_text": "Lenovo IdeaPad 5 14 in i5 32GB 512GB Laptop - Blue Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00213",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 629.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00223",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook S16 Copilot+ PC Snapdragon 16GB 512GB Laptop",
+        "brand": "ASUS",
+        "price": 629.0,
+        "price_str": "£629.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "16.0\"",
+        "processor": "Snapdragon 16GB",
+        "url": "https://www.argos.co.uk/product/7536883?clickSR=slp:term:laptops:99:372:1",
+        "product_text": "ASUS Vivobook S16 Copilot+ PC Snapdragon 16GB 512GB Laptop ASUS 16.0\" Snapdragon 16GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00214",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 699.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00224",
+        "retailer": "Argos",
+        "name": "Apple MacBook Neo 2026 13in A18 Pro 8GB 512GB - Blush",
+        "brand": "Apple",
+        "price": 699.0,
+        "price_str": "£699.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8211839?clickSR=slp:term:laptops:100:372:1",
+        "product_text": "Apple MacBook Neo 2026 13in A18 Pro 8GB 512GB - Blush Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00215",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 1299.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00225",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2026 15in M5 16GB 512GB - Silver",
+        "brand": "Apple",
+        "price": 1299.0,
+        "price_str": "£1299.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8184375?clickSR=slp:term:laptops:101:372:1",
+        "product_text": "Apple MacBook Air 2026 15in M5 16GB 512GB - Silver Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00216",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 649.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00226",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook S 14in R7 16GB Laptop - Silver",
+        "brand": "ASUS",
+        "price": 649.0,
+        "price_str": "£649.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7187081?clickSR=slp:term:laptops:102:372:1",
+        "product_text": "ASUS Vivobook S 14in R7 16GB Laptop - Silver ASUS 14.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00217",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 2199.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00227",
+        "retailer": "Argos",
+        "name": "Apple MacBook Pro 2026 14in M5 Pro 24GB 1TB - Silver",
+        "brand": "Apple",
+        "price": 2199.0,
+        "price_str": "£2199.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8186108?clickSR=slp:term:laptops:103:372:1",
+        "product_text": "Apple MacBook Pro 2026 14in M5 Pro 24GB 1TB - Silver Apple 1TB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00218",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 849.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00228",
+        "retailer": "Argos",
+        "name": "Lenovo LOQ 15.6in R7 16GB 1TB RTX3050 Gaming Laptop",
+        "brand": "Lenovo",
+        "price": 849.0,
+        "price_str": "£849.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "15.6\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7930111?clickSR=slp:term:laptops:104:372:1",
+        "product_text": "Lenovo LOQ 15.6in R7 16GB 1TB RTX3050 Gaming Laptop Lenovo 1TB 15.6\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00219",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 899.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00229",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2025 13.6in M4 16GB 256GB - Starlight",
+        "brand": "Apple",
+        "price": 899.0,
+        "price_str": "£899.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7418987?clickSR=slp:term:laptops:105:372:1",
+        "product_text": "Apple MacBook Air 2025 13.6in M4 16GB 256GB - Starlight Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00220",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 429.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00230",
+        "retailer": "Argos",
+        "name": "ASUS CX34 14in i3 8GB 256GB Chromebook Plus",
+        "brand": "ASUS",
+        "price": 429.0,
+        "price_str": "£429.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/3288458?clickSR=slp:term:laptops:106:372:1",
+        "product_text": "ASUS CX34 14in i3 8GB 256GB Chromebook Plus ASUS"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00221",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 249.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00231",
+        "retailer": "Argos",
+        "name": "Acer Aspire 1 14in Celeron 4GB 64GB Cloudbook",
+        "brand": "Acer",
+        "price": 249.0,
+        "price_str": "£249.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/9623756?clickSR=slp:term:laptops:107:372:1",
+        "product_text": "Acer Aspire 1 14in Celeron 4GB 64GB Cloudbook Acer"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00222",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 429.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00232",
+        "retailer": "Argos",
+        "name": "Acer Aspire 3 12th Gen 15.6in i5 8GB 512GB Laptop - Silver",
+        "brand": "Acer",
+        "price": 429.0,
+        "price_str": "£429.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/6795508?clickSR=slp:term:laptops:108:372:1",
+        "product_text": "Acer Aspire 3 12th Gen 15.6in i5 8GB 512GB Laptop - Silver Acer"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00223",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 449.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00233",
+        "retailer": "Argos",
+        "name": "Acer Aspire AG15-71P 15in i5 8GB 512GB Laptop - Silver",
+        "brand": "Acer",
+        "price": 449.0,
+        "price_str": "£449.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7796740?clickSR=slp:term:laptops:109:372:1",
+        "product_text": "Acer Aspire AG15-71P 15in i5 8GB 512GB Laptop - Silver Acer 15.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00224",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 449.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00234",
+        "retailer": "Argos",
+        "name": "HP 15-fd0073na 15.6in Intel Core i3 8GB 512GB Laptop",
+        "brand": "HP",
+        "price": 449.0,
+        "price_str": "£449.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "15.0\"",
+        "processor": "Intel Core i3 8GB",
+        "url": "https://www.argos.co.uk/product/7721069?clickSR=slp:term:laptops:110:372:1",
+        "product_text": "HP 15-fd0073na 15.6in Intel Core i3 8GB 512GB Laptop HP 15.0\" Intel Core i3 8GB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00225",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 749.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00235",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad 3 15.6in i7 16GB 512GB Laptop Bundle - Blue",
+        "brand": "Lenovo",
+        "price": 749.0,
+        "price_str": "£749.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8029344?clickSR=slp:term:laptops:111:372:1",
+        "product_text": "Lenovo IdeaPad 3 15.6in i7 16GB 512GB Laptop Bundle - Blue Lenovo"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00226",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 199.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00236",
+        "retailer": "Argos",
+        "name": "ASUS CX14 14in N50 4GB 64GB Chromebook - Blue",
+        "brand": "ASUS",
+        "price": 199.0,
+        "price_str": "£199.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7789829?clickSR=slp:term:laptops:112:372:1",
+        "product_text": "ASUS CX14 14in N50 4GB 64GB Chromebook - Blue ASUS 14.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00227",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 299.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00237",
+        "retailer": "Argos",
+        "name": "HP x360 14b-cd0002na 14in Intel N100 4GB 128GB Chromebook",
+        "brand": "HP",
+        "price": 299.0,
+        "price_str": "£299.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "Intel N100",
+        "url": "https://www.argos.co.uk/product/7512522?clickSR=slp:term:laptops:113:372:1",
+        "product_text": "HP x360 14b-cd0002na 14in Intel N100 4GB 128GB Chromebook HP Intel N100"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00228",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 369.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00238",
+        "retailer": "Argos",
+        "name": "HP 14a-nf0000na 14in i3 8GB 256GB Chromebook Plus - Grey",
+        "brand": "HP",
+        "price": 369.0,
+        "price_str": "£369.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "14.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/8761224?clickSR=slp:term:laptops:114:372:1",
+        "product_text": "HP 14a-nf0000na 14in i3 8GB 256GB Chromebook Plus - Grey HP 14.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00229",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 799.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00239",
+        "retailer": "Argos",
+        "name": "Lenovo IdeaPad Slim 3 15.3in i7 24GB 1TB Laptop - Grey",
+        "brand": "Lenovo",
+        "price": 799.0,
+        "price_str": "£799.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7783485?clickSR=slp:term:laptops:115:372:1",
+        "product_text": "Lenovo IdeaPad Slim 3 15.3in i7 24GB 1TB Laptop - Grey Lenovo 1TB"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00230",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 1199.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00241",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2025 13.6in M4 24GB 512GB - Sky Blue",
+        "brand": "Apple",
+        "price": 1199.0,
+        "price_str": "£1199.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7419182?clickSR=slp:term:laptops:117:372:1",
+        "product_text": "Apple MacBook Air 2025 13.6in M4 24GB 512GB - Sky Blue Apple"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00231",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 279.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00242",
+        "retailer": "Argos",
+        "name": "ASUS CX1505CKA 15.6in Celeron N4500 4GB 128GB Chromebook",
+        "brand": "ASUS",
+        "price": 279.0,
+        "price_str": "£279.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7622955?clickSR=slp:term:laptops:118:372:1",
+        "product_text": "ASUS CX1505CKA 15.6in Celeron N4500 4GB 128GB Chromebook ASUS"
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00232",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 669.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00243",
+        "retailer": "Argos",
+        "name": "ASUS Vivobook 16 Copilot+PC 16in Ryzen 7 16GB 1TB Laptop",
+        "brand": "ASUS",
+        "price": 669.0,
+        "price_str": "£669.00",
+        "ram": "",
+        "storage": "1TB",
+        "screen_size": "16.0\"",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7418994?clickSR=slp:term:laptops:119:372:1",
+        "product_text": "ASUS Vivobook 16 Copilot+PC 16in Ryzen 7 16GB 1TB Laptop ASUS 1TB 16.0\""
+      }
+    ]
+  },
+  {
+    "cluster_id": "CLU_00233",
+    "product_count": 1,
+    "retailers": [
+      "Argos"
+    ],
+    "best_price": 1199.0,
+    "best_retailer": "Argos",
+    "products": [
+      {
+        "global_id": "PROD_00244",
+        "retailer": "Argos",
+        "name": "Apple MacBook Air 2025 13.6in M4 24GB 512GB - Silver",
+        "brand": "Apple",
+        "price": 1199.0,
+        "price_str": "£1199.00",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "processor": "",
+        "url": "https://www.argos.co.uk/product/7419175?clickSR=slp:term:laptops:120:372:1",
+        "product_text": "Apple MacBook Air 2025 13.6in M4 24GB 512GB - Silver Apple"
+      }
+    ]
+  }
+]

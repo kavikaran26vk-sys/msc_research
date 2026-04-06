@@ -294,8 +294,8 @@ def merge_and_save(ld_path, argos_path, output_path):
 # ============================================================
 
 if __name__ == "__main__":
-    LAPTOPS_DIRECT_FILE = "laptops_direct.json"
-    ARGOS_FILE = "argos_laptops.json"
+    LAPTOPS_DIRECT_FILE = "./scraped_data/laptops_direct.json"
+    ARGOS_FILE = "./scraped_data/agros_laptops.json"
     OUTPUT_FILE = "products_unified.json"
 
     merge_and_save(LAPTOPS_DIRECT_FILE, ARGOS_FILE, OUTPUT_FILE)

@@ -4,7 +4,7 @@ from playwright.async_api import async_playwright
 
 async def scrape_laptops_direct():
     results = []
-    total_pages = 10
+    total_pages = 5
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(
@@ -86,11 +86,11 @@ async def scrape_laptops_direct():
         await browser.close()
 
     # Final save
-    with open("laptops_all.json", "w", encoding="utf-8") as f:
+    with open("./scraped_data/laptops_direct.json", "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
     print(f"\n✅ Done! Total laptops scraped: {len(results)}")
-    print("Saved to laptops_all.json")
+    print("Saved to laptops_direct.json")
     return results
 
 if __name__ == "__main__":
