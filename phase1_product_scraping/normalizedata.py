@@ -1,301 +1,363 @@
 import json
 import re
 from datetime import datetime
+from pathlib import Path
+
 
 # ============================================================
-# HELPER FUNCTIONS
+# CONFIG
 # ============================================================
 
-def clean_price(price_val):
-    """Extract float price from string or number"""
-    if isinstance(price_val, (int, float)):
-        return float(price_val)
-    if isinstance(price_val, str):
-        # Remove currency symbols and text, get first price number
-        # Handle cases like "SAVE £160\n£593.97\nFrom £21..."
-        lines = price_val.split('\n')
-        for line in lines:
-            line = line.strip()
-            # Skip lines that start with SAVE
-            if line.upper().startswith('SAVE'):
-                continue
-            cleaned = re.sub(r'[^\d.]', '', line.replace('£', '').strip())
-            if cleaned:
-                try:
-                    val = float(cleaned)
-                    if val > 10:  # skip tiny numbers
-                        return val
-                except:
-                    continue
+ARGOS_FILE = "./scraped_data/argos_laptops.json"
+LAPTOPSDIRECT_FILE = "./scraped_data/laptops_direct.json"
+OUTPUT_FILE = "./scraped_data/merged_products.json"
+
+
+# ============================================================
+# COMMON HELPERS
+# ============================================================
+
+COMMON_KEYS = [
+    "retailer",
+    "name",
+    "brand",
+    "sku",
+    "product_id",
+    "price",
+    "price_str",
+    "category",
+    "url",
+    "processor",
+    "ram",
+    "storage",
+    "screen_size",
+    "gpu",
+    "stock_status",
+    "specs",
+    "rating",
+    "review_count",
+    "image_url",
+    "scraped_at",
+    "global_id"
+]
+
+
+def normalize_space(text: str) -> str:
+    return re.sub(r"\s+", " ", str(text or "")).strip()
+
+
+def parse_price_value(text: str) -> float:
+    if text is None:
+        return 0.0
+
+    text = str(text)
+    matches = re.findall(r"£\s*([\d,]+(?:\.\d{1,2})?)", text)
+    if matches:
+        try:
+            return float(matches[-1].replace(",", ""))
+        except ValueError:
+            pass
+
+    fallback = re.search(r"([\d,]+(?:\.\d{1,2})?)", text)
+    if fallback:
+        try:
+            return float(fallback.group(1).replace(",", ""))
+        except ValueError:
+            return 0.0
+
     return 0.0
 
-def extract_ram(text):
-    """Extract RAM value - look for XGB RAM pattern specifically"""
-    if not text:
-        return ""
-    # Priority: explicit RAM mention
-    match = re.search(r'(\d+)\s*GB\s*RAM', text, re.IGNORECASE)
-    if match:
-        return match.group(1) + "GB"
-    # Fallback: memory pattern
-    match = re.search(r'(\d+)\s*GB\s*(?:memory|LPDDR|DDR)', text, re.IGNORECASE)
-    if match:
-        return match.group(1) + "GB"
-    return ""
 
-def extract_storage(text):
-    """Extract storage - must be SSD/HDD/eMMC, NOT just GB"""
-    if not text:
-        return ""
-    # TB SSD first
-    match = re.search(r'(\d+)\s*TB\s*(?:SSD|HDD|NVMe|storage)', text, re.IGNORECASE)
-    if match:
-        return match.group(1) + "TB"
-    # GB SSD
-    match = re.search(r'(\d+)\s*GB\s*(?:SSD|HDD|NVMe|eMMC|eUFS|storage)', text, re.IGNORECASE)
-    if match:
-        return match.group(1) + "GB"
-    # Just TB
-    match = re.search(r'(\d+)\s*TB', text, re.IGNORECASE)
-    if match:
-        return match.group(1) + "TB"
-    return ""
+def format_price_str(price: float) -> str:
+    return f"£{price:.2f}" if price else ""
 
-def extract_screen_size(text):
-    """Extract screen size"""
-    if not text:
-        return ""
-    match = re.search(r'(\d+\.?\d*)\s*["\']?\s*(?:inch|Inch)?', text, re.IGNORECASE)
-    if match:
-        val = float(match.group(1))
-        if 10 <= val <= 20:  # valid laptop screen range
-            return str(val) + '"'
-    return ""
 
-def extract_processor(text):
-    """Extract processor from text"""
-    if not text:
+def extract_brand(name: str) -> str:
+    name = normalize_space(name)
+    if not name:
         return ""
+    return name.split()[0]
+
+
+def extract_os(text: str) -> str:
+    text = normalize_space(text)
+
     patterns = [
-        r'Intel\s+Core\s+Ultra\s+\d+\s+\d+\w*',
-        r'Intel\s+Core\s+Ultra\s+\d+',
-        r'Intel\s+Core\s+i\d[-\s]\d+\w*',
-        r'Intel\s+Core\s+i\d',
-        r'Intel\s+Core\s+\d+\s+\d+\w*',
-        r'Intel\s+Core\s+\d+',
-        r'AMD\s+Ryzen\s+AI\s+\d+\s*\d*\w*',
-        r'AMD\s+Ryzen\s+\d+\s+\d+\w*',
-        r'AMD\s+Ryzen\s+\d+',
-        r'AMD\s+Athlon\s*\w*',
-        r'AMD\s+A\d+\w*',
-        r'Apple\s+M\d+(?:\s+Pro)?(?:\s+Max)?',
-        r'Intel\s+Celeron\s+\w+',
-        r'Intel\s+Pentium\s+\w+',
-        r'Intel\s+N\d+',
-        r'Snapdragon\s+\w+',
+        r"(Windows\s+11\s+Pro)",
+        r"(Windows\s+11)",
+        r"(Windows\s+10)",
+        r"(Chrome\s*OS)",
+        r"(ChromeOS)",
+        r"(Google\s+Chrome\s+OS)",
+        r"(macOS[\w\s-]*)",
+        r"(DOS)",
+        r"(Linux)",
     ]
+
     for pattern in patterns:
-        match = re.search(pattern, text, re.IGNORECASE)
-        if match:
-            return match.group(0).strip()
+        m = re.search(pattern, text, re.I)
+        if m:
+            os_name = m.group(1).strip()
+            if os_name.lower() == "chromeos":
+                return "Chrome OS"
+            return os_name
+
     return ""
 
-def extract_gpu(text):
-    """Extract GPU info from text"""
+
+def extract_key_specs_from_text(text: str) -> dict:
+    specs = {
+        "processor": "",
+        "ram": "",
+        "storage": "",
+        "screen_size": "",
+        "gpu": ""
+    }
+
     if not text:
-        return ""
-    match = re.search(r'(?:RTX|GTX)\s*\d+\s*\w*', text, re.IGNORECASE)
-    if match:
-        return match.group(0).strip()
-    match = re.search(r'RX\s*\d+\w*', text, re.IGNORECASE)
-    if match:
-        return match.group(0).strip()
-    match = re.search(r'Intel\s+Arc\s+\w+', text, re.IGNORECASE)
-    if match:
-        return match.group(0).strip()
-    return ""
+        return specs
 
-def extract_brand_from_name(name):
-    """Extract brand from product name"""
-    brands = [
-        'HP', 'Dell', 'Lenovo', 'Asus', 'Acer', 'Apple', 'MSI',
-        'Samsung', 'Toshiba', 'LG', 'Razer', 'Gigabyte', 'Huawei',
-        'Microsoft', 'Medion', 'Chuwi', 'Jumper', 'Google'
+    clean_text = normalize_space(text)
+
+    cpu_patterns = [
+        r"(Intel\s+Core\s+Ultra\s*\d+\s*[\w-]*)",
+        r"(Intel\s+Core\s+i[3579]\s*[\w-]*)",
+        r"(Intel\s+Celeron\s+[\w-]+)",
+        r"(Intel\s+Pentium\s+[\w-]+)",
+        r"(Intel\s+Processor\s+[\w-]+)",
+        r"(Intel\s+N\d{3,4})",
+        r"(AMD\s+Ryzen\s+\d+\s*[\w-]*)",
+        r"(AMD\s+A\d+\s*[\w-]*)",
+        r"(Apple\s+M\d+\s*(?:Pro|Max|Ultra)?)",
+        r"(MediaTek\s+[\w-]+)",
+        r"(Snapdragon\s+[\w-]+)",
     ]
-    name_upper = name.upper()
-    for brand in brands:
-        if name_upper.startswith(brand.upper()):
-            return brand
-    return ""
+    for pattern in cpu_patterns:
+        m = re.search(pattern, clean_text, re.I)
+        if m:
+            specs["processor"] = m.group(1).strip()
+            break
 
-# ============================================================
-# NORMALISE LAPTOPS DIRECT
-# ============================================================
+    ram_patterns = [
+        r"(\d+)\s*GB\s*RAM",
+        r"(\d+)\s*GB\s*LPDDR\d*X?",
+        r"(\d+)\s*GB\s*DDR\d*",
+        r"(\d+)\s*GB\s*memory",
+    ]
+    for pattern in ram_patterns:
+        m = re.search(pattern, clean_text, re.I)
+        if m:
+            specs["ram"] = f"{m.group(1)}GB"
+            break
 
-def normalise_laptops_direct(filepath):
-    print(f"Loading Laptops Direct data from {filepath}...")
-    with open(filepath, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    storage_patterns = [
+        r"(\d+)\s*(TB|GB)\s*(SSD|HDD|eMMC|UFS|eUFS)",
+        r"(\d+)\s*(TB|GB)\s*storage",
+    ]
+    for pattern in storage_patterns:
+        m = re.search(pattern, clean_text, re.I)
+        if m:
+            specs["storage"] = f"{m.group(1)}{m.group(2).upper()}"
+            break
 
-    normalised = []
-    for i, item in enumerate(data):
-        try:
-            title = item.get('title', '')
-            specs = item.get('specs', [])
-            specs_text = ' '.join(specs)
-            full_text = title + ' ' + specs_text
+    m = re.search(r"(\d+\.?\d*)\s*(?:inch|in)\s*screen", clean_text, re.I)
+    if not m:
+        m = re.search(r"(\d+\.?\d*)\s*(?:inch|in)\b", clean_text, re.I)
+    if m:
+        specs["screen_size"] = f'{m.group(1)}"'
 
-            #  Fixed price extraction
-            raw_price = item.get('price', '')
-            price = clean_price(raw_price)
+    gpu_patterns = [
+        r"(NVIDIA\s+RTX\s*\d+\s*(?:Series)?(?:\s*RTX\s*\d+)?)",
+        r"(RTX\s*\d+\w*)",
+        r"(GTX\s*\d+\w*)",
+        r"(RX\s*\d+\w*)",
+        r"(Intel\s+Iris\s+Xe)",
+        r"(Intel\s+UHD\s+graphics)",
+        r"(Intel\s+UHD\s+Graphics)",
+        r"(Intel\s+Arc\s*[\w-]*)",
+        r"(AMD\s+Radeon[\w\s-]*)",
+        r"(Integrated graphics)",
+        r"(Dedicated graphics card)",
+    ]
+    for pattern in gpu_patterns:
+        m = re.search(pattern, clean_text, re.I)
+        if m:
+            specs["gpu"] = m.group(1).strip().rstrip(".")
+            break
 
-            # Extract fields
-            brand = extract_brand_from_name(title)
-            processor = extract_processor(full_text)
-            ram = extract_ram(full_text)
-            storage = extract_storage(full_text)
-            screen_size = extract_screen_size(title)
-            gpu = extract_gpu(full_text)
+    # specs["os"] = extract_os(clean_text)
 
-            # SKU from product_id or title
-            product_id = str(item.get('product_id', f'{i+1:05d}'))
-            sku = item.get('sku', '')
+    # m = re.search(r"Up to\s+([\d.]+)\s+hours?\s+battery", clean_text, re.I)
+    # if not m:
+    #     m = re.search(r"Up to\s+([\d.]+)\s+hours?\b", clean_text, re.I)
+    # if m:
+    #     specs["battery"] = f"{m.group(1)} hours"
 
-            normalised.append({
-                "retailer": "LaptopsDirect",
-                "name": title,
-                "brand": brand,
-                "sku": sku,
-                "product_id": f"LD_{product_id}",
-                "price": price,
-                "price_str": f"£{price:.2f}" if price else "N/A",
-                "category": "laptops",
-                "url": item.get('product_url', ''),
-                "processor": processor,
-                "ram": ram,
-                "storage": storage,
-                "screen_size": screen_size,
-                "gpu": gpu,
-                "stock_status": item.get('stock_status', ''),
-                "specs": specs,
-                "rating": "",
-                "review_count": "",
-                "image_url": "",
-                "scraped_at": datetime.now().isoformat(),
-            })
+    # m = re.search(r"Weight\s+([\d.]+)\s*kg", clean_text, re.I)
+    # if not m:
+    #     m = re.search(r"(\d+\.?\d*)\s*kg", clean_text, re.I)
+    # if m:
+    #     specs["weight"] = f"{m.group(1)}kg"
 
-        except Exception as e:
-            print(f"  Error on LaptopsDirect item {i}: {e}")
-            continue
-
-    print(f"  -> Normalised {len(normalised)} Laptops Direct products")
-    return normalised
+    return specs
 
 
-# ============================================================
-# NORMALISE ARGOS
-# ============================================================
+def build_common_product(data: dict) -> dict:
+    product = {key: "" for key in COMMON_KEYS}
+    product["specs"] = []
 
-def normalise_argos(filepath):
-    print(f"Loading Argos data from {filepath}...")
-    with open(filepath, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    for key in COMMON_KEYS:
+        if key in data:
+            product[key] = data[key]
 
-    normalised = []
-    for i, item in enumerate(data):
-        try:
-            name = item.get('name', '')
-            price = clean_price(item.get('price', 0))
+    if not isinstance(product["specs"], list):
+        product["specs"] = []
 
-            #  Use full name for extraction
-            full_text = name
-
-            processor = extract_processor(item.get('processor', '') or full_text)
-            ram = extract_ram(item.get('ram', '') or full_text)
-
-            #  Fixed storage — use name only if explicit SSD/HDD keyword present
-            storage_field = item.get('storage', '')
-            if storage_field and any(x in storage_field.upper() for x in ['SSD', 'HDD', 'TB', 'EMMC']):
-                storage = extract_storage(storage_field)
-            else:
-                storage = extract_storage(full_text)
-
-            screen_size = item.get('screen_size', '') or extract_screen_size(full_text)
-            gpu = extract_gpu(full_text)
-            brand = item.get('brand', '') or extract_brand_from_name(name)
-
-            # Rating cleanup
-            rating_raw = item.get('rating', '')
-            rating = re.sub(r'[^\d.]', '', str(rating_raw)) if rating_raw else ''
-
-            normalised.append({
-                "retailer": "Argos",
-                "name": name,
-                "brand": brand,
-                "sku": item.get('model', ''),
-                "product_id": item.get('product_id', f'ARG_{i+1:05d}'),
-                "price": price,
-                "price_str": item.get('price_str', f'£{price:.2f}'),
-                "category": "laptops",
-                "url": item.get('url', ''),
-                "processor": processor,
-                "ram": ram,
-                "storage": storage,
-                "screen_size": screen_size,
-                "gpu": gpu,
-                "stock_status": "In Stock",
-                "specs": [],
-                "rating": rating,
-                "review_count": item.get('review_count', ''),
-                "image_url": item.get('image_url', ''),
-                "scraped_at": item.get('scraped_at', datetime.now().isoformat()),
-            })
-
-        except Exception as e:
-            print(f"  Error on Argos item {i}: {e}")
-            continue
-
-    
-    return normalised
+    return product
 
 
 # ============================================================
-# MERGE & SAVE
+# ARGOS NORMALIZER
 # ============================================================
 
-def merge_and_save(ld_path, argos_path, output_path):
-    ld_products = normalise_laptops_direct(ld_path)
-    argos_products = normalise_argos(argos_path)
+def normalize_argos_item(item: dict, global_index: int) -> dict:
+    product = build_common_product(item)
 
-    all_products = ld_products + argos_products
+    product["retailer"] = "Argos"
+    product["name"] = item.get("name", "")
+    product["brand"] = item.get("brand") or extract_brand(product["name"])
+    product["sku"] = item.get("sku", "")
+    product["product_id"] = str(item.get("product_id", ""))
+    product["price"] = float(item.get("price", 0) or 0)
+    product["price_str"] = item.get("price_str") or format_price_str(product["price"])
+    product["category"] = item.get("category", "laptops")
+    product["url"] = item.get("url", "")
+    product["processor"] = item.get("processor", "")
+    product["ram"] = item.get("ram", "")
+    product["storage"] = item.get("storage", "")
+    product["screen_size"] = item.get("screen_size", "")
+    product["gpu"] = item.get("gpu", "")
+    product["stock_status"] = item.get("stock_status", "N/A")
+    product["specs"] = item.get("specs", []) or []
+    product["rating"] = item.get("rating", "")
+    product["review_count"] = item.get("review_count", "")
+    product["image_url"] = item.get("image_url", "")
+    product["scraped_at"] = item.get("scraped_at") or datetime.now().isoformat()
+    product["global_id"] = f"PROD_{global_index:05d}"
+    # product["os"] = item.get("os", "")
+    # product["battery"] = item.get("battery", "")
+    # product["weight"] = item.get("weight", "")
 
-    for i, p in enumerate(all_products):
-        p['global_id'] = f"PROD_{i+1:05d}"
-
-    with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(all_products, f, indent=2, ensure_ascii=False)
-
-    print(f"\n Done!")
-    print(f"   Laptops Direct : {len(ld_products)} products")
-    print(f"   Argos          : {len(argos_products)} products")
-    print(f"   Total merged   : {len(all_products)} products")
-    print(f"   Saved to       : {output_path}")
-
-    print("\n--- Sample Laptops Direct product ---")
-    print(json.dumps(ld_products[0], indent=2))
-    print("\n--- Sample Argos product ---")
-    print(json.dumps(argos_products[0], indent=2))
-
-    return all_products
+    return product
 
 
 # ============================================================
-# RUN
+# LAPTOPSDIRECT NORMALIZER
 # ============================================================
+
+def normalize_laptopsdirect_item(item: dict, global_index: int) -> dict:
+    name = item.get("name") or item.get("title", "")
+    specs_list = item.get("specs", []) or []
+    combined_text = normalize_space(name + " " + " ".join(specs_list))
+
+    extracted = extract_key_specs_from_text(combined_text)
+
+    price_text = item.get("price", "")
+    price_value = parse_price_value(price_text)
+
+    # Try to get a clean stock status line from the messy price field
+    stock_status = item.get("stock_status", "").strip()
+    if not stock_status or stock_status == "N/A":
+        stock_match = re.search(
+            r"(In Stock|Out of Stock|Pre-Order|Available|Delivery from [^\n]+)",
+            str(price_text),
+            re.I,
+        )
+        if stock_match:
+            stock_status = stock_match.group(1).strip()
+        else:
+            stock_status = "N/A"
+
+    sku = item.get("sku", "")
+
+    product = build_common_product({})
+
+    product["retailer"] = "LaptopsDirect"
+    product["name"] = name
+    product["brand"] = item.get("brand") or extract_brand(name)
+    product["sku"] = sku
+    product["product_id"] = str(item.get("product_id", ""))
+    product["price"] = price_value
+    product["price_str"] = format_price_str(price_value)
+    product["category"] = item.get("category", "laptops")
+    product["url"] = item.get("url") or item.get("product_url", "")
+    product["processor"] = item.get("processor", "") or extracted["processor"]
+    product["ram"] = item.get("ram", "") or extracted["ram"]
+    product["storage"] = item.get("storage", "") or extracted["storage"]
+    product["screen_size"] = item.get("screen_size", "") or extracted["screen_size"]
+    product["gpu"] = item.get("gpu", "") or extracted["gpu"]
+    product["stock_status"] = stock_status
+    product["specs"] = specs_list
+    product["rating"] = item.get("rating", "")
+    product["review_count"] = item.get("review_count", "")
+    product["image_url"] = item.get("image_url", "")
+    product["scraped_at"] = item.get("scraped_at") or datetime.now().isoformat()
+    product["global_id"] = f"PROD_{global_index:05d}"
+    # product["os"] = item.get("os", "") or extracted["os"]
+    # product["battery"] = item.get("battery", "") or extracted["battery"]
+    # product["weight"] = item.get("weight", "") or extracted["weight"]
+
+    return product
+
+
+# ============================================================
+# FILE HELPERS
+# ============================================================
+
+def load_json(path: str):
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def save_json(data, path: str):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+# ============================================================
+# MAIN MERGE LOGIC
+# ============================================================
+
+def merge_products(argos_file: str, laptopsdirect_file: str, output_file: str):
+    argos_data = load_json(argos_file)
+    laptopsdirect_data = load_json(laptopsdirect_file)
+
+    merged = []
+    global_index = 1
+
+    for item in argos_data:
+        merged.append(normalize_argos_item(item, global_index))
+        global_index += 1
+
+    for item in laptopsdirect_data:
+        merged.append(normalize_laptopsdirect_item(item, global_index))
+        global_index += 1
+
+    save_json(merged, output_file)
+
+    print(f"Argos products        : {len(argos_data)}")
+    print(f"LaptopsDirect products: {len(laptopsdirect_data)}")
+    print(f"Total merged          : {len(merged)}")
+    print(f"Saved to              : {output_file}")
+
+    if merged:
+        print("\nSample merged item:")
+        print(json.dumps(merged[0], indent=2, ensure_ascii=False))
+
 
 if __name__ == "__main__":
-    LAPTOPS_DIRECT_FILE = "./scraped_data/laptops_direct.json"
-    ARGOS_FILE = "./scraped_data/agros_laptops.json"
-    OUTPUT_FILE = "products_unified.json"
-
-    merge_and_save(LAPTOPS_DIRECT_FILE, ARGOS_FILE, OUTPUT_FILE)
+    merge_products(
+        argos_file=ARGOS_FILE,
+        laptopsdirect_file=LAPTOPSDIRECT_FILE,
+        output_file=OUTPUT_FILE,
+    )
