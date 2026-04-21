@@ -5,7 +5,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 197.99,
+    "best_price": 593.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -13,8 +13,8 @@
         "retailer": "LaptopsDirect",
         "name": "HP 250R G9 Intel Core Ultra 5 16GB RAM 512 GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "HP",
-        "price": 197.99,
-        "price_str": "£197.99",
+        "price":593.97,
+        "price_str": "£593.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -30,7 +30,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 173.32,
+    "best_price": 519.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -38,8 +38,8 @@
         "retailer": "LaptopsDirect",
         "name": "Apple MacBook Air 13.3 Inch M1 8GB RAM 256GB SSD 2020 - Space Grey",
         "brand": "Apple",
-        "price": 173.32,
-        "price_str": "£173.32",
+        "price": 519.97,
+        "price_str": "£519.97",
         "ram": "8GB",
         "storage": "256GB",
         "screen_size": "13.3\"",
@@ -55,7 +55,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 279.97,
+    "best_price": 329.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -63,8 +63,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 5490 Intel Core i5 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 279.97,
-        "price_str": "£279.97",
+        "price": 329.97,
+        "price_str": "£329.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -81,7 +81,7 @@
       "Argos",
       "LaptopsDirect"
     ],
-    "best_price": 189.99,
+    "best_price": 549.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -89,8 +89,8 @@
         "retailer": "LaptopsDirect",
         "name": "Apple MacBook Neo 13 Inch A18 Pro 8GB RAM 256GB SSD 2026 - Indigo",
         "brand": "Apple",
-        "price": 189.99,
-        "price_str": "£189.99",
+        "price": 549.97,
+        "price_str": "£549.97",
         "ram": "8GB",
         "storage": "256GB",
         "screen_size": "13\"",
@@ -148,7 +148,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 233.32,
+    "best_price": 699.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -156,8 +156,8 @@
         "retailer": "LaptopsDirect",
         "name": "Samsung Galaxy Book4 Intel Core i5 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "Samsung",
-        "price": 233.32,
-        "price_str": "£233.32",
+        "price": 699.97,
+        "price_str": "£699.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "15.6\"",
@@ -173,7 +173,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 473.32,
+    "best_price": 1419.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -181,8 +181,8 @@
         "retailer": "LaptopsDirect",
         "name": "Samsung Galaxy Book5 Pro Intel Core Ultra 7 16GB RAM 512GB SSD 14 Inch Touchscreen Windows 11 Pro Laptop",
         "brand": "Samsung",
-        "price": 473.32,
-        "price_str": "£473.32",
+        "price": 1419.97,
+        "price_str": "£1419.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -198,7 +198,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 499.99,
+    "best_price": 1499.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -206,8 +206,8 @@
         "retailer": "LaptopsDirect",
         "name": "HP OMEN Intel Core i7 24GB RAM 1TB SSD RTX 5070 Windows 11 Gaming Laptop + HyperX Wireless Mouse and HyperX Cloud Headset",
         "brand": "HP",
-        "price": 499.99,
-        "price_str": "£499.99",
+        "price": 1499.97,
+        "price_str": "£1499.97",
         "ram": "24GB",
         "storage": "1TB",
         "screen_size": "",
@@ -224,16 +224,16 @@
       "Argos",
       "LaptopsDirect"
     ],
-    "best_price": 198.32,
-    "best_retailer": "LaptopsDirect",
+    "best_price": 499.0,
+    "best_retailer": "Argos",
     "products": [
       {
         "global_id": "PROD_00128",
         "retailer": "LaptopsDirect",
         "name": "HP 250 Intel Core i5 16GB RAM 512GB SSD 15.6 inch Windows 11 Pro Laptop",
         "brand": "HP",
-        "price": 198.32,
-        "price_str": "£198.32",
+        "price": 624.97,
+        "price_str": "£624.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -263,7 +263,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 438.72,
+    "best_price": 569.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -271,8 +271,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V14 G4 Intel Core i5 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 438.72,
-        "price_str": "£438.72",
+        "price": 569.97,
+        "price_str": "£569.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -288,7 +288,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 189.99,
+    "best_price": 549.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -296,8 +296,8 @@
         "retailer": "LaptopsDirect",
         "name": "HP 250 G10 Intel Core i7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "HP",
-        "price": 189.99,
-        "price_str": "£189.99",
+        "price": 549.97,
+        "price_str": "£549.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -313,7 +313,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 145.99,
+    "best_price": 437.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -321,8 +321,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V15 G4 Ryzen 5 8GB RAM 256GB SSD 15 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 145.99,
-        "price_str": "£145.99",
+        "price": 437.97,
+        "price_str": "£437.97",
         "ram": "8GB",
         "storage": "256GB",
         "screen_size": "15\"",
@@ -338,7 +338,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 116.66,
+    "best_price": 349.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -346,8 +346,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 5420 Intel Core i5 11th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 116.66,
-        "price_str": "£116.66",
+        "price": 349.97,
+        "price_str": "£349.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -363,7 +363,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 233.32,
+    "best_price": 699.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -371,8 +371,8 @@
         "retailer": "LaptopsDirect",
         "name": "HP 250 G10 Intel Core i7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "HP",
-        "price": 233.32,
-        "price_str": "£233.32",
+        "price": 699.97,
+        "price_str": "£699.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -388,7 +388,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 243.32,
+    "best_price": 729.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -396,8 +396,8 @@
         "retailer": "LaptopsDirect",
         "name": "HP ProBook 455 G10 Ryzen 7 7730U 16GB RAM 512GB SSD 15.6 inch Windows 11 Pro Laptop",
         "brand": "HP",
-        "price": 243.32,
-        "price_str": "£243.32",
+        "price": 729.97,
+        "price_str": "£729.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -438,7 +438,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 333.32,
+    "best_price": 999.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -446,8 +446,8 @@
         "retailer": "LaptopsDirect",
         "name": "Acer Nitro V15 Intel Core i7 16GB RAM 1TB SSD RTX 5060 165Hz 15.6 Inch Windows 11 Gaming Laptop",
         "brand": "Acer",
-        "price": 333.32,
-        "price_str": "£333.32",
+        "price": 999.97,
+        "price_str": "£999.97",
         "ram": "16GB",
         "storage": "1TB",
         "screen_size": "15.6\"",
@@ -463,7 +463,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 136.66,
+    "best_price": 409.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -471,8 +471,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 5520 Core i5 11th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 136.66,
-        "price_str": "£136.66",
+        "price": 409.97,
+        "price_str": "£409.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "15.6\"",
@@ -488,7 +488,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 196.33,
+    "best_price": 589.00,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -496,8 +496,8 @@
         "retailer": "LaptopsDirect",
         "name": "ASUS Vivobook 15 Intel Core 7 16GB RAM 1TB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "ASUS",
-        "price": 196.33,
-        "price_str": "£196.33",
+        "price": 589.00,
+        "price_str": "£589.00",
         "ram": "16GB",
         "storage": "1TB",
         "screen_size": "15.6\"",
@@ -513,7 +513,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 189.99,
+    "best_price": 569.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -521,8 +521,8 @@
         "retailer": "LaptopsDirect",
         "name": "Apple MacBook Neo 13 Inch A18 Pro 8GB RAM 256GB SSD 2026 - Citrus",
         "brand": "Apple",
-        "price": 189.99,
-        "price_str": "£189.99",
+        "price": 569.97,
+        "price_str": "£569.97",
         "ram": "8GB",
         "storage": "256GB",
         "screen_size": "13\"",
@@ -538,7 +538,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 433.32,
+    "best_price": 1299.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -546,8 +546,8 @@
         "retailer": "LaptopsDirect",
         "name": "Medion ERAZER Defender 17 P1 Intel Core i7-13620H 32GB RAM 2TB SSD RTX 5060 144Hz 17.3 Inch Windows 11 Gaming Laptop",
         "brand": "Medion",
-        "price": 433.32,
-        "price_str": "£433.32",
+        "price": 1299.97,
+        "price_str": "£1299.97",
         "ram": "32GB",
         "storage": "2TB",
         "screen_size": "17.3\"",
@@ -563,7 +563,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 383.32,
+    "best_price": 1149.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -571,8 +571,8 @@
         "retailer": "LaptopsDirect",
         "name": "MSI Cyborg 14 Intel Core i7 16GB RAM 512GB SSD RTX 4060 144Hz 14 Inch Windows 11 Gaming Laptop",
         "brand": "MSI",
-        "price": 383.32,
-        "price_str": "£383.32",
+        "price": 1149.97,
+        "price_str": "£1149.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -588,7 +588,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 499.99,
+    "best_price": 1399.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -596,8 +596,8 @@
         "retailer": "LaptopsDirect",
         "name": "Medion ERAZER Deputy 15 P1 Intel Core 9 32GB RAM 2TB SSD RTX 5070 144Hz 15.6 Inch Windows 11 Gaming Laptop",
         "brand": "Medion",
-        "price": 499.99,
-        "price_str": "£499.99",
+        "price":1399.97,
+        "price_str": "£1399.97",
         "ram": "32GB",
         "storage": "2TB",
         "screen_size": "15.6\"",
@@ -613,7 +613,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 133.32,
+    "best_price": 399.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -621,8 +621,8 @@
         "retailer": "LaptopsDirect",
         "name": "HP 250R G9 Intel Core Ultra 5 8GB RAM 256GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "HP",
-        "price": 133.32,
-        "price_str": "£133.32",
+        "price": 399.97,
+        "price_str": "£399.97",
         "ram": "8GB",
         "storage": "256GB",
         "screen_size": "15.6\"",
@@ -638,7 +638,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 566.66,
+    "best_price": 1799.98,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -646,8 +646,8 @@
         "retailer": "LaptopsDirect",
         "name": "Medion Erazer Major 16X1 Intel Core Ultra 7 32GB RAM 2TB SSD 300Hz RTX 5070 Ti 16 Inch Windows 11 Gaming Laptop",
         "brand": "Medion",
-        "price": 566.66,
-        "price_str": "£566.66",
+        "price": 1799.98,
+        "price_str": "£1799.98",
         "ram": "32GB",
         "storage": "2TB",
         "screen_size": "16\"",
@@ -739,16 +739,16 @@
       "Argos",
       "LaptopsDirect"
     ],
-    "best_price": 133.32,
-    "best_retailer": "LaptopsDirect",
+    "best_price": 319,
+    "best_retailer": "Argos",
     "products": [
       {
         "global_id": "PROD_00148",
         "retailer": "LaptopsDirect",
         "name": "HP BM2V4EA Intel Core i3 4GB RAM 128 UFS 15.6 Inch Windows 11 S Laptop",
         "brand": "HP",
-        "price": 133.32,
-        "price_str": "£133.32",
+        "price": 399.97,
+        "price_str": "£399.97",
         "ram": "4GB",
         "storage": "128GB",
         "screen_size": "15.6\"",
@@ -778,7 +778,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 566.66,
+    "best_price": 1699.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -786,8 +786,8 @@
         "retailer": "LaptopsDirect",
         "name": "Samsung Galaxy Book5 Pro Intel Core Ultra 7 32GB RAM 512GB SSD 14 Inch Touchscreen Windows 11 Pro Laptop",
         "brand": "Samsung",
-        "price": 566.66,
-        "price_str": "£566.66",
+        "price": 1699.97,
+        "price_str": "£1699.97",
         "ram": "32GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -803,7 +803,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 443.32,
+    "best_price": 1329.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -811,8 +811,8 @@
         "retailer": "LaptopsDirect",
         "name": "HP OMEN Intel Core i7 24GB RAM 1TB SSD RTX 5060 Windows 11 Gaming Laptop with Backpack",
         "brand": "HP",
-        "price": 443.32,
-        "price_str": "£443.32",
+        "price": 1329.97,
+        "price_str": "£1329.97",
         "ram": "24GB",
         "storage": "1TB",
         "screen_size": "",
@@ -829,16 +829,16 @@
       "Argos",
       "LaptopsDirect"
     ],
-    "best_price": 166.66,
-    "best_retailer": "LaptopsDirect",
+    "best_price": 439.0,
+    "best_retailer": "Argos",
     "products": [
       {
         "global_id": "PROD_00151",
         "retailer": "LaptopsDirect",
         "name": "HP 255 G10 AMD Ryzen 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "HP",
-        "price": 166.66,
-        "price_str": "£166.66",
+        "price": 499.97,
+        "price_str": "£499.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -868,7 +868,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 139.99,
+    "best_price": 419.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -876,8 +876,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V15 G4 Intel Core i5 8GB RAM 256GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "Lenovo",
-        "price": 139.99,
-        "price_str": "£139.99",
+        "price": 419.97,
+        "price_str": "£419.97",
         "ram": "8GB",
         "storage": "256GB",
         "screen_size": "15.6\"",
@@ -893,7 +893,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 281.66,
+    "best_price": 844.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -901,8 +901,8 @@
         "retailer": "LaptopsDirect",
         "name": "Apple MacBook Air 13.6 Inch M3 16GB RAM 256GB SSD - Midnight",
         "brand": "Apple",
-        "price": 281.66,
-        "price_str": "£281.66",
+        "price": 844.97,
+        "price_str": "£844.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "13.6\"",
@@ -918,7 +918,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 159.32,
+    "best_price": 477.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -926,8 +926,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V15 G4 AMD Ryzen 5 16GB RAM 256GB SSD 15.6 inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 159.32,
-        "price_str": "£159.32",
+        "price": 477.97,
+        "price_str": "£477.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "15.6\"",
@@ -943,7 +943,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 206.66,
+    "best_price": 619.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -951,8 +951,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo ThinkBook 16 G7 Qualcomm Snapdragon X Plus 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 206.66,
-        "price_str": "£206.66",
+        "price": 619.97,
+        "price_str": "£619.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "16\"",
@@ -968,7 +968,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 133.32,
+    "best_price": 619.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -976,8 +976,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V15 G4 AMD Ryzen 5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "Lenovo",
-        "price": 133.32,
-        "price_str": "£133.32",
+        "price": 619.97,
+        "price_str": "619.97",
         "ram": "8GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -993,7 +993,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 209.99,
+    "best_price": 629.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1001,8 +1001,8 @@
         "retailer": "LaptopsDirect",
         "name": "HP 255 G10 AMD Ryzen 7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "HP",
-        "price": 209.99,
-        "price_str": "£209.99",
+        "price": 629.97,
+        "price_str": "£629.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -1013,37 +1013,12 @@
     ]
   },
   {
-    "cluster_id": "CLU_00038",
-    "product_count": 1,
-    "retailers": [
-      "LaptopsDirect"
-    ],
-    "best_price": 133.32,
-    "best_retailer": "LaptopsDirect",
-    "products": [
-      {
-        "global_id": "PROD_00158",
-        "retailer": "LaptopsDirect",
-        "name": "Refurbished HP EliteBook 850 G6 Intel Core i7 8th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop",
-        "brand": "Refurbished",
-        "price": 133.32,
-        "price_str": "£133.32",
-        "ram": "16GB",
-        "storage": "256GB",
-        "screen_size": "15.6\"",
-        "processor": "Intel Core i7 8th",
-        "url": "https://www.laptopsdirect.co.uk/refurbished-hp-elitebok-850-g6-core-i7-8th-gen-16gb-256gb-15-inch-windows-1-t1-850g6i716gb256gbw10p/version.asp",
-        "product_text": "Refurbished HP EliteBook 850 G6 Intel Core i7 8th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop Refurbished 16GB 256GB 15.6\" Intel Core i7 8th"
-      }
-    ]
-  },
-  {
     "cluster_id": "CLU_00039",
     "product_count": 1,
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 106.66,
+    "best_price": 319.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1051,8 +1026,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Lenovo ThinkPad T14s G2 Core i5 11th Gen 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 106.66,
-        "price_str": "£106.66",
+        "price": 319.97,
+        "price_str": "£319.97",
         "ram": "8GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -1068,7 +1043,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 216.66,
+    "best_price": 599.98,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1076,8 +1051,8 @@
         "retailer": "LaptopsDirect",
         "name": "Medion ERAZER Crawler E30 Intel Core i5 16GB RAM 512GB SSD RTX 2050 60Hz 15.6 Inch Windows 11 Gaming Laptop",
         "brand": "Medion",
-        "price": 216.66,
-        "price_str": "£216.66",
+        "price": 599.98,
+        "price_str": "£599.98",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -1093,7 +1068,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 59.99,
+    "best_price": 179.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1101,8 +1076,8 @@
         "retailer": "LaptopsDirect",
         "name": "Entity Book Intel Celeron 4GB RAM 128GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "Entity",
-        "price": 59.99,
-        "price_str": "£59.99",
+        "price": 179.97,
+        "price_str": "£179.97",
         "ram": "4GB",
         "storage": "128GB",
         "screen_size": "15.6\"",
@@ -1118,7 +1093,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 166.66,
+    "best_price": 588.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1126,8 +1101,8 @@
         "retailer": "LaptopsDirect",
         "name": "Acer Extensa 15 AMD Ryzen 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "Acer",
-        "price": 166.66,
-        "price_str": "£166.66",
+        "price": 588.97,
+        "price_str": "£588.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -1143,7 +1118,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 283.32,
+    "best_price": 829.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1151,8 +1126,8 @@
         "retailer": "LaptopsDirect",
         "name": "Medion ERAZER Scout 15 Intel Core i5 16GB RAM 1TB SSD RTX 5050 144Hz 15.6 Inch Windows 11 Gaming Laptop",
         "brand": "Medion",
-        "price": 283.32,
-        "price_str": "£283.32",
+        "price": 829.97,
+        "price_str": "£829.97",
         "ram": "16GB",
         "storage": "1TB",
         "screen_size": "15.6\"",
@@ -1168,7 +1143,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 316.66,
+    "best_price": 949.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1176,8 +1151,8 @@
         "retailer": "LaptopsDirect",
         "name": "Medion ERAZER Deputy 15 P1 Intel Core i7 16GB RAM 1TB SSD RTX 5060 144Hz 15.6 Inch Windows 11 Gaming Laptop",
         "brand": "Medion",
-        "price": 316.66,
-        "price_str": "£316.66",
+        "price": 949.97,
+        "price_str": "£949.97",
         "ram": "16GB",
         "storage": "1TB",
         "screen_size": "15.6\"",
@@ -1193,7 +1168,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 2000.0,
+    "best_price": 2249.0,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1201,7 +1176,7 @@
         "retailer": "LaptopsDirect",
         "name": "MSI Vector 16 HX AI A2XWHG-654UK Core Ultra 9 32GB 1TB GeForce RTX 5070 Ti 16 Inch QHD 240Hz Gaming Laptop",
         "brand": "MSI",
-        "price": 2000.0,
+        "price": 2249.0,
         "price_str": "£2000.00",
         "ram": "32GB",
         "storage": "1TB",
@@ -1218,7 +1193,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 2000.0,
+    "best_price": 2016.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1226,8 +1201,8 @@
         "retailer": "LaptopsDirect",
         "name": "Medion ERAZER Major 18 Intel Core Ultra 9 32GB RAM 2TB SSD RTX 5070Ti 240Hz 18 Inch Windows 11 Gaming Laptop",
         "brand": "Medion",
-        "price": 2000.0,
-        "price_str": "£2000.00",
+        "price": 2016.97,
+        "price_str": "£2016.97",
         "ram": "32GB",
         "storage": "2TB",
         "screen_size": "18\"",
@@ -1243,7 +1218,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 2000.0,
+    "best_price": 2699.98,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1251,8 +1226,8 @@
         "retailer": "LaptopsDirect",
         "name": "Medion ERAZER Beast 16 X1 Ultimate Intel Core Ultra 9 32GB RAM 2TB SSD RTX 5090 300Hz 16 Inch Windows 11 Gaming Laptop",
         "brand": "Medion",
-        "price": 2000.0,
-        "price_str": "£2000.00",
+        "price": 2699.98,
+        "price_str": "£2699.98",
         "ram": "32GB",
         "storage": "2TB",
         "screen_size": "16\"",
@@ -1268,7 +1243,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 278.32,
+    "best_price": 834.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1276,8 +1251,8 @@
         "retailer": "LaptopsDirect",
         "name": "MSI Modern 15 Intel Core Ultra 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "MSI",
-        "price": 278.32,
-        "price_str": "£278.32",
+        "price": 834.97,
+        "price_str": "£834.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -1293,7 +1268,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 349.99,
+    "best_price": 1029.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1301,8 +1276,8 @@
         "retailer": "LaptopsDirect",
         "name": "Medion ERAZER Deputy 15 P1 Intel Core 7 16GB RAM 1TB SSD RTX 5060 144Hz 15.6 Inch Windows 11 Gaming Laptop",
         "brand": "Medion",
-        "price": 349.99,
-        "price_str": "£349.99",
+        "price": 1029.97,
+        "price_str": "£1029.97",
         "ram": "16GB",
         "storage": "1TB",
         "screen_size": "15.6\"",
@@ -1318,7 +1293,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 566.33,
+    "best_price": 1699.00,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1326,8 +1301,8 @@
         "retailer": "LaptopsDirect",
         "name": "Acer Nitro 18 AMD Ryzen AI 7 16GB RAM 1TB SSD RTX 5070 Ti 165Hz 18 Inch Windows 11 Gaming Laptop",
         "brand": "Acer",
-        "price": 566.33,
-        "price_str": "£566.33",
+        "price": 1699.00,
+        "price_str": "£1699.00",
         "ram": "16GB",
         "storage": "1TB",
         "screen_size": "18\"",
@@ -1343,7 +1318,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 2000.0,
+    "best_price": 2899.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1351,8 +1326,8 @@
         "retailer": "LaptopsDirect",
         "name": "Apple MacBook Pro 14.2 Inch M4 Max 36GB RAM 1TB SSD - Silver",
         "brand": "Apple",
-        "price": 2000.0,
-        "price_str": "£2000.00",
+        "price": 2899.97,
+        "price_str": "£2899.97",
         "ram": "36GB",
         "storage": "1TB",
         "screen_size": "14.2\"",
@@ -1368,7 +1343,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 233.32,
+    "best_price": 699.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1376,8 +1351,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished HP OmniBook X 14-fe1500na Copilot+ PC Snapdragon X1P-42-100 16GB RAM 512GB SSD 14 Inch Windows 11 Laptop - Silver",
         "brand": "Refurbished",
-        "price": 233.32,
-        "price_str": "£233.32",
+        "price": 699.97,
+        "price_str": "£699.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -1393,7 +1368,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 2000.0,
+    "best_price": 2779.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1401,8 +1376,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo Legion Pro 7 16IAX10H Intel Core Ultra 9 32GB RAM 1TB SSD RTX 5080 16 Inch Windows 11 Gaming Laptop",
         "brand": "Lenovo",
-        "price": 2000.0,
-        "price_str": "£2000.00",
+        "price":2779.97,
+        "price_str": "£2779.97",
         "ram": "32GB",
         "storage": "1TB",
         "screen_size": "16\"",
@@ -1412,38 +1387,14 @@
       }
     ]
   },
-  {
-    "cluster_id": "CLU_00054",
-    "product_count": 1,
-    "retailers": [
-      "LaptopsDirect"
-    ],
-    "best_price": 159.67,
-    "best_retailer": "LaptopsDirect",
-    "products": [
-      {
-        "global_id": "PROD_00174",
-        "retailer": "LaptopsDirect",
-        "name": "Refurbished HP 850 G7 Intel Core i7 10th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop",
-        "brand": "Refurbished",
-        "price": 159.67,
-        "price_str": "£159.67",
-        "ram": "16GB",
-        "storage": "256GB",
-        "screen_size": "15.6\"",
-        "processor": "Intel Core i7 10th",
-        "url": "https://www.laptopsdirect.co.uk/refurbished-hp-850-g7-intel-core-i7-10th-gen-16gb-ram-256gb-ssd-15.6-inch-w-t1-850g7i716gb256gbw11p/version.asp",
-        "product_text": "Refurbished HP 850 G7 Intel Core i7 10th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop Refurbished 16GB 256GB 15.6\" Intel Core i7 10th"
-      }
-    ]
-  },
+  
   {
     "cluster_id": "CLU_00055",
     "product_count": 1,
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 216.66,
+    "best_price": 649.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1451,8 +1402,8 @@
         "retailer": "LaptopsDirect",
         "name": "Samsung Galaxy Book4 Intel Core 7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "Samsung",
-        "price": 216.66,
-        "price_str": "£216.66",
+        "price": 649.97,
+        "price_str": "£649.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -1468,7 +1419,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 124.99,
+    "best_price": 374.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1476,8 +1427,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V14 G4 AMD Ryzen 5 8GB RAM 512GB SSD 14 Inch Windows 11 Laptop",
         "brand": "Lenovo",
-        "price": 124.99,
-        "price_str": "£124.99",
+        "price": 374.97,
+        "price_str": "£374.97",
         "ram": "8GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -1493,7 +1444,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 99.99,
+    "best_price": 299.97 ,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1501,8 +1452,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Lenovo ThinkPad T480 Intel Core i5 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 99.99,
-        "price_str": "£99.99",
+        "price": 299.97,
+        "price_str": "£299.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -1518,7 +1469,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 79.99,
+    "best_price": 249.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1526,8 +1477,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 5490 Intel Core i5 8th gen 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 79.99,
-        "price_str": "£79.99",
+        "price": 249.97,
+        "price_str": "£249.97",
         "ram": "8GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -1543,7 +1494,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 2000.0,
+    "best_price": 2429.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1551,8 +1502,8 @@
         "retailer": "LaptopsDirect",
         "name": "ASUS ROG Strix G18 Intel Core Ultra 9 32GB RAM 2TB SSD RTX 5070 Ti 240Hz 16 Inch Windows 11 Gaming Laptop",
         "brand": "ASUS",
-        "price": 2000.0,
-        "price_str": "£2000.00",
+        "price": 2429.97,
+        "price_str": "£2429.97",
         "ram": "32GB",
         "storage": "2TB",
         "screen_size": "16\"",
@@ -1568,7 +1519,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 383.32,
+    "best_price": 1149.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1576,8 +1527,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Apple MacBook Pro 16\" M2 16GB 512GB SSD - 2023 Space Grey",
         "brand": "Refurbished",
-        "price": 383.32,
-        "price_str": "£383.32",
+        "price": 1149.97,
+        "price_str": "£1149.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "",
@@ -1593,7 +1544,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 379.99,
+    "best_price": 1139.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1601,7 +1552,7 @@
         "retailer": "LaptopsDirect",
         "name": "HP Victus 15 fb2006na AMD Ryzen 7 16GB RAM 512GB SSD RTX 4060 144Hz 15.6 Inch Windows 11 Gaming Laptop",
         "brand": "HP",
-        "price": 379.99,
+        "price": 1139.97,
         "price_str": "£379.99",
         "ram": "16GB",
         "storage": "512GB",
@@ -1618,7 +1569,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 283.32,
+    "best_price": 849.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1626,8 +1577,8 @@
         "retailer": "LaptopsDirect",
         "name": "Dell Pro 16 Intel Core 5 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop",
         "brand": "Dell",
-        "price": 283.32,
-        "price_str": "£283.32",
+        "price": 849.97,
+        "price_str": "£849.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "16\"",
@@ -1643,7 +1594,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 349.99,
+    "best_price": 1094.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1651,8 +1602,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo ThinkPad E14 Gen 7 21SX Intel Core Ultra 7 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 349.99,
-        "price_str": "£349.99",
+        "price": 1094.97,
+        "price_str": "£1094.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -1668,7 +1619,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 243.32,
+    "best_price": 729.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1676,8 +1627,8 @@
         "retailer": "LaptopsDirect",
         "name": "Apple MacBook Air 13.6 Inch M2 16GB RAM 256GB SSD - Midnight",
         "brand": "Apple",
-        "price": 243.32,
-        "price_str": "£243.32",
+        "price": 729.97,
+        "price_str": "£729.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "13.6\"",
@@ -1693,7 +1644,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 159.99,
+    "best_price": 479.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1701,8 +1652,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V15 G4 Intel Core i5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 159.99,
-        "price_str": "£159.99",
+        "price": 479.9,
+        "price_str": "£479.9",
         "ram": "8GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -1718,7 +1669,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 233.32,
+    "best_price": 699.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1726,8 +1677,8 @@
         "retailer": "LaptopsDirect",
         "name": "HP 255 G9 AMD Ryzen 7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "HP",
-        "price": 233.32,
-        "price_str": "£233.32",
+        "price": 699.97,
+        "price_str": "£699.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -1743,7 +1694,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 123.32,
+    "best_price": 349.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1751,8 +1702,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished HP EliteBook 840 G7 Intel Core i5 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 123.32,
-        "price_str": "£123.32",
+        "price": 349.97,
+        "price_str": "£349.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -1768,7 +1719,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 311.66,
+    "best_price": 969.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1776,8 +1727,8 @@
         "retailer": "LaptopsDirect",
         "name": "Dell Latitude 3450 Intel Core i7 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Dell",
-        "price": 311.66,
-        "price_str": "£311.66",
+        "price": 969.97,
+        "price_str": "£969.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -1793,7 +1744,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 279.0,
+    "best_price": 329.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1801,8 +1752,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished HP EliteBook 840 G6 Intel Core i5 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 279.0,
-        "price_str": "£279.00",
+        "price": 329.97,
+        "price_str": "£329.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -1818,7 +1769,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 89.99,
+    "best_price": 269.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1826,8 +1777,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 5490 Intel Core i7 8th gen 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 89.99,
-        "price_str": "£89.99",
+        "price": 269.97,
+        "price_str": "£269.97",
         "ram": "8GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -1843,7 +1794,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 116.66,
+    "best_price": 339.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1851,8 +1802,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 5330 Core i5 12th gen 8GB RAM 256GB SSD 13.3 Inch Windows 11 Pro Touchscreen Convertible Laptop",
         "brand": "Refurbished",
-        "price": 116.66,
-        "price_str": "£116.66",
+        "price": 339.97,
+        "price_str": "£339.97",
         "ram": "8GB",
         "storage": "256GB",
         "screen_size": "13.3\"",
@@ -1862,38 +1813,14 @@
       }
     ]
   },
-  {
-    "cluster_id": "CLU_00072",
-    "product_count": 1,
-    "retailers": [
-      "LaptopsDirect"
-    ],
-    "best_price": 2000.0,
-    "best_retailer": "LaptopsDirect",
-    "products": [
-      {
-        "global_id": "PROD_00192",
-        "retailer": "LaptopsDirect",
-        "name": "ASUS ROG Strix G16 AMD Ryzen 9 32GB RAM 1TB SSD RTX 5070 Ti 165Hz 16 Inch Windows 11 Gaming Laptop",
-        "brand": "ASUS",
-        "price": 2000.0,
-        "price_str": "£2000.00",
-        "ram": "32GB",
-        "storage": "1TB",
-        "screen_size": "16\"",
-        "processor": "AMD Ryzen 9 32GB",
-        "url": "https://www.laptopsdirect.co.uk/asus-rog-strix-g16-amd-ryzen-9-32gb-ram-1tb-ssd-rtx-5070-ti-165hz-16-inch-w-g614pr-rv003w/version.asp",
-        "product_text": "ASUS ROG Strix G16 AMD Ryzen 9 32GB RAM 1TB SSD RTX 5070 Ti 165Hz 16 Inch Windows 11 Gaming Laptop ASUS 32GB 1TB 16\" AMD Ryzen 9 32GB"
-      }
-    ]
-  },
+
   {
     "cluster_id": "CLU_00073",
     "product_count": 1,
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 123.32,
+    "best_price": 369.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1901,8 +1828,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 5420 Core i7 11th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 123.32,
-        "price_str": "£123.32",
+        "price": 369.97,
+        "price_str": "£369.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -1918,7 +1845,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 123.32,
+    "best_price": 369.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1926,8 +1853,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Lenovo ThinkPad T590 Core i5 8th gen 16GB RAM 256GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 123.32,
-        "price_str": "£123.32",
+        "price": 369.97,
+        "price_str": "£369.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "15.6\"",
@@ -1943,7 +1870,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 99.99,
+    "best_price": 299.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1951,8 +1878,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 5490 Core i7 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 99.99,
-        "price_str": "£99.99",
+        "price": 299.97,
+        "price_str": "£299.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -1968,7 +1895,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 106.66,
+    "best_price": 319.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -1976,8 +1903,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Lenovo ThinkPad L14 Ryzen 5 Pro 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 106.66,
-        "price_str": "£106.66",
+        "price": 319.97,
+        "price_str": "£319.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -1993,7 +1920,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 133.32,
+    "best_price": 399.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2001,8 +1928,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished HP EliteBook 840 G7 Core i5 10th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 133.32,
-        "price_str": "£133.32",
+        "price": 399.97,
+        "price_str": "£399.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -2018,7 +1945,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 119.67,
+    "best_price": 359.00,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2026,8 +1953,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Lenovo ThinkPad T14 Intel Core i5 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 119.67,
-        "price_str": "£119.67",
+        "price": 359.00,
+        "price_str": "£359.00",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -2043,7 +1970,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 133.32,
+    "best_price": 369.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2051,8 +1978,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished HP EliteBook 840 G7 Intel Core i7 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 133.32,
-        "price_str": "£133.32",
+        "price": 369.97,
+        "price_str": "£369.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -2068,7 +1995,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 116.66,
+    "best_price": 349.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2076,8 +2003,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 7410 Core i5 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 116.66,
-        "price_str": "£116.66",
+        "price": 349.97,
+        "price_str": "£349.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -2093,7 +2020,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 116.66,
+    "best_price": 329.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2101,8 +2028,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 5410 Intel Core i7 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 116.66,
-        "price_str": "£116.66",
+        "price": 329.97,
+        "price_str": "£329.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -2118,7 +2045,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 116.33,
+    "best_price": 339.00,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2126,8 +2053,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished HP EliteBook 840 G6 Intel Core i7 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 116.33,
-        "price_str": "£116.33",
+        "price": 339.00,
+        "price_str": "£339.00",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -2143,7 +2070,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 113.32,
+    "best_price": 329.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2151,8 +2078,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 5410 Core i5 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 113.32,
-        "price_str": "£113.32",
+        "price": 329.97,
+        "price_str": "£329.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -2168,7 +2095,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 116.66,
+    "best_price": 349.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2176,8 +2103,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 7410 Core i7 10th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 116.66,
-        "price_str": "£116.66",
+        "price": 349.97,
+        "price_str": "£349.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -2193,7 +2120,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 116.66,
+    "best_price": 349.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2201,8 +2128,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Lenovo Thinkpad E14 Core i5 10th Gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 116.66,
-        "price_str": "£116.66",
+        "price": 349.97,
+        "price_str": "£349.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -2218,7 +2145,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 193.32,
+    "best_price": 579.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2226,8 +2153,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V15 G5 Intel Core i5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 193.32,
-        "price_str": "£193.32",
+        "price": 579.97,
+        "price_str": "£579.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -2243,7 +2170,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 163.32,
+    "best_price": 489.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2251,8 +2178,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V15 G5 Intel Core i5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "Lenovo",
-        "price": 163.32,
-        "price_str": "£163.32",
+        "price": 489.97,
+        "price_str": "£489.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -2268,7 +2195,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 629.98,
+    "best_price": 699.98,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2276,8 +2203,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V15 G4 Intel Core i7 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 629.98,
-        "price_str": "£629.98",
+        "price": 699.98,
+        "price_str": "£699.98",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -2293,7 +2220,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 179.99,
+    "best_price": 537.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2301,8 +2228,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V15 G4 AMD Ryzen 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 179.99,
-        "price_str": "£179.99",
+        "price": 537.97,
+        "price_str": "£537.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -2313,37 +2240,12 @@
     ]
   },
   {
-    "cluster_id": "CLU_00090",
-    "product_count": 1,
-    "retailers": [
-      "LaptopsDirect"
-    ],
-    "best_price": 143.32,
-    "best_retailer": "LaptopsDirect",
-    "products": [
-      {
-        "global_id": "PROD_00210",
-        "retailer": "LaptopsDirect",
-        "name": "Dell Inspiron 15 AMD Ryzen 5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
-        "brand": "Dell",
-        "price": 143.32,
-        "price_str": "£143.32",
-        "ram": "8GB",
-        "storage": "512GB",
-        "screen_size": "15.6\"",
-        "processor": "AMD Ryzen 5 8GB",
-        "url": "https://www.laptopsdirect.co.uk/dell-inspiron-15-amd-ryzen-5-8gb-ram-512gb-ssd-15.6-inch-windows-11-laptop-12k2h/version.asp",
-        "product_text": "Dell Inspiron 15 AMD Ryzen 5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop Dell 8GB 512GB 15.6\" AMD Ryzen 5 8GB"
-      }
-    ]
-  },
-  {
     "cluster_id": "CLU_00091",
     "product_count": 1,
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 216.66,
+    "best_price": 649.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2351,8 +2253,8 @@
         "retailer": "LaptopsDirect",
         "name": "Dell Pro 15 Essential Intel Core i5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "Dell",
-        "price": 216.66,
-        "price_str": "£216.66",
+        "price": 649.97,
+        "price_str": "£649.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -2368,7 +2270,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 291.66,
+    "best_price": 874.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2376,8 +2278,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo ThinkPad E16 Gen 3 21SR Intel Core Ultra 5 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 291.66,
-        "price_str": "£291.66",
+        "price": 874.97,
+        "price_str": "£874.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "16\"",
@@ -2393,7 +2295,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 83.32,
+    "best_price": 259.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2401,8 +2303,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 5400 Intel Core i5 8th gen 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 83.32,
-        "price_str": "£83.32",
+        "price": 259.97,
+        "price_str": "£259.97",
         "ram": "8GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -2418,7 +2320,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 239.99,
+    "best_price":719.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2426,8 +2328,8 @@
         "retailer": "LaptopsDirect",
         "name": "Apple MacBook Air 13 Inch M2 16GB RAM 256GB SSD - Starlight",
         "brand": "Apple",
-        "price": 239.99,
-        "price_str": "£239.99",
+        "price": 719.97,
+        "price_str": "£719.97",
         "ram": "16GB",
         "storage": "256GB",
         "screen_size": "13\"",
@@ -2443,7 +2345,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 133.32,
+    "best_price": 399.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2451,8 +2353,8 @@
         "retailer": "LaptopsDirect",
         "name": "HP 17-cp2009na AMD Ryzen 3 8GB RAM 512GB SSD 17.3 Inch Windows 11 Laptop",
         "brand": "HP",
-        "price": 133.32,
-        "price_str": "£133.32",
+        "price": 399.97,
+        "price_str": "£399.97",
         "ram": "8GB",
         "storage": "512GB",
         "screen_size": "17.3\"",
@@ -2468,7 +2370,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 289.99,
+    "best_price": 399.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2476,8 +2378,8 @@
         "retailer": "LaptopsDirect",
         "name": "ASUS ExpertBook P1 Intel Core i7 32GB RAM 1TB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "ASUS",
-        "price": 289.99,
-        "price_str": "£289.99",
+        "price": 399.97,
+        "price_str": "£399.97",
         "ram": "32GB",
         "storage": "1TB",
         "screen_size": "14\"",
@@ -2493,7 +2395,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 133.32,
+    "best_price": 399.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2501,8 +2403,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo IdeaPad 1 AMD Ryzen 5 16GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "Lenovo",
-        "price": 133.32,
-        "price_str": "£133.32",
+        "price": 399.97,
+        "price_str": "£399.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -2513,38 +2415,13 @@
     ]
   },
   {
-    "cluster_id": "CLU_00098",
-    "product_count": 1,
-    "retailers": [
-      "LaptopsDirect"
-    ],
-    "best_price": 319.97,
-    "best_retailer": "LaptopsDirect",
-    "products": [
-      {
-        "global_id": "PROD_00218",
-        "retailer": "LaptopsDirect",
-        "name": "Refurbished Dell Latitude 5490 Core i5 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
-        "brand": "Refurbished",
-        "price": 319.97,
-        "price_str": "£319.97",
-        "ram": "16GB",
-        "storage": "256GB",
-        "screen_size": "14\"",
-        "processor": "",
-        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-5490-core-i5-8th-gen-16gb-256gb-14-inch-windows-1-t2-5490i516gb256gbw10p/version.asp",
-        "product_text": "Refurbished Dell Latitude 5490 Core i5 8th gen 16GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop Refurbished 16GB 256GB 14\""
-      }
-    ]
-  },
-  {
     "cluster_id": "CLU_00099",
     "product_count": 2,
     "retailers": [
       "Argos",
       "LaptopsDirect"
     ],
-    "best_price": 139.99,
+    "best_price": 419.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2552,8 +2429,8 @@
         "retailer": "LaptopsDirect",
         "name": "HP 15-fd0062na Intel Core i5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Home Laptop",
         "brand": "HP",
-        "price": 139.99,
-        "price_str": "£139.99",
+        "price": 419.97,
+        "price_str": "£419.97",
         "ram": "8GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -2584,7 +2461,7 @@
       "Argos",
       "LaptopsDirect"
     ],
-    "best_price": 132.66,
+    "best_price": 397.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2592,8 +2469,8 @@
         "retailer": "LaptopsDirect",
         "name": "ASUS Vivobook 15 Intel Core 5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "ASUS",
-        "price": 132.66,
-        "price_str": "£132.66",
+        "price": 397.97,
+        "price_str": "£397.97",
         "ram": "8GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -2623,7 +2500,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 359.97,
+    "best_price": 399.00,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2631,8 +2508,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 7410 Intel Core i7 10th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop - Black",
         "brand": "Refurbished",
-        "price": 359.97,
-        "price_str": "£359.97",
+        "price": 399.00,
+        "price_str": "£399.00",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -2643,37 +2520,12 @@
     ]
   },
   {
-    "cluster_id": "CLU_00102",
-    "product_count": 1,
-    "retailers": [
-      "LaptopsDirect"
-    ],
-    "best_price": 399.0,
-    "best_retailer": "LaptopsDirect",
-    "products": [
-      {
-        "global_id": "PROD_00222",
-        "retailer": "LaptopsDirect",
-        "name": "Refurbished Dell Latitude 7410 Intel Core i7 10th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
-        "brand": "Refurbished",
-        "price": 399.0,
-        "price_str": "£399.00",
-        "ram": "16GB",
-        "storage": "512GB",
-        "screen_size": "14\"",
-        "processor": "Intel Core i7 10th",
-        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-latitude-7410-intel-core-i7-10th-gen-16gb-512gb-14-inch-wi-t2-7410i716gb512gbw11p/version.asp",
-        "product_text": "Refurbished Dell Latitude 7410 Intel Core i7 10th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop Refurbished 16GB 512GB 14\" Intel Core i7 10th"
-      }
-    ]
-  },
-  {
     "cluster_id": "CLU_00103",
     "product_count": 1,
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 141.66,
+    "best_price": 424.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2681,8 +2533,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V15 G4 Intel Core i5 8GB RAM 512GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "Lenovo",
-        "price": 141.66,
-        "price_str": "£141.66",
+        "price": 424.97,
+        "price_str": "£424.97",
         "ram": "8GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -2698,7 +2550,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 133.32,
+    "best_price": 399.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2706,8 +2558,8 @@
         "retailer": "LaptopsDirect",
         "name": "HP 15-fc0045na AMD Ryzen 3 7320U 8GB RAM 256GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "HP",
-        "price": 133.32,
-        "price_str": "£133.32",
+        "price": 399.97,
+        "price_str": "£399.97",
         "ram": "8GB",
         "storage": "256GB",
         "screen_size": "15.6\"",
@@ -2723,7 +2575,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 39.99,
+    "best_price": 119.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2731,8 +2583,8 @@
         "retailer": "LaptopsDirect",
         "name": "Entity Book Targa Intel Celeron 4GB RAM 128GB SSD 11.6 Inch Windows 11 Touchscreen Laptop",
         "brand": "Entity",
-        "price": 39.99,
-        "price_str": "£39.99",
+        "price": 119.97,
+        "price_str": "£119.97",
         "ram": "4GB",
         "storage": "128GB",
         "screen_size": "11.6\"",
@@ -2748,7 +2600,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 482.66,
+    "best_price": 1447.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2756,8 +2608,8 @@
         "retailer": "LaptopsDirect",
         "name": "Apple MacBook Pro 14 Inch M5 16GB RAM 512GB SSD - Space Black",
         "brand": "Apple",
-        "price": 482.66,
-        "price_str": "£482.66",
+        "price": 1447.97,
+        "price_str": "£1447.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -2773,7 +2625,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 66.66,
+    "best_price": 269.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2781,8 +2633,8 @@
         "retailer": "LaptopsDirect",
         "name": "Acer Aspire Lite Intel N150 4GB RAM 128GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "Acer",
-        "price": 66.66,
-        "price_str": "£66.66",
+        "price": 269.97,
+        "price_str": "£269.97",
         "ram": "4GB",
         "storage": "128GB",
         "screen_size": "15.6\"",
@@ -2798,7 +2650,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 349.99,
+    "best_price": 1049.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2806,8 +2658,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo ThinkPad E16 G3 Intel Core Ultra 7 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 349.99,
-        "price_str": "£349.99",
+        "price": 1049.97,
+        "price_str": "£1049.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "16\"",
@@ -2818,62 +2670,12 @@
     ]
   },
   {
-    "cluster_id": "CLU_00109",
-    "product_count": 1,
-    "retailers": [
-      "LaptopsDirect"
-    ],
-    "best_price": 126.66,
-    "best_retailer": "LaptopsDirect",
-    "products": [
-      {
-        "global_id": "PROD_00229",
-        "retailer": "LaptopsDirect",
-        "name": "Refurbished Dell Latitude 5510 Core i5 10th gen 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
-        "brand": "Refurbished",
-        "price": 126.66,
-        "price_str": "£126.66",
-        "ram": "16GB",
-        "storage": "512GB",
-        "screen_size": "15.6\"",
-        "processor": "Intel Core i5 10310U",
-        "url": "https://www.laptopsdirect.co.uk/refurbished-dell-5510-core-i5-10th-gen-16gb-ram-512gb-ssd-15.6-inch-windows-t1-5510i516gb512gbw11p/version.asp",
-        "product_text": "Refurbished Dell Latitude 5510 Core i5 10th gen 16GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop Refurbished 16GB 512GB 15.6\" Intel Core i5 10310U"
-      }
-    ]
-  },
-  {
-    "cluster_id": "CLU_00110",
-    "product_count": 1,
-    "retailers": [
-      "LaptopsDirect"
-    ],
-    "best_price": 333.32,
-    "best_retailer": "LaptopsDirect",
-    "products": [
-      {
-        "global_id": "PROD_00230",
-        "retailer": "LaptopsDirect",
-        "name": "MSI Katana 17 B13VEK-015UK Intel Core i7 16GB RAM 1TB SSD RTX 4050 144Hz 17.3 Inch Windows 11 Gaming Laptop",
-        "brand": "MSI",
-        "price": 333.32,
-        "price_str": "£333.32",
-        "ram": "16GB",
-        "storage": "1TB",
-        "screen_size": "17.3\"",
-        "processor": "Intel Core i7 16GB",
-        "url": "https://www.laptopsdirect.co.uk/msi-katana-17-intel-core-i7-13620h-16gb-1tb-ssd-geforce-rtx-4050-17.3-inch-9s7-17l541-015/version.asp",
-        "product_text": "MSI Katana 17 B13VEK-015UK Intel Core i7 16GB RAM 1TB SSD RTX 4050 144Hz 17.3 Inch Windows 11 Gaming Laptop MSI 16GB 1TB 17.3\" Intel Core i7 16GB"
-      }
-    ]
-  },
-  {
     "cluster_id": "CLU_00111",
     "product_count": 1,
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 183.32,
+    "best_price": 549.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2881,8 +2683,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V15 G4 Intel core i7 8GB RAM 512GB SSD 15.6 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 183.32,
-        "price_str": "£183.32",
+        "price": 549.97,
+        "price_str": "£549.97",
         "ram": "8GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -2898,7 +2700,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 159.99,
+    "best_price": 479.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2906,8 +2708,8 @@
         "retailer": "LaptopsDirect",
         "name": "HP 250 Intel Core i5 16GB 512GB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "HP",
-        "price": 159.99,
-        "price_str": "£159.99",
+        "price": 479.97,
+        "price_str": "£479.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "15.6\"",
@@ -2923,7 +2725,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 133.32,
+    "best_price": 399.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2931,8 +2733,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo V14 G4 ABP AMD Ryzen 5 8GB RAM 256GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 133.32,
-        "price_str": "£133.32",
+        "price": 399.97,
+        "price_str": "£399.97",
         "ram": "8GB",
         "storage": "256GB",
         "screen_size": "14\"",
@@ -2948,7 +2750,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 149.99,
+    "best_price": 449.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2956,8 +2758,8 @@
         "retailer": "LaptopsDirect",
         "name": "ASUS Vivobook 14 Copilot+ PC AMD Ryzen 5 AI 16GB RAM 512GB SSD 14 Inch Windows 11 Laptop",
         "brand": "ASUS",
-        "price": 149.99,
-        "price_str": "£149.99",
+        "price": 449.97,
+        "price_str": "£449.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -2973,7 +2775,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 133.32,
+    "best_price": 399.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -2981,8 +2783,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Lenovo ThinkPad T14 Intel Core i5 10th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 133.32,
-        "price_str": "£133.32",
+        "price": 399.97,
+        "price_str": "£399.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -2998,7 +2800,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 283.32,
+    "best_price": 817.16,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -3006,8 +2808,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo ThinkBook 14 G8 IRL Intel Core 7 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 283.32,
-        "price_str": "£283.32",
+        "price": 817.97,
+        "price_str": "£817.16",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "14\"",
@@ -3023,7 +2825,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 233.32,
+    "best_price": 799.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -3031,8 +2833,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished HP Zbook Studio G7 Intel Core i9 10th gen 32GB RAM 512GB SSD T2000 Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 233.32,
-        "price_str": "£233.32",
+        "price": 799.97,
+        "price_str": "£799.97",
         "ram": "32GB",
         "storage": "512GB",
         "screen_size": "",
@@ -3048,7 +2850,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 181.66,
+    "best_price": 549.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -3056,8 +2858,8 @@
         "retailer": "LaptopsDirect",
         "name": "Medion Akoya E15443 Intel Core Ultra 5 16GB RAM 1TB SSD 15.6 Inch Windows 11 Laptop",
         "brand": "Medion",
-        "price": 181.66,
-        "price_str": "£181.66",
+        "price": 549.97,
+        "price_str": "£549.97",
         "ram": "16GB",
         "storage": "1TB",
         "screen_size": "15.6\"",
@@ -3073,7 +2875,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 299.99,
+    "best_price": 899.99,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -3081,8 +2883,8 @@
         "retailer": "LaptopsDirect",
         "name": "Lenovo ThinkBook 16 G8 IAL Intel Core Ultra 7 16GB RAM 512GB SSD 16 Inch Windows 11 Pro Laptop",
         "brand": "Lenovo",
-        "price": 299.99,
-        "price_str": "£299.99",
+        "price": 899.99,
+        "price_str": "£899.99",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "16\"",
@@ -3098,7 +2900,7 @@
     "retailers": [
       "LaptopsDirect"
     ],
-    "best_price": 109.99,
+    "best_price": 349.97,
     "best_retailer": "LaptopsDirect",
     "products": [
       {
@@ -3106,8 +2908,8 @@
         "retailer": "LaptopsDirect",
         "name": "Refurbished Dell Latitude 7490 Intel Core i7 8th gen 16GB RAM 512GB SSD 14 Inch Windows 11 Pro Laptop",
         "brand": "Refurbished",
-        "price": 109.99,
-        "price_str": "£109.99",
+        "price": 349.97,
+        "price_str": "£349.97",
         "ram": "16GB",
         "storage": "512GB",
         "screen_size": "14\"",

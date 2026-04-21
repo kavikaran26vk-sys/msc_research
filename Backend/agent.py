@@ -770,7 +770,7 @@ class LaptopShoppingAgent:
         response = self.llm_with_tools.invoke(messages)
         return {"messages": [response]}
 
-    def route_after_assistant(self, state: LaptopAgentState) -> Literal["tools", END]:
+    def route_after_assistant(self, state: LaptopAgentState) -> Literal["tools", END]: # type: ignore
         last_message = state["messages"][-1]
         if hasattr(last_message, "tool_calls") and last_message.tool_calls:
             return "tools"
