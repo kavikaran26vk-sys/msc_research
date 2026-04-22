@@ -5,8 +5,8 @@ Follow the steps below to set up and run the project locally.
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-project-folder>
+git clone https://github.com/kavikaran26vk-sys/msc_research.git
+cd msc_research
 ```
 
 ## 2. Set Python Version
