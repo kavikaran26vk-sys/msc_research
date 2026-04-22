@@ -46,6 +46,7 @@ pip install -r requirements.txt
 ```
 
 ## 6. Run the Backend Server
+(before run create .env by refering .env.example)
 
 ```bash
 cd Backend
